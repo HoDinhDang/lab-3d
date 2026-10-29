@@ -1,105 +1,113 @@
-# Tongjiang Lab
+# Phòng thí nghiệm 3D — bản Việt hoá Tongjiang Lab
 
-English | [简体中文](README.zh-CN.md)
+**Bài giảng khoa học 3D tương tác, miễn phí cho THPT: Vật lý, Hoá học, Sinh học và Địa lý.**
 
-**Free, interactive 3D science lessons for high school — physics, chemistry, biology and geography.**
+👉 Dùng trực tuyến: **https://lab-3d-ashy.vercel.app**
 
-Try them online: **https://lab.tongjiang.app**
+Hiện có 54 bài. Mỗi bài là **một file HTML độc lập, khoảng 1 MB**: nhấp đúp để mở, chạy được khi không có mạng, trên máy chiếu hoặc bảng tương tác. Mỗi bài là một thế giới 3D có bảng điều khiển trực tiếp, câu hỏi dẫn dắt và lộ trình từng bước để giáo viên dạy từ đầu đến cuối.
 
-There are 54 lessons so far. Each one is a **single self-contained HTML file** of about 1 MB: double-click to open it, and it works offline, on a projector or on an interactive whiteboard. Every lesson is one 3D world with a live control console, a guiding question and a step-by-step path a teacher can follow from start to finish.
+Nội dung bám theo chương trình THPT và bộ SGK Nhân dân Giáo dục (PEP) 2019 của Trung Quốc. Toàn bộ giao diện và lời giảng đã được Việt hoá theo thuật ngữ SGK Việt Nam (chương trình GDPT 2018); tên chất hoá học dùng danh pháp IUPAC.
 
-The lessons follow the Chinese national curriculum standards for senior high school and the People's Education Press (PEP) 2019 textbooks. The lesson interface is currently in Chinese; other languages are planned.
+## Cách dùng
 
-## How to use
+- **Trực tuyến**: mở trang mục lục https://lab-3d-ashy.vercel.app, chọn môn học rồi chọn bài, hoặc bấm **▶ Mở bài** trong các bảng dưới đây.
+- **Không cần mạng**: tải repo về (**Code → Download ZIP**), giải nén, mở `index.html` hoặc một file trong `courses/` bằng Chrome hoặc Edge.
+- **Nhúng vào trang khác**: `<iframe src="https://lab-3d-ashy.vercel.app/courses/<slug>" width="100%" style="aspect-ratio:16/9;border:0" allow="fullscreen"></iframe>`
+- **Dữ liệu**: [`catalog.json`](catalog.json) liệt kê mọi bài kèm vị trí trong SGK và các bước.
+- **Thao tác trong bài**: kéo chuột để xoay, cuộn để phóng to/thu nhỏ; **F** toàn màn hình, **Q** làm bài kiểm tra, **1–9** nhảy tới bước.
 
-- **Online**: click **▶ Open lesson** in the tables below. GitHub only shows the source code of an HTML file, so use these links to see the lessons.
-- **Offline**: download all lessons as one zip from [Releases](https://github.com/smithjohn78390/tongjiang-lab/releases/latest), or download a single lesson from its page on https://lab.tongjiang.app, then open it in Chrome or Edge.
-- **Embed**: `<iframe src="https://lab.tongjiang.app/<slug>" width="100%" style="aspect-ratio:16/9;border:0" allow="fullscreen"></iframe>`
-- **Data**: [`catalog.json`](catalog.json) lists every lesson with its textbook location and steps.
+## Danh sách bài giảng
 
-## Lessons
 
-### Physics (10)
+### Vật lý (10)
 
-| Lesson | PEP 2019 textbook | Steps | Open | Source |
+| Bài học | SGK PEP 2019 | Số bước | Mở | Mã nguồn |
 |---|---|---|---|---|
-| [The Photoelectric Effect](https://lab.tongjiang.app/c/photoelectric-step/) | Elective Vol. 3, Ch. 4, Sec. 2 | 9 | [▶ Open lesson](https://lab.tongjiang.app/photoelectric-step) | [HTML](courses/photoelectric-step.html) |
-| [Observing Capacitor Charging and Discharging](https://lab.tongjiang.app/c/capacitor-step/) | Required Vol. 3, Ch. 10, Sec. 4 | 9 | [▶ Open lesson](https://lab.tongjiang.app/capacitor-step) | [HTML](courses/capacitor-step.html) |
-| [Experiment: Acceleration vs. Force and Mass](https://lab.tongjiang.app/c/accel-force-step/) | Required Vol. 1, Ch. 4, Sec. 2 | 8 | [▶ Open lesson](https://lab.tongjiang.app/accel-force-step) | [HTML](courses/accel-force-step.html) |
-| [Experiment: Verifying Conservation of Mechanical Energy](https://lab.tongjiang.app/c/energy-step/) | Required Vol. 2, Ch. 8, Sec. 5 | 8 | [▶ Open lesson](https://lab.tongjiang.app/energy-step) | [HTML](courses/energy-step.html) |
-| [Experiment: Exploring Projectile Motion](https://lab.tongjiang.app/c/projectile-step/) | Required Vol. 2, Ch. 5, Sec. 3 | 9 | [▶ Open lesson](https://lab.tongjiang.app/projectile-step) | [HTML](courses/projectile-step.html) |
-| [Centripetal Force vs. Radius, Angular Velocity and Mass](https://lab.tongjiang.app/c/centripetal-step/) | Required Vol. 2, Ch. 6, Sec. 2 | 8 | [▶ Open lesson](https://lab.tongjiang.app/centripetal-step) | [HTML](courses/centripetal-step.html) |
-| [Self-Induction and Eddy Currents](https://lab.tongjiang.app/c/self-induction-step/) | Elective Vol. 2, Ch. 2, Sec. 4 | 9 | [▶ Open lesson](https://lab.tongjiang.app/self-induction-step) | [HTML](courses/self-induction-step.html) |
-| [Measuring EMF and Internal Resistance](https://lab.tongjiang.app/c/emf-step/) | Required Vol. 3, Ch. 12, Sec. 3 | 9 | [▶ Open lesson](https://lab.tongjiang.app/emf-step) | [HTML](courses/emf-step.html) |
-| [Magnetic Field of an Electric Current](https://lab.tongjiang.app/c/current-field-step/) | Required Vol. 3, Ch. 13, Sec. 1 | 9 | [▶ Open lesson](https://lab.tongjiang.app/current-field-step) | [HTML](courses/current-field-step.html) |
-| [Brownian Motion and Diffusion](https://lab.tongjiang.app/c/brownian-step/) | Elective Vol. 3, Ch. 1, Sec. 1 | 9 | [▶ Open lesson](https://lab.tongjiang.app/brownian-step) | [HTML](courses/brownian-step.html) |
+| [Hiệu ứng quang điện](https://lab-3d-ashy.vercel.app/courses/photoelectric-step) | Tự chọn bắt buộc 3, Chương 4, Bài 2 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/photoelectric-step) | [HTML](courses/photoelectric-step.html) |
+| [Quan sát sự tích điện và phóng điện của tụ điện](https://lab-3d-ashy.vercel.app/courses/capacitor-step) | Bắt buộc – Tập 3, Chương 10, Bài 4 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/capacitor-step) | [HTML](courses/capacitor-step.html) |
+| [Thí nghiệm: Tìm hiểu mối liên hệ giữa gia tốc với lực và khối lượng](https://lab-3d-ashy.vercel.app/courses/accel-force-step) | Bắt buộc – Tập 1, Chương 4, Bài 2 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/accel-force-step) | [HTML](courses/accel-force-step.html) |
+| [Thí nghiệm: Kiểm chứng định luật bảo toàn cơ năng](https://lab-3d-ashy.vercel.app/courses/energy-step) | Bắt buộc – Tập 2, Chương 8, Bài 5 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/energy-step) | [HTML](courses/energy-step.html) |
+| [Thí nghiệm: Tìm hiểu đặc điểm của chuyển động ném ngang](https://lab-3d-ashy.vercel.app/courses/projectile-step) | Bắt buộc – Tập 2, Chương 5, Bài 3 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/projectile-step) | [HTML](courses/projectile-step.html) |
+| [Tìm hiểu mối liên hệ giữa độ lớn lực hướng tâm với bán kính, tốc độ góc và khối lượng](https://lab-3d-ashy.vercel.app/courses/centripetal-step) | Bắt buộc – Tập 2, Chương 6, Bài 2 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/centripetal-step) | [HTML](courses/centripetal-step.html) |
+| [Tự cảm và dòng Foucault](https://lab-3d-ashy.vercel.app/courses/self-induction-step) | Tự chọn bắt buộc 2, Chương 2, Bài 4 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/self-induction-step) | [HTML](courses/self-induction-step.html) |
+| [Đo suất điện động và điện trở trong của nguồn điện](https://lab-3d-ashy.vercel.app/courses/emf-step) | Bắt buộc – Tập 3, Chương 12, Bài 3 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/emf-step) | [HTML](courses/emf-step.html) |
+| [Từ trường của dòng điện](https://lab-3d-ashy.vercel.app/courses/current-field-step) | Bắt buộc – Tập 3, Chương 13, Bài 1 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/current-field-step) | [HTML](courses/current-field-step.html) |
+| [Chuyển động Brown và sự khuếch tán](https://lab-3d-ashy.vercel.app/courses/brownian-step) | Tự chọn bắt buộc 3, Chương 1, Bài 1 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/brownian-step) | [HTML](courses/brownian-step.html) |
 
-### Chemistry (25)
+### Hoá học (25)
 
-| Lesson | PEP 2019 textbook | Steps | Open | Source |
+| Bài học | SGK PEP 2019 | Số bước | Mở | Mã nguồn |
 |---|---|---|---|---|
-| [Industrial Ammonia Synthesis (Haber Process)](https://lab.tongjiang.app/c/haber-step/) | Elective Vol. 1, Ch. 2, Sec. 4 | 7 | [▶ Open lesson](https://lab.tongjiang.app/haber-step) | [HTML](courses/haber-step.html) |
-| [Factors Affecting Reaction Rate](https://lab.tongjiang.app/c/rate-step/) | Required Vol. 2, Ch. 6 | 8 | [▶ Open lesson](https://lab.tongjiang.app/rate-step) | [HTML](courses/rate-step.html) |
-| [Ball-and-Stick Models of Organic Molecules](https://lab.tongjiang.app/c/ball-stick-step/) | Required Vol. 2, Ch. 7 | 9 | [▶ Open lesson](https://lab.tongjiang.app/ball-stick-step) | [HTML](courses/ball-stick-step.html) |
-| [Strong Acid–Strong Base Titration](https://lab.tongjiang.app/c/titration-step/) | Elective Vol. 1, Ch. 3, Sec. 2 | 9 | [▶ Open lesson](https://lab.tongjiang.app/titration-step) | [HTML](courses/titration-step.html) |
-| [Preparation and Properties of Chlorine](https://lab.tongjiang.app/c/chlorine-step/) | Required Vol. 1, Ch. 2, Sec. 2 | 9 | [▶ Open lesson](https://lab.tongjiang.app/chlorine-step) | [HTML](courses/chlorine-step.html) |
-| [Ironmaking in a Blast Furnace](https://lab.tongjiang.app/c/blast-furnace-step/) | Required Vol. 2, Ch. 8, Sec. 1 | 8 | [▶ Open lesson](https://lab.tongjiang.app/blast-furnace-step) | [HTML](courses/blast-furnace-step.html) |
-| [Metal Smelting: Molten-Salt Electrolysis and the Thermite Reaction](https://lab.tongjiang.app/c/smelting-step/) | Required Vol. 2, Ch. 8, Sec. 1 | 8 | [▶ Open lesson](https://lab.tongjiang.app/smelting-step) | [HTML](courses/smelting-step.html) |
-| [Coal Utilization: Coal Gasification](https://lab.tongjiang.app/c/coal-gas-step/) | Required Vol. 2, Ch. 8, Sec. 1 | 8 | [▶ Open lesson](https://lab.tongjiang.app/coal-gas-step) | [HTML](courses/coal-gas-step.html) |
-| [Sulfuric Acid by the Contact Process](https://lab.tongjiang.app/c/sulfuric-step/) | Required Vol. 2, Ch. 5, Sec. 1 | 7 | [▶ Open lesson](https://lab.tongjiang.app/sulfuric-step) | [HTML](courses/sulfuric-step.html) |
-| [Hydrolysis of Salts and Its Applications](https://lab.tongjiang.app/c/hydrolysis-step/) | Elective Vol. 1, Ch. 3, Sec. 3 | 9 | [▶ Open lesson](https://lab.tongjiang.app/hydrolysis-step) | [HTML](courses/hydrolysis-step.html) |
-| [Industrial Cement Production](https://lab.tongjiang.app/c/cement-step/) | Required Vol. 2, Ch. 5, Sec. 3 | 8 | [▶ Open lesson](https://lab.tongjiang.app/cement-step) | [HTML](courses/cement-step.html) |
-| [Iron and Its Compounds: Changing Oxidation States](https://lab.tongjiang.app/c/iron-step/) | Required Vol. 1, Ch. 3, Sec. 1 | 9 | [▶ Open lesson](https://lab.tongjiang.app/iron-step) | [HTML](courses/iron-step.html) |
-| [Principles of Electrolysis: CuCl₂ Solution and Brine](https://lab.tongjiang.app/c/electrolysis-step/) | Elective Vol. 1, Ch. 4, Sec. 2 | 9 | [▶ Open lesson](https://lab.tongjiang.app/electrolysis-step) | [HTML](courses/electrolysis-step.html) |
-| [Preparation and Properties of Ammonia (Fountain Experiment)](https://lab.tongjiang.app/c/ammonia-step/) | Required Vol. 2, Ch. 5, Sec. 2 | 9 | [▶ Open lesson](https://lab.tongjiang.app/ammonia-step) | [HTML](courses/ammonia-step.html) |
-| [Factors That Shift Chemical Equilibrium](https://lab.tongjiang.app/c/equilibrium-step/) | Elective Vol. 1, Ch. 2 | 9 | [▶ Open lesson](https://lab.tongjiang.app/equilibrium-step) | [HTML](courses/equilibrium-step.html) |
-| [Flame Tests and Atomic Spectra](https://lab.tongjiang.app/c/flame-step/) | Required Vol. 1, Ch. 2, Sec. 1 | 8 | [▶ Open lesson](https://lab.tongjiang.app/flame-step) | [HTML](courses/flame-step.html) |
-| [Galvanic Cells: From One Electrolyte to Two](https://lab.tongjiang.app/c/galvanic-step/) | Required Vol. 2, Ch. 6, Sec. 1 | 9 | [▶ Open lesson](https://lab.tongjiang.app/galvanic-step) | [HTML](courses/galvanic-step.html) |
-| [Ionization, Solution Conductivity and Ionic Reactions](https://lab.tongjiang.app/c/conductivity-step/) | Required Vol. 1, Ch. 1, Sec. 2 | 9 | [▶ Open lesson](https://lab.tongjiang.app/conductivity-step) | [HTML](courses/conductivity-step.html) |
-| [Concentrated and Dilute Nitric Acid; Nitrogen Oxides](https://lab.tongjiang.app/c/nitric-lab-step/) | Required Vol. 2, Ch. 5, Sec. 2 | 9 | [▶ Open lesson](https://lab.tongjiang.app/nitric-lab-step) | [HTML](courses/nitric-lab-step.html) |
-| [Bromine from Seawater: The Air Blow-Out Process](https://lab.tongjiang.app/c/bromine-step/) | Required Vol. 2, Ch. 8, Sec. 1 | 7 | [▶ Open lesson](https://lab.tongjiang.app/bromine-step) | [HTML](courses/bromine-step.html) |
-| [Properties of Sodium (and Putting Out Sodium Fires)](https://lab.tongjiang.app/c/sodium-step/) | Required Vol. 1, Ch. 2, Sec. 1 | 9 | [▶ Open lesson](https://lab.tongjiang.app/sodium-step) | [HTML](courses/sodium-step.html) |
-| [Sulfur, SO₂ and Sulfuric Acid: Converting Between Oxidation States](https://lab.tongjiang.app/c/sulfur-step/) | Required Vol. 2, Ch. 5, Sec. 1 | 9 | [▶ Open lesson](https://lab.tongjiang.app/sulfur-step) | [HTML](courses/sulfur-step.html) |
-| [Oxygen-Absorption Corrosion and Designing a Hand Warmer](https://lab.tongjiang.app/c/corrosion-step/) | Elective Vol. 1, Ch. 4, Sec. 3 | 9 | [▶ Open lesson](https://lab.tongjiang.app/corrosion-step) | [HTML](courses/corrosion-step.html) |
-| [The Chlor-Alkali Industry](https://lab.tongjiang.app/c/chlor-alkali-step/) | Elective Vol. 1, Ch. 4, Sec. 2 | 8 | [▶ Open lesson](https://lab.tongjiang.app/chlor-alkali-step) | [HTML](courses/chlor-alkali-step.html) |
-| [Hou's Soda Process](https://lab.tongjiang.app/c/hou-soda-step/) | Required Vol. 1, Ch. 2, Sec. 1 | 8 | [▶ Open lesson](https://lab.tongjiang.app/hou-soda-step) | [HTML](courses/hou-soda-step.html) |
+| [Tổng hợp ammonia](https://lab-3d-ashy.vercel.app/courses/haber-step) | Tự chọn bắt buộc 1, Chương 2, Bài 4 | 7 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/haber-step) | [HTML](courses/haber-step.html) |
+| [Các yếu tố ảnh hưởng đến tốc độ phản ứng hoá học](https://lab-3d-ashy.vercel.app/courses/rate-step) | Bắt buộc – Tập 2, Chương 6 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/rate-step) | [HTML](courses/rate-step.html) |
+| [Lắp mô hình rỗng (quả cầu – que) tìm hiểu cấu trúc phân tử hợp chất hữu cơ](https://lab-3d-ashy.vercel.app/courses/ball-stick-step) | Bắt buộc – Tập 2, Chương 7 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/ball-stick-step) | [HTML](courses/ball-stick-step.html) |
+| [Chuẩn độ acid mạnh bằng base mạnh](https://lab-3d-ashy.vercel.app/courses/titration-step) | Tự chọn bắt buộc 1, Chương 3, Bài 2 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/titration-step) | [HTML](courses/titration-step.html) |
+| [Điều chế và tính chất của chlorine](https://lab-3d-ashy.vercel.app/courses/chlorine-step) | Bắt buộc – Tập 1, Chương 2, Bài 2 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/chlorine-step) | [HTML](courses/chlorine-step.html) |
+| [Luyện gang lò cao](https://lab-3d-ashy.vercel.app/courses/blast-furnace-step) | Bắt buộc – Tập 2, Chương 8, Bài 1 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/blast-furnace-step) | [HTML](courses/blast-furnace-step.html) |
+| [Luyện kim: điện phân muối nóng chảy + nhiệt nhôm](https://lab-3d-ashy.vercel.app/courses/smelting-step) | Bắt buộc – Tập 2, Chương 8, Bài 1 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/smelting-step) | [HTML](courses/smelting-step.html) |
+| [Sử dụng tổng hợp than đá: lấy khí hoá than làm mạch chính](https://lab-3d-ashy.vercel.app/courses/coal-gas-step) | Bắt buộc – Tập 2, Chương 8, Bài 1 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/coal-gas-step) | [HTML](courses/coal-gas-step.html) |
+| [Điều chế H₂SO₄ (PP tiếp xúc)](https://lab-3d-ashy.vercel.app/courses/sulfuric-step) | Bắt buộc – Tập 2, Chương 5, Bài 1 | 7 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/sulfuric-step) | [HTML](courses/sulfuric-step.html) |
+| [Sự thuỷ phân của muối và ứng dụng](https://lab-3d-ashy.vercel.app/courses/hydrolysis-step) | Tự chọn bắt buộc 1, Chương 3, Bài 3 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/hydrolysis-step) | [HTML](courses/hydrolysis-step.html) |
+| [Sản xuất xi măng](https://lab-3d-ashy.vercel.app/courses/cement-step) | Bắt buộc – Tập 2, Chương 5, Bài 3 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/cement-step) | [HTML](courses/cement-step.html) |
+| [Sắt và hợp chất: chuyển hoá giữa các số oxi hoá của sắt](https://lab-3d-ashy.vercel.app/courses/iron-step) | Bắt buộc – Tập 1, Chương 3, Bài 1 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/iron-step) | [HTML](courses/iron-step.html) |
+| [Nguyên lý điện phân: điện phân dung dịch copper(II) chloride và dung dịch muối ăn bão hoà](https://lab-3d-ashy.vercel.app/courses/electrolysis-step) | Tự chọn bắt buộc 1, Chương 4, Bài 2 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/electrolysis-step) | [HTML](courses/electrolysis-step.html) |
+| [Điều chế và tính chất của ammonia (gồm thí nghiệm “đài phun”)](https://lab-3d-ashy.vercel.app/courses/ammonia-step) | Bắt buộc – Tập 2, Chương 5, Bài 2 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/ammonia-step) | [HTML](courses/ammonia-step.html) |
+| [Tìm hiểu các yếu tố ảnh hưởng đến chuyển dịch cân bằng hoá học](https://lab-3d-ashy.vercel.app/courses/equilibrium-step) | Tự chọn bắt buộc 1, Chương 2 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/equilibrium-step) | [HTML](courses/equilibrium-step.html) |
+| [Thử màu ngọn lửa và quang phổ nguyên tử](https://lab-3d-ashy.vercel.app/courses/flame-step) | Bắt buộc – Tập 1, Chương 2, Bài 1 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/flame-step) | [HTML](courses/flame-step.html) |
+| [Pin điện hoá: từ một dung dịch đến hai dung dịch](https://lab-3d-ashy.vercel.app/courses/galvanic-step) | Bắt buộc – Tập 2, Chương 6, Bài 1 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/galvanic-step) | [HTML](courses/galvanic-step.html) |
+| [Sự điện li của chất điện li, tính dẫn điện của dung dịch và bản chất của phản ứng ion](https://lab-3d-ashy.vercel.app/courses/conductivity-step) | Bắt buộc – Tập 1, Chương 1, Bài 2 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/conductivity-step) | [HTML](courses/conductivity-step.html) |
+| [Tính chất của nitric acid đặc, loãng và sự chuyển hoá các oxide của nitrogen](https://lab-3d-ashy.vercel.app/courses/nitric-lab-step) | Bắt buộc – Tập 2, Chương 5, Bài 2 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/nitric-lab-step) | [HTML](courses/nitric-lab-step.html) |
+| [Tách bromine từ nước biển: phương pháp thổi khí](https://lab-3d-ashy.vercel.app/courses/bromine-step) | Bắt buộc – Tập 2, Chương 8, Bài 1 | 7 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/bromine-step) | [HTML](courses/bromine-step.html) |
+| [Tính chất của kim loại sodium (gồm cách dập cháy sodium)](https://lab-3d-ashy.vercel.app/courses/sodium-step) | Bắt buộc – Tập 1, Chương 2, Bài 1 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/sodium-step) | [HTML](courses/sodium-step.html) |
+| [Tính chất của sulfur, sulfur dioxide, sulfuric acid đặc và sự chuyển hoá giữa các chất chứa sulfur có số oxi hoá khác nhau](https://lab-3d-ashy.vercel.app/courses/sulfur-step) | Bắt buộc – Tập 2, Chương 5, Bài 1 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/sulfur-step) | [HTML](courses/sulfur-step.html) |
+| [Ăn mòn hấp thụ oxygen và thiết kế miếng dán giữ nhiệt](https://lab-3d-ashy.vercel.app/courses/corrosion-step) | Tự chọn bắt buộc 1, Chương 4, Bài 3 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/corrosion-step) | [HTML](courses/corrosion-step.html) |
+| [Công nghiệp chlor-kiềm](https://lab-3d-ashy.vercel.app/courses/chlor-alkali-step) | Tự chọn bắt buộc 1, Chương 4, Bài 2 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/chlor-alkali-step) | [HTML](courses/chlor-alkali-step.html) |
+| [Phương pháp Hầu Đức Bảng](https://lab-3d-ashy.vercel.app/courses/hou-soda-step) | Bắt buộc – Tập 1, Chương 2, Bài 1 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/hou-soda-step) | [HTML](courses/hou-soda-step.html) |
 
-### Biology (5)
+### Sinh học (5)
 
-| Lesson | PEP 2019 textbook | Steps | Open | Source |
+| Bài học | SGK PEP 2019 | Số bước | Mở | Mã nguồn |
 |---|---|---|---|---|
-| [Water Uptake and Loss in Plant Cells](https://lab.tongjiang.app/c/plasmolysis-step/) | Required Vol. 1, Ch. 4, Sec. 1 | 8 | [▶ Open lesson](https://lab.tongjiang.app/plasmolysis-step) | [HTML](courses/plasmolysis-step.html) |
-| [Transport Across Cell Membranes](https://lab.tongjiang.app/c/transport-step/) | Required Vol. 1, Ch. 4 | 8 | [▶ Open lesson](https://lab.tongjiang.app/transport-step) | [HTML](courses/transport-step.html) |
-| [Generation and Conduction of Nerve Impulses](https://lab.tongjiang.app/c/impulse-step/) | Elective Vol. 1, Ch. 2, Sec. 3 | 9 | [▶ Open lesson](https://lab.tongjiang.app/impulse-step) | [HTML](courses/impulse-step.html) |
-| [Observing Mitosis in Root-Tip Meristem Cells](https://lab.tongjiang.app/c/mitosis-step/) | Required Vol. 1, Ch. 6, Sec. 1 | 9 | [▶ Open lesson](https://lab.tongjiang.app/mitosis-step) | [HTML](courses/mitosis-step.html) |
-| [Conditions Affecting Enzyme Activity](https://lab.tongjiang.app/c/enzyme-step/) | Required Vol. 1, Ch. 5, Sec. 1 | 8 | [▶ Open lesson](https://lab.tongjiang.app/enzyme-step) | [HTML](courses/enzyme-step.html) |
+| [Sự hút nước và mất nước của tế bào thực vật](https://lab-3d-ashy.vercel.app/courses/plasmolysis-step) | Bắt buộc – Tập 1, Chương 4, Bài 1 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/plasmolysis-step) | [HTML](courses/plasmolysis-step.html) |
+| [Vận chuyển qua màng](https://lab-3d-ashy.vercel.app/courses/transport-step) | Bắt buộc – Tập 1, Chương 4 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/transport-step) | [HTML](courses/transport-step.html) |
+| [Sự phát sinh và dẫn truyền xung thần kinh](https://lab-3d-ashy.vercel.app/courses/impulse-step) | Tự chọn bắt buộc 1, Chương 2, Bài 3 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/impulse-step) | [HTML](courses/impulse-step.html) |
+| [Quan sát nguyên phân ở tế bào mô phân sinh đầu rễ](https://lab-3d-ashy.vercel.app/courses/mitosis-step) | Bắt buộc – Tập 1, Chương 6, Bài 1 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/mitosis-step) | [HTML](courses/mitosis-step.html) |
+| [Các điều kiện ảnh hưởng đến hoạt tính enzyme](https://lab-3d-ashy.vercel.app/courses/enzyme-step) | Bắt buộc – Tập 1, Chương 5, Bài 1 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/enzyme-step) | [HTML](courses/enzyme-step.html) |
 
-### Geography (14)
+### Địa lý (14)
 
-| Lesson | PEP 2019 textbook | Steps | Open | Source |
+| Bài học | SGK PEP 2019 | Số bước | Mở | Mã nguồn |
 |---|---|---|---|---|
-| [Development of River Landforms](https://lab.tongjiang.app/c/river-step/) | Elective Vol. 1, Ch. 2, Sec. 3 | 8 | [▶ Open lesson](https://lab.tongjiang.app/river-step) | [HTML](courses/river-step.html) |
-| [Migration of the Subsolar Point: Seasons and Climate Zones](https://lab.tongjiang.app/c/insolation-step/) | Elective Vol. 1, Ch. 1, Sec. 2 | 9 | [▶ Open lesson](https://lab.tongjiang.app/insolation-step) | [HTML](courses/insolation-step.html) |
-| [World Ocean Currents: Patterns and Effects](https://lab.tongjiang.app/c/currents-step/) | Elective Vol. 1, Ch. 4, Sec. 2 | 9 | [▶ Open lesson](https://lab.tongjiang.app/currents-step) | [HTML](courses/currents-step.html) |
-| [Ocean–Atmosphere Interaction: El Niño and La Niña](https://lab.tongjiang.app/c/enso-step/) | Elective Vol. 1, Ch. 4, Sec. 3 | 7 | [▶ Open lesson](https://lab.tongjiang.app/enso-step) | [HTML](courses/enso-step.html) |
-| [How the Atmosphere Is Heated](https://lab.tongjiang.app/c/heating-step/) | Required Vol. 1, Ch. 2, Sec. 2 | 9 | [▶ Open lesson](https://lab.tongjiang.app/heating-step) | [HTML](courses/heating-step.html) |
-| [Formation and Recognition of Karst Landforms](https://lab.tongjiang.app/c/karst-step/) | Required Vol. 1, Ch. 4, Sec. 1 | 7 | [▶ Open lesson](https://lab.tongjiang.app/karst-step) | [HTML](courses/karst-step.html) |
-| [Global Climate Change and National Security](https://lab.tongjiang.app/c/carbon-step/) | Elective Vol. 3, Ch. 3, Sec. 4 | 8 | [▶ Open lesson](https://lab.tongjiang.app/carbon-step) | [HTML](courses/carbon-step.html) |
-| [Formation of Tectonic Landforms](https://lab.tongjiang.app/c/tectonic-step/) | Elective Vol. 1, Ch. 2, Sec. 2 | 6 | [▶ Open lesson](https://lab.tongjiang.app/tectonic-step) | [HTML](courses/tectonic-step.html) |
-| [Geographic Significance of Earth's Motions](https://lab.tongjiang.app/c/earth-motion-step/) | Elective Vol. 1, Ch. 1, Sec. 2 | 9 | [▶ Open lesson](https://lab.tongjiang.app/earth-motion-step) | [HTML](courses/earth-motion-step.html) |
-| [Soil-Forming Factors and Soil Profiles](https://lab.tongjiang.app/c/soil-step/) | Required Vol. 1, Ch. 5, Sec. 2 | 8 | [▶ Open lesson](https://lab.tongjiang.app/soil-step) | [HTML](courses/soil-step.html) |
-| [Thermal Circulation](https://lab.tongjiang.app/c/thermal-step/) | Required Vol. 1, Ch. 2, Sec. 2 | 9 | [▶ Open lesson](https://lab.tongjiang.app/thermal-step) | [HTML](courses/thermal-step.html) |
-| [Horizontal Motion of the Atmosphere: Wind](https://lab.tongjiang.app/c/wind-step/) | Required Vol. 1, Ch. 2, Sec. 2 | 8 | [▶ Open lesson](https://lab.tongjiang.app/wind-step) | [HTML](courses/wind-step.html) |
-| [The Water Cycle and Its Geographic Significance](https://lab.tongjiang.app/c/water-cycle-step/) | Required Vol. 1, Ch. 3, Sec. 1 | 9 | [▶ Open lesson](https://lab.tongjiang.app/water-cycle-step) | [HTML](courses/water-cycle-step.html) |
-| [Pressure Belts, Wind Belts and the Three-Cell Circulation](https://lab.tongjiang.app/c/circulation-step/) | Elective Vol. 1, Ch. 3, Sec. 2 | 7 | [▶ Open lesson](https://lab.tongjiang.app/circulation-step) | [HTML](courses/circulation-step.html) |
+| [Sự phát triển của địa hình sông](https://lab-3d-ashy.vercel.app/courses/river-step) | Tự chọn bắt buộc 1, Chương 2, Bài 3 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/river-step) | [HTML](courses/river-step.html) |
+| [Chuyển động biểu kiến của điểm Mặt Trời lên thiên đỉnh, bốn mùa và năm vành đai nhiệt](https://lab-3d-ashy.vercel.app/courses/insolation-step) | Tự chọn bắt buộc 1, Chương 1, Bài 2 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/insolation-step) | [HTML](courses/insolation-step.html) |
+| [Quy luật phân bố và ảnh hưởng của các dòng biển trên thế giới](https://lab-3d-ashy.vercel.app/courses/currents-step) | Tự chọn bắt buộc 1, Chương 4, Bài 2 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/currents-step) | [HTML](courses/currents-step.html) |
+| [Tương tác biển – khí quyển và El Niño, La Niña](https://lab-3d-ashy.vercel.app/courses/enso-step) | Tự chọn bắt buộc 1, Chương 4, Bài 3 | 7 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/enso-step) | [HTML](courses/enso-step.html) |
+| [Khí quyển nhận nhiệt](https://lab-3d-ashy.vercel.app/courses/heating-step) | Bắt buộc – Tập 1, Chương 2, Bài 2 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/heating-step) | [HTML](courses/heating-step.html) |
+| [Sự hình thành và nhận biết địa hình các-xtơ](https://lab-3d-ashy.vercel.app/courses/karst-step) | Bắt buộc – Tập 1, Chương 4, Bài 1 | 7 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/karst-step) | [HTML](courses/karst-step.html) |
+| [Biến đổi khí hậu toàn cầu và an ninh quốc gia](https://lab-3d-ashy.vercel.app/courses/carbon-step) | Tự chọn bắt buộc 3, Chương 3, Bài 4 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/carbon-step) | [HTML](courses/carbon-step.html) |
+| [Sự hình thành địa hình kiến tạo](https://lab-3d-ashy.vercel.app/courses/tectonic-step) | Tự chọn bắt buộc 1, Chương 2, Bài 2 | 6 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/tectonic-step) | [HTML](courses/tectonic-step.html) |
+| [Hệ quả địa lý của các chuyển động của Trái Đất](https://lab-3d-ashy.vercel.app/courses/earth-motion-step) | Tự chọn bắt buộc 1, Chương 1, Bài 2 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/earth-motion-step) | [HTML](courses/earth-motion-step.html) |
+| [Các nhân tố hình thành đất và quan sát phẫu diện đất](https://lab-3d-ashy.vercel.app/courses/soil-step) | Bắt buộc – Tập 1, Chương 5, Bài 2 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/soil-step) | [HTML](courses/soil-step.html) |
+| [Hoàn lưu nhiệt](https://lab-3d-ashy.vercel.app/courses/thermal-step) | Bắt buộc – Tập 1, Chương 2, Bài 2 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/thermal-step) | [HTML](courses/thermal-step.html) |
+| [Chuyển động ngang của không khí – gió](https://lab-3d-ashy.vercel.app/courses/wind-step) | Bắt buộc – Tập 1, Chương 2, Bài 2 | 8 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/wind-step) | [HTML](courses/wind-step.html) |
+| [Quá trình và ý nghĩa địa lý của vòng tuần hoàn nước](https://lab-3d-ashy.vercel.app/courses/water-cycle-step) | Bắt buộc – Tập 1, Chương 3, Bài 1 | 9 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/water-cycle-step) | [HTML](courses/water-cycle-step.html) |
+| [Đai khí áp, đới gió và hoàn lưu ba vòng](https://lab-3d-ashy.vercel.app/courses/circulation-step) | Tự chọn bắt buộc 1, Chương 3, Bài 2 | 7 | [▶ Mở bài](https://lab-3d-ashy.vercel.app/courses/circulation-step) | [HTML](courses/circulation-step.html) |
 
-## License
+## Cấu trúc thư mục
 
-- Lessons, covers and catalog are licensed under **[CC BY-NC 4.0](LICENSE)**. You may use, share and adapt them for non-commercial purposes, with credit to “Tongjiang Lab (https://lab.tongjiang.app)”.
-- Third-party code bundled in the lessons (three.js, MIT) keeps its own license. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
-- Not affiliated with People's Education Press.
+| Đường dẫn | Nội dung |
+|---|---|
+| `index.html` | Trang mục lục, phân chia theo môn học |
+| `courses/` | 54 bài giảng, mỗi bài một file HTML |
+| `covers/` | Ảnh bìa các bài |
+| `catalog.json` | Danh mục bài giảng (tiếng Việt) |
+| `_viethoa/` | Công cụ Việt hoá: script tách/ghép chuỗi, bảng thuật ngữ `glossary.md`, bản dịch trong `out/` |
 
-## Author
+## Giấy phép và ghi nguồn
 
-**Tongjiang (铜匠十点睡觉)** builds 3D visualizations for education, digital twins and factory demos.
-Follow on X: [@CopperForgeAI](https://x.com/CopperForgeAI). Found a mistake? Open an issue or send a DM on X.
+- Đây là **bản Việt hoá có chỉnh sửa** của [Tongjiang Lab](https://lab.tongjiang.app) do Tongjiang (铜匠十点睡觉) xây dựng. Bản gốc tiếng Anh của README xem ở [README.en.md](README.en.md).
+- Bài giảng, ảnh bìa và danh mục theo giấy phép **[CC BY-NC 4.0](LICENSE)**: được dùng, chia sẻ và chỉnh sửa cho mục đích **phi thương mại**, phải ghi nguồn “Tongjiang Lab (https://lab.tongjiang.app)”.
+- Mã của bên thứ ba đóng gói trong bài (three.js, MIT) giữ giấy phép riêng, xem [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+- Không liên kết với Nhà xuất bản Giáo dục Nhân dân (PEP).
+
+Phát hiện lỗi dịch hoặc lỗi hiển thị? Hãy mở issue tại [https://github.com/HoDinhDang/lab-3d/issues](https://github.com/HoDinhDang/lab-3d/issues).
