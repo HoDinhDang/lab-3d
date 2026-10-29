@@ -1,0 +1,5 @@
+.DS_Store
+.vercel
+__pycache__/
+# bản gốc tiếng Trung (53 MB) — chỉ để đối chiếu trên máy, không đẩy lên GitHub
+_viethoa/goc_tieng_trung/

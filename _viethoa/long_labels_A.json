@@ -1,0 +1,3414 @@
+{
+"common-00004": {
+"zh": "全屏",
+"vi": "Toàn màn hình"
+},
+"common-00012": {
+"zh": "因果链",
+"vi": "Chuỗi nhân quả"
+},
+"common-00017": {
+"zh": "方程式 · 条件",
+"vi": "Phương trình · Điều kiện"
+},
+"common-00020": {
+"zh": "关键结论",
+"vi": "Kết luận then chốt"
+},
+"common-00026": {
+"zh": "结论已揭示",
+"vi": "Đã hiện kết luận"
+},
+"common-00038": {
+"zh": "中控台",
+"vi": "Bảng điều khiển"
+},
+"common-00040": {
+"zh": "← 回控制台",
+"vi": "← Về bảng điều khiển"
+},
+"common-00044": {
+"zh": "参考工况",
+"vi": "Chế độ tham chiếu"
+},
+"common-00047": {
+"zh": "课件设定",
+"vi": "Thiết lập của bài giảng"
+},
+"common-00050": {
+"zh": "实验记录",
+"vi": "Ghi chép thí nghiệm"
+},
+"common-00051": {
+"zh": "记录一组",
+"vi": "Ghi một lần đo"
+},
+"common-00059": {
+"zh": "随堂检测",
+"vi": "Kiểm tra nhanh"
+},
+"common-00066": {
+"zh": "检测结果",
+"vi": "Kết quả kiểm tra"
+},
+"common-00070": {
+"zh": "回看主线",
+"vi": "Xem lại mạch chính"
+},
+"common-00074": {
+"zh": "事故复盘",
+"vi": "Phân tích sự cố"
+},
+"common-00076": {
+"zh": "先看看现场",
+"vi": "Xem hiện trường trước"
+},
+"common-00077": {
+"zh": "联锁预警",
+"vi": "Cảnh báo liên động"
+},
+"common-00080": {
+"zh": "原因链",
+"vi": "Chuỗi nguyên nhân"
+},
+"common-00081": {
+"zh": "玩法与快捷键",
+"vi": "Cách dùng và phím tắt"
+},
+"common-00095": {
+"zh": "段间冷激管",
+"vi": "Ống làm lạnh nhanh giữa các tầng"
+},
+"common-00096": {
+"zh": "中心管",
+"vi": "Ống trung tâm"
+},
+"common-00100": {
+"zh": "③ 讲义图",
+"vi": "③ Hình bài giảng"
+},
+"common-00106": {
+"zh": "温度场",
+"vi": "Trường nhiệt độ"
+},
+"common-00172": {
+"zh": "原理与现象",
+"vi": "Nguyên lý và hiện tượng"
+},
+"common-00174": {
+"zh": "控制变量",
+"vi": "Kiểm soát biến"
+},
+"common-00176": {
+"zh": "认识器材",
+"vi": "Làm quen dụng cụ"
+},
+"common-00177": {
+"zh": "过原点",
+"vi": "Qua gốc toạ độ"
+},
+"common-00180": {
+"zh": "过原点斜率",
+"vi": "Hệ số góc qua gốc"
+},
+"common-00185": {
+"zh": "理想器材",
+"vi": "Dụng cụ lý tưởng"
+},
+"common-00186": {
+"zh": "学生电源",
+"vi": "Nguồn điện học sinh"
+},
+"common-00188": {
+"zh": "旋转、缩放",
+"vi": "Xoay, phóng to thu nhỏ"
+},
+"common-00191": {
+"zh": "实验台",
+"vi": "Bàn thí nghiệm"
+},
+"common-00201": {
+"zh": "示意放大",
+"vi": "Phóng to minh hoạ"
+},
+"common-00202": {
+"zh": "整套装置",
+"vi": "Toàn bộ thiết bị"
+},
+"common-00205": {
+"zh": "看进去",
+"vi": "Nhìn vào trong"
+},
+"common-00209": {
+"zh": "示意读数",
+"vi": "Số đọc minh hoạ"
+},
+"common-00211": {
+"zh": "浓硫酸",
+"vi": "Sulfuric acid đặc"
+},
+"common-00212": {
+"zh": "安全风险 · 示意",
+"vi": "Rủi ro an toàn · Minh hoạ"
+},
+"common-00213": {
+"zh": "稀硫酸",
+"vi": "Sulfuric acid loãng"
+},
+"common-00220": {
+"zh": "回到中控台",
+"vi": "Về bảng điều khiển"
+},
+"common-00245": {
+"zh": "开停车",
+"vi": "Khởi động – dừng"
+},
+"common-00271": {
+"zh": "工业流程",
+"vi": "Quy trình công nghiệp"
+},
+"common-00272": {
+"zh": "工段流程",
+"vi": "Quy trình công đoạn"
+},
+"common-00273": {
+"zh": "整厂 · 五个工段",
+"vi": "Toàn nhà máy · Năm công đoạn"
+},
+"common-00274": {
+"zh": "值班考核",
+"vi": "Kiểm tra ca trực"
+},
+"common-00275": {
+"zh": "工程上怎么防",
+"vi": "Kĩ thuật phòng ngừa"
+},
+"common-00276": {
+"zh": "上一步、下一步",
+"vi": "Bước trước, bước sau"
+},
+"common-00280": {
+"zh": "设备名开关",
+"vi": "Bật/tắt tên thiết bị"
+},
+"common-00282": {
+"zh": "⑧ 值班考核",
+"vi": "⑧ Kiểm tra ca trực"
+},
+"common-00309": {
+"zh": "原理与实验",
+"vi": "Nguyên lý và thí nghiệm"
+},
+"common-00310": {
+"zh": "电源与开关",
+"vi": "Nguồn điện và công tắc"
+},
+"common-00311": {
+"zh": "电源·开关",
+"vi": "Nguồn · Công tắc"
+},
+"common-00345": {
+"zh": "考核 · 当实验员",
+"vi": "Kiểm tra · Làm kĩ thuật viên thí nghiệm"
+},
+"common-00351": {
+"zh": "跳到某一步",
+"vi": "Nhảy đến một bước"
+},
+"common-00355": {
+"zh": "整厂 · 五段装置",
+"vi": "Toàn nhà máy · Năm cụm thiết bị"
+},
+"common-00357": {
+"zh": "回到控制台",
+"vi": "Về bảng điều khiển"
+},
+"common-00362": {
+"zh": "文字读数",
+"vi": "Số đọc dạng chữ"
+},
+"common-00371": {
+"zh": "无法判断",
+"vi": "Không xác định được"
+},
+"common-00372": {
+"zh": "旋转、缩放视角",
+"vi": "Xoay, phóng to thu nhỏ góc nhìn"
+},
+"common-00375": {
+"zh": "认识实验",
+"vi": "Làm quen thí nghiệm"
+},
+"common-00377": {
+"zh": "未滴加",
+"vi": "Chưa nhỏ giọt"
+},
+"common-00383": {
+"zh": "认识实验台",
+"vi": "Làm quen bàn thí nghiệm"
+},
+"common-00386": {
+"zh": "水浴温度",
+"vi": "Nhiệt độ cách thuỷ"
+},
+"s1-00016": {
+"zh": "小车与槽码",
+"vi": "Xe lăn và quả nặng móc"
+},
+"s1-00020": {
+"zh": "计时·纸带",
+"vi": "Gõ nhịp·băng giấy"
+},
+"s1-00038": {
+"zh": "参考案例 1",
+"vi": "Phương án tham khảo 1"
+},
+"s1-00039": {
+"zh": "平衡阻力",
+"vi": "Cân bằng ma sát"
+},
+"s1-00051": {
+"zh": "轻推看匀速",
+"vi": "Đẩy nhẹ, xem đều"
+},
+"s1-00052": {
+"zh": "判据：点距等距",
+"vi": "Tiêu chí: điểm cách đều"
+},
+"s1-00064": {
+"zh": "先通电后放车",
+"vi": "Bật điện trước, thả xe sau"
+},
+"s1-00065": {
+"zh": "交流电源",
+"vi": "Nguồn xoay chiều"
+},
+"s1-00077": {
+"zh": "v–t 图斜率",
+"vi": "Hệ số góc đồ thị v–t"
+},
+"s1-00078": {
+"zh": "逐差法",
+"vi": "Hiệu liên tiếp"
+},
+"s1-00121": {
+"zh": "截距判状态",
+"vi": "Đoạn cắt → trạng thái"
+},
+"s1-00123": {
+"zh": "质量偏大",
+"vi": "Khối lượng lệch lớn"
+},
+"s1-00136": {
+"zh": "不用天平",
+"vi": "Không dùng cân"
+},
+"s1-00147": {
+"zh": "计时器电源",
+"vi": "Nguồn máy gõ nhịp"
+},
+"s1-00154": {
+"zh": "已平衡阻力",
+"vi": "Đã cân bằng ma sát"
+},
+"s1-00164": {
+"zh": "不挂槽码（轻推）",
+"vi": "Không treo quả nặng (đẩy nhẹ)"
+},
+"s1-00176": {
+"zh": "加速中",
+"vi": "Đang tăng tốc"
+},
+"s1-00178": {
+"zh": "减速滑行",
+"vi": "Trượt chậm dần"
+},
+"s1-00179": {
+"zh": "拉不动",
+"vi": "Kéo không nổi"
+},
+"s1-00180": {
+"zh": "纸带已到头",
+"vi": "Băng giấy đã hết"
+},
+"s1-00187": {
+"zh": "用 a–F 斜率测质量",
+"vi": "Đo khối lượng từ hệ số góc a–F"
+},
+"s1-00194": {
+"zh": "坐标纸板",
+"vi": "Bảng giấy kẻ ô"
+},
+"s1-00208": {
+"zh": "图像判据",
+"vi": "Tiêu chí đồ thị"
+},
+"s1-00211": {
+"zh": "a–m 图是不是直线",
+"vi": "Đồ thị a–m có phải đường thẳng không"
+},
+"s1-00220": {
+"zh": "变成一条曲线",
+"vi": "Trở thành một đường cong"
+},
+"s1-00240": {
+"zh": "显微镜观察台",
+"vi": "Bàn quan sát kính hiển vi"
+},
+"s1-00247": {
+"zh": "放大视窗",
+"vi": "Cửa sổ phóng to"
+},
+"s1-00249": {
+"zh": "扩散槽",
+"vi": "Bể khuếch tán"
+},
+"s1-00251": {
+"zh": "看见它在动",
+"vi": "Thấy nó chuyển động"
+},
+"s1-00280": {
+"zh": "非真实路径",
+"vi": "Không phải đường thực"
+},
+"s1-00282": {
+"zh": "越久越远",
+"vi": "Càng lâu càng xa"
+},
+"s1-00293": {
+"zh": "二维投影 · 拓展",
+"vi": "Hình chiếu 2 chiều · Mở rộng"
+},
+"s1-00334": {
+"zh": "撞击不平衡",
+"vi": "Va chạm không cân bằng"
+},
+"s1-00335": {
+"zh": "合力随机",
+"vi": "Hợp lực ngẫu nhiên"
+},
+"s1-00336": {
+"zh": "间接证据",
+"vi": "Bằng chứng gián tiếp"
+},
+"s1-00353": {
+"zh": "扩散：浓度展开",
+"vi": "Khuếch tán: nồng độ lan ra"
+},
+"s1-00365": {
+"zh": "浓度剖面",
+"vi": "Mặt cắt nồng độ"
+},
+"s1-00366": {
+"zh": "面积守恒",
+"vi": "Diện tích bảo toàn"
+},
+"s1-00386": {
+"zh": "扩散宽度",
+"vi": "Độ rộng khuếch tán"
+},
+"s1-00392": {
+"zh": "观察时长",
+"vi": "Thời gian quan sát"
+},
+"s1-00401": {
+"zh": "高倍显微镜",
+"vi": "Kính hiển vi độ phóng đại lớn"
+},
+"s1-00411": {
+"zh": "静水 · 一滴墨",
+"vi": "Nước tĩnh · một giọt mực"
+},
+"s1-00417": {
+"zh": "① 是谁在动",
+"vi": "① Cái gì chuyển động"
+},
+"s1-00419": {
+"zh": "液体分子",
+"vi": "Phân tử chất lỏng"
+},
+"s1-00420": {
+"zh": "悬浮的小炭粒",
+"vi": "Hạt than nhỏ lơ lửng"
+},
+"s1-00422": {
+"zh": "显微镜的镜头",
+"vi": "Ống kính của kính hiển vi"
+},
+"s1-00438": {
+"zh": "④ 折线",
+"vi": "④ Đường gấp khúc"
+},
+"s1-00452": {
+"zh": "⑥ 分子动理论",
+"vi": "⑥ Thuyết động học phân tử"
+},
+"s1-00482": {
+"zh": "电阻与电容器",
+"vi": "Điện trở và tụ điện"
+},
+"s1-00484": {
+"zh": "传感器与电表",
+"vi": "Cảm biến và đồng hồ đo"
+},
+"s1-00487": {
+"zh": "计算机与曲线",
+"vi": "Máy tính và đồ thị"
+},
+"s1-00502": {
+"zh": "合向 1 充电",
+"vi": "Gạt sang 1 tích điện"
+},
+"s1-00509": {
+"zh": "充电方向",
+"vi": "Chiều tích điện"
+},
+"s1-00516": {
+"zh": "合向 2 放电",
+"vi": "Gạt sang 2 phóng điện"
+},
+"s1-00522": {
+"zh": "指针反偏",
+"vi": "Kim lệch ngược"
+},
+"s1-00528": {
+"zh": "面积得电荷",
+"vi": "Diện tích ra điện tích"
+},
+"s1-00536": {
+"zh": "面积 = 电荷",
+"vi": "Diện tích = điện tích"
+},
+"s1-00580": {
+"zh": "R 变面积不变",
+"vi": "Đổi R, diện tích không đổi"
+},
+"s1-00595": {
+"zh": "顶表面积偏小",
+"vi": "Kịch kim, diện tích nhỏ"
+},
+"s1-00617": {
+"zh": "放电电阻 R",
+"vi": "Điện trở phóng điện R"
+},
+"s1-00621": {
+"zh": "电流传感器",
+"vi": "Cảm biến dòng điện"
+},
+"s1-00635": {
+"zh": "竖立狭长矩形",
+"vi": "Hình chữ nhật hẹp dựng đứng"
+},
+"s1-00636": {
+"zh": "电源电压 U",
+"vi": "Hiệu điện thế nguồn U"
+},
+"s1-00645": {
+"zh": "— 曲线 · ○ 当前时刻",
+"vi": "— Đường cong · ○ Thời điểm hiện tại"
+},
+"s1-00647": {
+"zh": "无电流",
+"vi": "Không có dòng"
+},
+"s1-00649": {
+"zh": "充电中",
+"vi": "Đang tích điện"
+},
+"s1-00651": {
+"zh": "放电中",
+"vi": "Đang phóng điện"
+},
+"s1-00655": {
+"zh": "这一段没有表",
+"vi": "Đoạn này không có đồng hồ"
+},
+"s1-00675": {
+"zh": "先反向再恢复",
+"vi": "Đổi chiều rồi lại trở về"
+},
+"s1-00688": {
+"zh": "F 全屏",
+"vi": "F Toàn màn hình"
+},
+"s1-00689": {
+"zh": "全屏投影",
+"vi": "Trình chiếu toàn màn hình"
+},
+"s1-00693": {
+"zh": "公式 · 条件",
+"vi": "Công thức · Điều kiện"
+},
+"s1-00719": {
+"zh": "机身与手柄",
+"vi": "Thân máy và tay quay"
+},
+"s1-00720": {
+"zh": "机身·手柄",
+"vi": "Thân máy·tay quay"
+},
+"s1-00723": {
+"zh": "塔轮·皮带",
+"vi": "Puli bậc·dây đai"
+},
+"s1-00725": {
+"zh": "长槽与左标尺",
+"vi": "Rãnh dài và thước trái"
+},
+"s1-00726": {
+"zh": "长槽·左标尺",
+"vi": "Rãnh dài·thước trái"
+},
+"s1-00728": {
+"zh": "短槽与右标尺",
+"vi": "Rãnh ngắn và thước phải"
+},
+"s1-00729": {
+"zh": "短槽·右标尺",
+"vi": "Rãnh ngắn·thước phải"
+},
+"s1-00731": {
+"zh": "认识演示器",
+"vi": "Làm quen thiết bị"
+},
+"s1-00746": {
+"zh": "仪器自检",
+"vi": "Tự kiểm tra thiết bị"
+},
+"s1-00759": {
+"zh": "两标尺同高",
+"vi": "Hai thước cao bằng nhau"
+},
+"s1-00760": {
+"zh": "质量关系",
+"vi": "Quan hệ với khối lượng"
+},
+"s1-00773": {
+"zh": "半径关系",
+"vi": "Quan hệ với bán kính"
+},
+"s1-00785": {
+"zh": "角速度关系",
+"vi": "Quan hệ với tốc độ góc"
+},
+"s1-00811": {
+"zh": "三量相消",
+"vi": "Ba đại lượng triệt tiêu"
+},
+"s1-00826": {
+"zh": "超量程",
+"vi": "Vượt thang đo"
+},
+"s1-00827": {
+"zh": "考核 · ω 是平方",
+"vi": "Kiểm tra · ω là bình phương"
+},
+"s1-00843": {
+"zh": "左标尺格数",
+"vi": "Số vạch thước trái"
+},
+"s1-00844": {
+"zh": "右标尺格数",
+"vi": "Số vạch thước phải"
+},
+"s1-00845": {
+"zh": "左球角速度",
+"vi": "Tốc độ góc cầu trái"
+},
+"s1-00848": {
+"zh": "手柄转速",
+"vi": "Tốc độ tay quay"
+},
+"s1-00849": {
+"zh": "变速塔轮",
+"vi": "Puli nhiều bậc"
+},
+"s1-00850": {
+"zh": "长槽半径",
+"vi": "Bán kính rãnh dài"
+},
+"s1-00863": {
+"zh": "数据记录表",
+"vi": "Bảng ghi số liệu"
+},
+"s1-00864": {
+"zh": "自变量比",
+"vi": "Tỉ số biến độc lập"
+},
+"s1-00871": {
+"zh": "两边不等高",
+"vi": "Hai bên lệch nhau"
+},
+"s1-00873": {
+"zh": "右球未转",
+"vi": "Cầu phải chưa quay"
+},
+"s1-00877": {
+"zh": "向心力演示器",
+"vi": "Thiết bị khảo sát lực hướng tâm"
+},
+"s1-00912": {
+"zh": "右球太重",
+"vi": "Cầu phải quá nặng"
+},
+"s1-00915": {
+"zh": "手柄转反了",
+"vi": "Quay tay quay ngược chiều"
+},
+"s1-00920": {
+"zh": "电流的磁场",
+"vi": "Từ trường của dòng điện"
+},
+"s1-00932": {
+"zh": "疏密表示强弱：∝ I、N、1/r",
+"vi": "Độ dày thưa biểu thị mạnh yếu: ∝ I, N, 1/r"
+},
+"s1-00933": {
+"zh": "通电直导线",
+"vi": "Dây dẫn thẳng có dòng điện"
+},
+"s1-00935": {
+"zh": "环形电流",
+"vi": "Dòng điện tròn"
+},
+"s1-00937": {
+"zh": "通电螺线管",
+"vi": "Ống dây có dòng điện"
+},
+"s1-00940": {
+"zh": "铁屑显形",
+"vi": "Mạt sắt hiện hình"
+},
+"s1-00945": {
+"zh": "通电导线 → 磁场",
+"vi": "Dây có dòng điện → từ trường"
+},
+"s1-00947": {
+"zh": "电流的磁效应",
+"vi": "Tác dụng từ của dòng điện"
+},
+"s1-00954": {
+"zh": "一圈圈同心圆",
+"vi": "Từng vòng tròn đồng tâm"
+},
+"s1-00961": {
+"zh": "同心圆",
+"vi": "Vòng tròn đồng tâm"
+},
+"s1-00962": {
+"zh": "纸面只是截面",
+"vi": "Mặt giấy chỉ là mặt cắt"
+},
+"s1-00968": {
+"zh": "握导线定方向",
+"vi": "Nắm dây xác định chiều"
+},
+"s1-00974": {
+"zh": "拇指沿电流",
+"vi": "Ngón cái theo dòng điện"
+},
+"s1-00975": {
+"zh": "四指沿磁感线",
+"vi": "Bốn ngón theo đường sức"
+},
+"s1-00981": {
+"zh": "疏密就是强弱",
+"vi": "Dày thưa chính là mạnh yếu"
+},
+"s1-00994": {
+"zh": "穿环绕回",
+"vi": "Xuyên qua rồi vòng lại"
+},
+"s1-01001": {
+"zh": "闭合曲线",
+"vi": "Đường cong khép kín"
+},
+"s1-01007": {
+"zh": "多匝叠加",
+"vi": "Nhiều vòng chồng chập"
+},
+"s1-01014": {
+"zh": "形状不变",
+"vi": "Hình dạng không đổi"
+},
+"s1-01020": {
+"zh": "轴向衰减",
+"vi": "Suy giảm dọc trục"
+},
+"s1-01027": {
+"zh": "方向不变",
+"vi": "Chiều không đổi"
+},
+"s1-01041": {
+"zh": "内部近似匀强",
+"vi": "Bên trong gần như đều"
+},
+"s1-01048": {
+"zh": "考核 · 找管口",
+"vi": "Kiểm tra · Tìm miệng ống"
+},
+"s1-01074": {
+"zh": "环形电流 ",
+"vi": "Dòng điện tròn "
+},
+"s1-01077": {
+"zh": "相对参考",
+"vi": "So với tham chiếu"
+},
+"s1-01078": {
+"zh": "相对地磁场",
+"vi": "So với từ trường Trái Đất"
+},
+"s1-01079": {
+"zh": "磁场方向",
+"vi": "Chiều từ trường"
+},
+"s1-01080": {
+"zh": "μT · 拓展口径",
+"vi": "μT · Theo cách nói mở rộng"
+},
+"s1-01083": {
+"zh": "逆时针",
+"vi": "Ngược chiều kim đồng hồ"
+},
+"s1-01084": {
+"zh": "顺时针",
+"vi": "Cùng chiều kim đồng hồ"
+},
+"s1-01089": {
+"zh": "无磁场",
+"vi": "Không có từ trường"
+},
+"s1-01091": {
+"zh": "探点距离 r",
+"vi": "Khoảng cách điểm dò r"
+},
+"s1-01093": {
+"zh": "线圈匝数",
+"vi": "Số vòng cuộn dây"
+},
+"s1-01095": {
+"zh": "已撒铁屑",
+"vi": "Đã rắc mạt sắt"
+},
+"s1-01097": {
+"zh": "B 随位置变化",
+"vi": "B thay đổi theo vị trí"
+},
+"s1-01108": {
+"zh": "② 电流反向",
+"vi": "② Đổi chiều dòng điện"
+},
+"s1-01111": {
+"zh": "磁感线的形状",
+"vi": "Hình dạng đường sức từ"
+},
+"s1-01113": {
+"zh": "以上都不变",
+"vi": "Tất cả đều không đổi"
+},
+"s1-01115": {
+"zh": "③ 环的小磁针",
+"vi": "③ Kim trong vòng dây"
+},
+"s1-01118": {
+"zh": "沿轴指向下方",
+"vi": "Dọc trục hướng xuống dưới"
+},
+"s1-01119": {
+"zh": "沿半径向外",
+"vi": "Hướng ra ngoài theo bán kính"
+},
+"s1-01120": {
+"zh": "没有确定方向",
+"vi": "Không có hướng xác định"
+},
+"s1-01122": {
+"zh": "④ 反推电流",
+"vi": "④ Suy ngược dòng điện"
+},
+"s1-01126": {
+"zh": "沿圆周环绕",
+"vi": "Chạy vòng theo đường tròn"
+},
+"s1-01132": {
+"zh": "两处一样强",
+"vi": "Hai chỗ mạnh như nhau"
+},
+"s1-01133": {
+"zh": "无法比较",
+"vi": "Không so sánh được"
+},
+"s1-01135": {
+"zh": "⑥ 地磁场",
+"vi": "⑥ Từ trường Trái Đất"
+},
+"s1-01137": {
+"zh": "沿经线向北",
+"vi": "Dọc kinh tuyến hướng về phía bắc"
+},
+"s1-01138": {
+"zh": "无法确定",
+"vi": "Không xác định được"
+},
+"s1-01140": {
+"zh": "暂停／继续",
+"vi": "Tạm dừng/Tiếp tục"
+},
+"s1-01144": {
+"zh": "装置",
+"vi": "Bộ thí nghiệm"
+},
+"s1-01175": {
+"zh": "两只电表",
+"vi": "Hai đồng hồ đo"
+},
+"s1-01178": {
+"zh": "滑动变阻器",
+"vi": "Biến trở con chạy"
+},
+"s1-01197": {
+"zh": "纵轴从 0 起",
+"vi": "Trục tung bắt đầu từ 0"
+},
+"s1-01198": {
+"zh": "认识接法",
+"vi": "Làm quen cách mắc"
+},
+"s1-01214": {
+"zh": "先到最大",
+"vi": "Lớn nhất trước"
+},
+"s1-01226": {
+"zh": "滑片先到最大",
+"vi": "Con chạy về lớn nhất trước"
+},
+"s1-01228": {
+"zh": "理想电表",
+"vi": "Đồng hồ lý tưởng"
+},
+"s1-01271": {
+"zh": "交点不改变",
+"vi": "Giao điểm không đổi"
+},
+"s1-01272": {
+"zh": "只测两组",
+"vi": "Chỉ đo hai lần"
+},
+"s1-01284": {
+"zh": "两点法",
+"vi": "Phương pháp hai điểm"
+},
+"s1-01300": {
+"zh": "对照接法",
+"vi": "Cách mắc đối chứng"
+},
+"s1-01302": {
+"zh": "误差分析",
+"vi": "Phân tích sai số"
+},
+"s1-01316": {
+"zh": "L3 解析式",
+"vi": "Biểu thức giải tích L3"
+},
+"s1-01330": {
+"zh": "判据只看结果",
+"vi": "Tiêu chí chỉ xét kết quả"
+},
+"s1-01331": {
+"zh": "路端电压 U",
+"vi": "Hiệu điện thế mạch ngoài U"
+},
+"s1-01333": {
+"zh": "接入电阻 R",
+"vi": "Điện trở đưa vào R"
+},
+"s1-01344": {
+"zh": "滑片位置",
+"vi": "Vị trí con chạy"
+},
+"s1-01372": {
+"zh": "没法判断",
+"vi": "Không xác định được"
+},
+"s1-01376": {
+"zh": "短路电流",
+"vi": "Dòng điện ngắn mạch"
+},
+"s1-01378": {
+"zh": "内阻 r",
+"vi": "Điện trở trong r"
+},
+"s1-01379": {
+"zh": "外电阻 R",
+"vi": "Điện trở ngoài R"
+},
+"s1-01381": {
+"zh": "斜率的含义",
+"vi": "Ý nghĩa hệ số góc"
+},
+"s1-01387": {
+"zh": "E、r 都偏大",
+"vi": "E, r đều lớn hơn thực"
+},
+"s1-01388": {
+"zh": "E 不偏、r 偏大",
+"vi": "E không lệch, r lớn hơn thực"
+},
+"s1-01389": {
+"zh": "E 偏大、r 偏小",
+"vi": "E lớn hơn thực, r nhỏ hơn thực"
+},
+"s1-01390": {
+"zh": "两者都不偏",
+"vi": "Cả hai đều không lệch"
+},
+"s1-01396": {
+"zh": "读数 = 路端电压",
+"vi": "Số đọc = hiệu điện thế mạch ngoài"
+},
+"s1-01411": {
+"zh": "比能",
+"vi": "So năng lượng"
+},
+"s1-01420": {
+"zh": "纸带与刻度尺",
+"vi": "Băng giấy và thước đo"
+},
+"s1-01421": {
+"zh": "纸带·尺",
+"vi": "Băng giấy·thước"
+},
+"s1-01436": {
+"zh": "先通电后释放",
+"vi": "Bật điện trước, thả sau"
+},
+"s1-01462": {
+"zh": "三个连续点",
+"vi": "Ba điểm liên tiếp"
+},
+"s1-01475": {
+"zh": "中间时刻速度",
+"vi": "Vận tốc thời điểm giữa"
+},
+"s1-01476": {
+"zh": "记录作图",
+"vi": "Ghi và vẽ đồ thị"
+},
+"s1-01502": {
+"zh": "可以不测质量",
+"vi": "Có thể không đo khối lượng"
+},
+"s1-01512": {
+"zh": "阻力做负功",
+"vi": "Lực cản sinh công âm"
+},
+"s1-01513": {
+"zh": "斜率偏小",
+"vi": "Hệ số góc nhỏ hơn"
+},
+"s1-01514": {
+"zh": "三档开关",
+"vi": "Công tắc ba nấc"
+},
+"s1-01526": {
+"zh": "用纸带测 g",
+"vi": "Đo g bằng băng giấy"
+},
+"s1-01556": {
+"zh": "纸带测 g",
+"vi": "Đo g bằng băng giấy"
+},
+"s1-01557": {
+"zh": "铁架台",
+"vi": "Giá đỡ thí nghiệm"
+},
+"s1-01562": {
+"zh": "纸带竖直",
+"vi": "Băng giấy thẳng đứng"
+},
+"s1-01563": {
+"zh": "纸带歪斜",
+"vi": "Băng giấy nghiêng"
+},
+"s1-01564": {
+"zh": "开头空白",
+"vi": "Khoảng trống đầu"
+},
+"s1-01581": {
+"zh": "一条水平线",
+"vi": "Một đường nằm ngang"
+},
+"s1-01618": {
+"zh": "光电效应",
+"vi": "Hiệu ứng quang điện"
+},
+"s1-01626": {
+"zh": "拦得住",
+"vi": "Chặn lại được"
+},
+"s1-01636": {
+"zh": "光电管与光源",
+"vi": "Tế bào quang điện và nguồn sáng"
+},
+"s1-01637": {
+"zh": "光电管",
+"vi": "Tế bào quang điện"
+},
+"s1-01642": {
+"zh": "认识电路",
+"vi": "Làm quen mạch điện"
+},
+"s1-01655": {
+"zh": "加到饱和",
+"vi": "Tăng đến bão hoà"
+},
+"s1-01663": {
+"zh": "光强中",
+"vi": "Cường độ sáng trung bình"
+},
+"s1-01669": {
+"zh": "反向扫描",
+"vi": "Quét chiều ngược"
+},
+"s1-01683": {
+"zh": "改光强",
+"vi": "Đổi cường độ sáng"
+},
+"s1-01691": {
+"zh": "正向 + 反向",
+"vi": "Chiều thuận + chiều ngược"
+},
+"s1-01692": {
+"zh": "铷阴极",
+"vi": "Catôt rubidium"
+},
+"s1-01707": {
+"zh": "同一阴极",
+"vi": "Cùng một catôt"
+},
+"s1-01721": {
+"zh": "同一束光",
+"vi": "Cùng một chùm sáng"
+},
+"s1-01735": {
+"zh": "最小二乘",
+"vi": "Bình phương tối thiểu"
+},
+"s1-01748": {
+"zh": "阴极个体差",
+"vi": "Khác biệt riêng của catôt"
+},
+"s1-01768": {
+"zh": "换向开关（正 / 反）",
+"vi": "Khoá đảo chiều (thuận / ngược)"
+},
+"s1-01772": {
+"zh": "汞灯 + 滤光片组",
+"vi": "Đèn thuỷ ngân + bộ kính lọc"
+},
+"s1-01773": {
+"zh": "遮光板",
+"vi": "Tấm chắn sáng"
+},
+"s1-01778": {
+"zh": "无光电子",
+"vi": "Không có quang electron"
+},
+"s1-01783": {
+"zh": "阴极金属",
+"vi": "Kim loại catôt"
+},
+"s1-01784": {
+"zh": "光强",
+"vi": "Cường độ sáng"
+},
+"s1-01785": {
+"zh": "电压 U",
+"vi": "Hiệu điện thế U"
+},
+"s1-01787": {
+"zh": "光电流 I",
+"vi": "Dòng quang điện I"
+},
+"s1-01803": {
+"zh": "接近量程",
+"vi": "Gần hết thang đo"
+},
+"s1-01805": {
+"zh": "电流已归零",
+"vi": "Dòng điện đã về 0"
+},
+"s1-01806": {
+"zh": "有光电流",
+"vi": "Có dòng quang điện"
+},
+"s1-01815": {
+"zh": "② 光强",
+"vi": "② Cường độ sáng"
+},
+"s1-01818": {
+"zh": "遏止电压",
+"vi": "Hiệu điện thế hãm"
+},
+"s1-01820": {
+"zh": "截止频率",
+"vi": "Tần số giới hạn"
+},
+"s1-01822": {
+"zh": "③ 遏止电压",
+"vi": "③ Hiệu điện thế hãm"
+},
+"s1-01831": {
+"zh": "钠 > 钾 > 铷",
+"vi": "Sodium > potassium > rubidium"
+},
+"s1-01832": {
+"zh": "铷 > 钾 > 钠",
+"vi": "Rubidium > potassium > sodium"
+},
+"s1-01833": {
+"zh": "三者相同",
+"vi": "Cả ba bằng nhau"
+},
+"s1-01834": {
+"zh": "钾 > 钠 > 铷",
+"vi": "Potassium > sodium > rubidium"
+},
+"s1-01842": {
+"zh": "忽大忽小",
+"vi": "Lúc lớn lúc nhỏ"
+},
+"s2-00017": {
+"zh": "斜槽与钢球",
+"vi": "Máng nghiêng và bi thép"
+},
+"s2-00024": {
+"zh": "描迹·挡板",
+"vi": "Vẽ quỹ đạo · chắn"
+},
+"s2-00027": {
+"zh": "方格纸·频闪",
+"vi": "Giấy ô · hoạt nghiệm"
+},
+"s2-00040": {
+"zh": "末端水平",
+"vi": "Đầu máng ngang"
+},
+"s2-00041": {
+"zh": "无计时器",
+"vi": "Không đo thời gian"
+},
+"s2-00055": {
+"zh": "同时落地",
+"vi": "Chạm đất cùng lúc"
+},
+"s2-00058": {
+"zh": "末端要水平",
+"vi": "Đầu máng phải ngang"
+},
+"s2-00071": {
+"zh": "斜槽M末端水平",
+"vi": "Đầu máng M nằm ngang"
+},
+"s2-00086": {
+"zh": "白纸+复写纸",
+"vi": "Giấy trắng+giấy than"
+},
+"s2-00088": {
+"zh": "定时间间隔",
+"vi": "Xác định khoảng thời gian"
+},
+"s2-00099": {
+"zh": "等时间间隔",
+"vi": "Khoảng thời gian đều"
+},
+"s2-00128": {
+"zh": "两种偏大",
+"vi": "Hai kiểu lệch lớn"
+},
+"s2-00143": {
+"zh": "系统性偏大",
+"vi": "Lệch lớn hệ thống"
+},
+"s2-00159": {
+"zh": "初速度 v₀",
+"vi": "Vận tốc ban đầu v₀"
+},
+"s2-00182": {
+"zh": "轨迹图",
+"vi": "Đồ thị quỹ đạo"
+},
+"s2-00183": {
+"zh": "检验图",
+"vi": "Đồ thị kiểm chứng"
+},
+"s2-00206": {
+"zh": "斜槽 M",
+"vi": "Máng nghiêng M"
+},
+"s2-00208": {
+"zh": "描迹背板",
+"vi": "Tấm nền vẽ quỹ đạo"
+},
+"s2-00211": {
+"zh": "频闪照片",
+"vi": "Ảnh hoạt nghiệm"
+},
+"s2-00218": {
+"zh": "挡板高度",
+"vi": "Độ cao tấm chắn"
+},
+"s2-00220": {
+"zh": "重垂线（原点）",
+"vi": "Dây dọi (gốc toạ độ)"
+},
+"s2-00223": {
+"zh": "A 球先落地",
+"vi": "Quả A chạm đất trước"
+},
+"s2-00224": {
+"zh": "B 球先落地",
+"vi": "Quả B chạm đất trước"
+},
+"s2-00227": {
+"zh": "定时间",
+"vi": "Xác định thời gian"
+},
+"s2-00236": {
+"zh": "匀速直线运动",
+"vi": "chuyển động thẳng đều"
+},
+"s2-00240": {
+"zh": "完全一样",
+"vi": "hoàn toàn như nhau"
+},
+"s2-00252": {
+"zh": "自感与涡流",
+"vi": "Tự cảm và dòng điện Foucault"
+},
+"s2-00264": {
+"zh": "涡流",
+"vi": "Dòng Foucault"
+},
+"s2-00267": {
+"zh": "线圈与灯泡",
+"vi": "Cuộn dây và bóng đèn"
+},
+"s2-00270": {
+"zh": "传感器与屏幕",
+"vi": "Cảm biến và màn hình"
+},
+"s2-00271": {
+"zh": "传感器·屏幕",
+"vi": "Cảm biến · màn hình"
+},
+"s2-00273": {
+"zh": "铁芯与硅钢片",
+"vi": "Lõi sắt và lá thép kĩ thuật điện"
+},
+"s2-00274": {
+"zh": "铁芯·叠片",
+"vi": "Lõi sắt · ghép lá"
+},
+"s2-00276": {
+"zh": "铝管与磁体",
+"vi": "Ống nhôm và nam châm"
+},
+"s2-00277": {
+"zh": "铝管·磁体",
+"vi": "Ống nhôm · nam châm"
+},
+"s2-00291": {
+"zh": "通电自感",
+"vi": "Tự cảm khi đóng mạch"
+},
+"s2-00305": {
+"zh": "断电自感",
+"vi": "Tự cảm khi ngắt mạch"
+},
+"s2-00408": {
+"zh": "线圈电流",
+"vi": "Dòng qua cuộn dây"
+},
+"s2-00410": {
+"zh": "自感电动势",
+"vi": "Suất điện động tự cảm"
+},
+"s2-00411": {
+"zh": "亮度比",
+"vi": "Tỉ số độ sáng"
+},
+"s2-00422": {
+"zh": "C 细线多匝",
+"vi": "C dây mảnh nhiều vòng"
+},
+"s2-00424": {
+"zh": "整根铝管",
+"vi": "Ống nhôm nguyên"
+},
+"s2-00435": {
+"zh": "闪亮判据",
+"vi": "Tiêu chí loé sáng"
+},
+"s2-00442": {
+"zh": "单刀开关 S",
+"vi": "Công tắc một chiều S"
+},
+"s2-00447": {
+"zh": "铁芯 / 硅钢片",
+"vi": "Lõi sắt / lá thép kĩ thuật điện"
+},
+"s2-00453": {
+"zh": "灯泡 A₁（串线圈）",
+"vi": "Bóng đèn A₁ (nối tiếp cuộn dây)"
+},
+"s2-00456": {
+"zh": "A₂ 支路可调电阻 R",
+"vi": "Điện trở điều chỉnh R nhánh A₂"
+},
+"s2-00460": {
+"zh": "整块铁芯",
+"vi": "Lõi sắt nguyên khối"
+},
+"s2-00461": {
+"zh": "一叠硅钢片",
+"vi": "Chồng lá thép kĩ thuật điện"
+},
+"s2-00462": {
+"zh": "相对损耗",
+"vi": "Hao phí tương đối"
+},
+"s2-00487": {
+"zh": "几乎不变",
+"vi": "hầu như không đổi"
+},
+"s2-00489": {
+"zh": "先变大后变小",
+"vi": "tăng trước rồi giảm"
+},
+"s2-00498": {
+"zh": "演示已暂停",
+"vi": "Đã tạm dừng mô phỏng"
+},
+"s2-00499": {
+"zh": "演示继续",
+"vi": "Tiếp tục mô phỏng"
+},
+"s2-00500": {
+"zh": "已收起浮层",
+"vi": "Đã thu gọn lớp nổi"
+},
+"s2-00509": {
+"zh": "核心公式",
+"vi": "Công thức cốt lõi"
+},
+"s2-00512": {
+"zh": "灯泡常亮",
+"vi": "Đèn sáng ổn định"
+},
+"s2-00515": {
+"zh": "闪亮中",
+"vi": "Đang loé sáng"
+},
+"s2-00527": {
+"zh": "串在灯泡支路",
+"vi": "Nối tiếp nhánh đèn"
+},
+"s2-00536": {
+"zh": "先制出氨",
+"vi": "Điều chế ammonia"
+},
+"s2-00540": {
+"zh": "氨极易溶于水",
+"vi": "Ammonia tan rất nhiều trong nước"
+},
+"s2-00551": {
+"zh": "碱石灰干燥管",
+"vi": "Ống làm khô vôi tôi xút"
+},
+"s2-00554": {
+"zh": "冷凝水倒流",
+"vi": "Nước ngưng chảy ngược"
+},
+"s2-00555": {
+"zh": "红色喷泉",
+"vi": "Tia nước màu đỏ"
+},
+"s2-00563": {
+"zh": "发生装置",
+"vi": "Bộ phận phát sinh"
+},
+"s2-00565": {
+"zh": "干燥与收集",
+"vi": "Làm khô và thu khí"
+},
+"s2-00568": {
+"zh": "喷泉实验",
+"vi": "Thí nghiệm “đài phun”"
+},
+"s2-00576": {
+"zh": "连续气路",
+"vi": "Đường khí liên tục"
+},
+"s2-00583": {
+"zh": "管口朝哪边",
+"vi": "Miệng ống hướng nào"
+},
+"s2-00597": {
+"zh": "干燥剂选谁",
+"vi": "Chọn chất làm khô"
+},
+"s2-00631": {
+"zh": "先快后慢",
+"vi": "Nhanh trước chậm sau"
+},
+"s2-00639": {
+"zh": "验满与白烟",
+"vi": "Kiểm tra đầy và khói trắng"
+},
+"s2-00644": {
+"zh": "试纸变蓝",
+"vi": "Quỳ chuyển xanh"
+},
+"s2-00677": {
+"zh": "考核 · 做喷泉",
+"vi": "Kiểm tra · làm đài phun"
+},
+"s2-00691": {
+"zh": "喷泉高度 h",
+"vi": "Chiều cao tia nước h"
+},
+"s2-00693": {
+"zh": "未形成喷泉",
+"vi": "Chưa tạo tia nước"
+},
+"s2-00694": {
+"zh": "压强差 Δp",
+"vi": "Chênh lệch áp suất Δp"
+},
+"s2-00702": {
+"zh": "试管口",
+"vi": "Miệng ống nghiệm"
+},
+"s2-00716": {
+"zh": "① 喷泉原理",
+"vi": "① Nguyên lý đài phun"
+},
+"s2-00725": {
+"zh": "氨气是红色的",
+"vi": "Khí ammonia có màu đỏ"
+},
+"s2-00730": {
+"zh": "③ 试管口",
+"vi": "③ Miệng ống nghiệm"
+},
+"s2-00746": {
+"zh": "无水氯化钙",
+"vi": "calcium chloride khan"
+},
+"s2-00782": {
+"zh": "单键能转",
+"vi": "Liên kết đơn quay được"
+},
+"s2-00784": {
+"zh": "碳链与异构",
+"vi": "Mạch carbon, đồng phân"
+},
+"s2-00788": {
+"zh": "零件盒",
+"vi": "Hộp linh kiện"
+},
+"s2-00795": {
+"zh": "不饱和烃",
+"vi": "Hydrocarbon không no"
+},
+"s2-00802": {
+"zh": "乙烯 · 乙炔",
+"vi": "Ethylene · acetylene"
+},
+"s2-00815": {
+"zh": "碳 4 个键 · 氢 1 个键",
+"vi": "Carbon 4 liên kết · hydrogen 1 liên kết"
+},
+"s2-00829": {
+"zh": "5 原子不共面",
+"vi": "5 nguyên tử không đồng phẳng"
+},
+"s2-00830": {
+"zh": "二氯甲烷",
+"vi": "Dichloromethane"
+},
+"s2-00843": {
+"zh": "无同分异构",
+"vi": "Không có đồng phân"
+},
+"s2-00881": {
+"zh": "骨架不同",
+"vi": "Khung khác nhau"
+},
+"s2-00885": {
+"zh": "乙烯与乙炔",
+"vi": "Ethylene và acetylene"
+},
+"s2-00922": {
+"zh": "丁烷位",
+"vi": "Vị trí butane"
+},
+"s2-00924": {
+"zh": "当前分子",
+"vi": "Phân tử hiện tại"
+},
+"s2-00925": {
+"zh": "C—C 单键旋转角",
+"vi": "Góc quay liên kết đơn C—C"
+},
+"s2-00931": {
+"zh": "碳碳键长",
+"vi": "Độ dài liên kết C – C"
+},
+"s2-00932": {
+"zh": "分子式",
+"vi": "Công thức phân tử"
+},
+"s2-00936": {
+"zh": "按事实表",
+"vi": "Theo bảng dữ kiện"
+},
+"s2-00954": {
+"zh": "直线形，键角 180°",
+"vi": "Đường thẳng, góc liên kết 180°"
+},
+"s2-00959": {
+"zh": "2 种（邻位、对位）",
+"vi": "2 cấu trúc (kề nhau, đối nhau)"
+},
+"s2-00967": {
+"zh": "4 个原子共线",
+"vi": "4 nguyên tử thẳng hàng"
+},
+"s2-00968": {
+"zh": "6 个原子共线",
+"vi": "6 nguyên tử thẳng hàng"
+},
+"s2-00985": {
+"zh": "回中控台",
+"vi": "Về bảng điều khiển"
+},
+"s2-00997": {
+"zh": "高炉炼铁",
+"vi": "Luyện gang trong lò cao"
+},
+"s2-01011": {
+"zh": "炉料自上而下",
+"vi": "Liệu lò đi từ trên xuống"
+},
+"s2-01012": {
+"zh": "煤气自下而上",
+"vi": "Khí lò đi từ dưới lên"
+},
+"s2-01026": {
+"zh": "矿石变铁",
+"vi": "Quặng thành gang"
+},
+"s2-01033": {
+"zh": "总式是简化式",
+"vi": "Phương trình tổng giản lược"
+},
+"s2-01040": {
+"zh": "分层布料",
+"vi": "Rải liệu thành lớp"
+},
+"s2-01046": {
+"zh": "焦炭层=透气窗",
+"vi": "Lớp cốc = cửa thông khí"
+},
+"s2-01055": {
+"zh": "剖开看层",
+"vi": "Cắt ra xem lớp"
+},
+"s2-01070": {
+"zh": "风口烧焦",
+"vi": "Mắt gió đốt cốc"
+},
+"s2-01105": {
+"zh": "先分解后造渣",
+"vi": "Phân huỷ trước, tạo xỉ sau"
+},
+"s2-01107": {
+"zh": "渣浮在铁水上",
+"vi": "Xỉ nổi trên gang lỏng"
+},
+"s2-01114": {
+"zh": "风温的账",
+"vi": "Bài toán nhiệt độ gió"
+},
+"s2-01134": {
+"zh": "越界走事故",
+"vi": "Vượt ngưỡng thành sự cố"
+},
+"s2-01141": {
+"zh": "热风温度",
+"vi": "Nhiệt độ gió nóng"
+},
+"s2-01143": {
+"zh": "富氧率",
+"vi": "Tỉ lệ làm giàu oxygen"
+},
+"s2-01150": {
+"zh": "铁水产量",
+"vi": "Sản lượng gang lỏng"
+},
+"s2-01151": {
+"zh": "焦比",
+"vi": "Tỉ lệ than cốc"
+},
+"s2-01152": {
+"zh": "CO 利用率",
+"vi": "Hiệu suất sử dụng CO"
+},
+"s2-01153": {
+"zh": "炉渣碱度",
+"vi": "Độ base của xỉ"
+},
+"s2-01159": {
+"zh": "炉况风险",
+"vi": "Rủi ro tình trạng lò"
+},
+"s2-01203": {
+"zh": "CO（焦炭先变成 CO）",
+"vi": "CO (than cốc chuyển thành CO trước)"
+},
+"s2-01210": {
+"zh": "降低炉顶温度",
+"vi": "Hạ nhiệt độ đỉnh lò"
+},
+"s2-01215": {
+"zh": "掉到约 0.28，渣变黏",
+"vi": "tụt xuống khoảng 0.28, xỉ trở nên sệt"
+},
+"s2-01220": {
+"zh": "⑦ 风温的账",
+"vi": "⑦ Bài toán nhiệt độ gió"
+},
+"s2-01227": {
+"zh": "② 分层布料",
+"vi": "② Rải liệu thành lớp"
+},
+"s2-01229": {
+"zh": "方便计量",
+"vi": "Thuận tiện cho việc cân đo"
+},
+"s2-01247": {
+"zh": "已停车（休风）",
+"vi": "Đã dừng máy (ngừng thổi gió)"
+},
+"s2-01256": {
+"zh": "滴落带（焦炭床）",
+"vi": "Vùng nhỏ giọt (lớp đệm than cốc)"
+},
+"s2-01262": {
+"zh": "渣口（高于铁口）",
+"vi": "Lỗ tháo xỉ (cao hơn lỗ tháo gang)"
+},
+"s2-01263": {
+"zh": "炉顶受料漏斗",
+"vi": "Phễu nhận liệu đỉnh lò"
+},
+"s2-01264": {
+"zh": "煤气上升管",
+"vi": "Ống dẫn khí lò đi lên"
+},
+"s2-01267": {
+"zh": "平台栏杆",
+"vi": "Lan can sàn thao tác"
+},
+"s2-01275": {
+"zh": "块状带",
+"vi": "Vùng liệu khối"
+},
+"s2-01277": {
+"zh": "软熔带",
+"vi": "Vùng mềm chảy"
+},
+"s2-01279": {
+"zh": "滴落带",
+"vi": "Vùng nhỏ giọt"
+},
+"s2-01281": {
+"zh": "风口回旋区",
+"vi": "Vùng xoáy mắt gió"
+},
+"s2-01283": {
+"zh": "浮在铁水上",
+"vi": "Nổi trên gang lỏng"
+},
+"s2-01286": {
+"zh": "耐火内衬",
+"vi": "Lớp lót chịu lửa"
+},
+"s2-01288": {
+"zh": "热风围管",
+"vi": "Ống vòng gió nóng"
+},
+"s2-01290": {
+"zh": "受料漏斗",
+"vi": "Phễu nhận liệu"
+},
+"s2-01293": {
+"zh": "高于铁口",
+"vi": "Cao hơn lỗ tháo gang"
+},
+"s2-01296": {
+"zh": "渣口在它上方",
+"vi": "Lỗ tháo xỉ ở phía trên"
+},
+"s2-01297": {
+"zh": "热风入口",
+"vi": "Cửa vào gió nóng"
+},
+"s2-01300": {
+"zh": "出铁场作业区 6 m",
+"vi": "Khu thao tác sàn ra gang 6 m"
+},
+"s2-01306": {
+"zh": "炉料下行",
+"vi": "Liệu lò đi xuống"
+},
+"s2-01314": {
+"zh": "热风去围管",
+"vi": "Gió nóng đến ống vòng"
+},
+"s2-01339": {
+"zh": "酸化混合槽",
+"vi": "Bể trộn acid hoá"
+},
+"s2-01344": {
+"zh": "吹出塔",
+"vi": "Tháp thổi khí"
+},
+"s2-01350": {
+"zh": "蒸馏塔",
+"vi": "Tháp chưng cất"
+},
+"s2-01420": {
+"zh": "SO₂ 水溶液吸收",
+"vi": "Hấp thụ bằng dung dịch SO₂"
+},
+"s2-01432": {
+"zh": "二次氯化 + 蒸馏",
+"vi": "Chlorine hoá lần hai + chưng cất"
+},
+"s2-01450": {
+"zh": "液溴储罐",
+"vi": "Bồn chứa bromine lỏng"
+},
+"s2-01451": {
+"zh": "硫酸",
+"vi": "Sulfuric acid"
+},
+"s2-01452": {
+"zh": "碱液吸收",
+"vi": "Hấp thụ bằng kiềm"
+},
+"s2-01453": {
+"zh": "尾气烟囱",
+"vi": "Ống khói khí thải"
+},
+"s2-01454": {
+"zh": "溴回收率",
+"vi": "Hiệu suất thu hồi bromine"
+},
+"s2-01456": {
+"zh": "吹出率",
+"vi": "Hiệu suất thổi"
+},
+"s2-01457": {
+"zh": "富集倍数",
+"vi": "Hệ số làm giàu"
+},
+"s2-01459": {
+"zh": "液溴产量",
+"vi": "Sản lượng bromine lỏng"
+},
+"s2-01460": {
+"zh": "液溴纯度",
+"vi": "Độ tinh khiết bromine lỏng"
+},
+"s2-01462": {
+"zh": "工况",
+"vi": "Chế độ vận hành"
+},
+"s2-01464": {
+"zh": "通氯比",
+"vi": "Tỉ lệ chlorine"
+},
+"s2-01466": {
+"zh": "气水比",
+"vi": "Tỉ lệ khí/nước"
+},
+"s2-01475": {
+"zh": "工艺风险",
+"vi": "Rủi ro công nghệ"
+},
+"s2-01478": {
+"zh": "氯气过量",
+"vi": "Dư khí chlorine"
+},
+"s2-01479": {
+"zh": "酸化不足",
+"vi": "Acid hoá không đủ"
+},
+"s2-01488": {
+"zh": "加快氯气溶解",
+"vi": "Làm khí chlorine tan nhanh hơn"
+},
+"s2-01489": {
+"zh": "抑制 Br₂ 与 Cl₂ 歧化",
+"vi": "Kìm hãm phản ứng tự oxi hoá – khử của Br₂ và Cl₂"
+},
+"s2-01491": {
+"zh": "使溴变成离子",
+"vi": "Làm bromine chuyển thành ion"
+},
+"s2-01501": {
+"zh": "氧化还原反应",
+"vi": "Phản ứng oxi hoá – khử"
+},
+"s2-01502": {
+"zh": "物理变化",
+"vi": "Biến đổi vật lý"
+},
+"s2-01503": {
+"zh": "复分解反应",
+"vi": "Phản ứng trao đổi"
+},
+"s2-01504": {
+"zh": "水解反应",
+"vi": "Phản ứng thuỷ phân"
+},
+"s2-01511": {
+"zh": "不参加反应",
+"vi": "Không tham gia phản ứng"
+},
+"s2-01519": {
+"zh": "溴的密度大",
+"vi": "Khối lượng riêng của bromine lớn"
+},
+"s2-01520": {
+"zh": "溴的沸点低（58.8 ℃）",
+"vi": "Nhiệt độ sôi của bromine thấp (58.8 ℃)"
+},
+"s2-01521": {
+"zh": "溴不溶于水",
+"vi": "Bromine không tan trong nước"
+},
+"s2-01522": {
+"zh": "溴有颜色",
+"vi": "Bromine có màu"
+},
+"s2-01529": {
+"zh": "蒸馏分不开",
+"vi": "Chưng cất không tách được"
+},
+"s2-01531": {
+"zh": "产品不合格",
+"vi": "Sản phẩm không đạt"
+},
+"s2-01532": {
+"zh": "要重新精制",
+"vi": "Phải tinh chế lại"
+},
+"s2-01537": {
+"zh": "旋转、缩放世界",
+"vi": "Xoay, thu phóng cảnh"
+},
+"s2-01546": {
+"zh": "槽体（带壁厚）",
+"vi": "Thân bể (có bề dày thành)"
+},
+"s2-01547": {
+"zh": "上下封头",
+"vi": "Nắp trên và nắp đáy"
+},
+"s2-01549": {
+"zh": "四块折流板",
+"vi": "Bốn tấm chắn dòng"
+},
+"s2-01551": {
+"zh": "海水进口 N1",
+"vi": "Cửa vào nước biển N1"
+},
+"s2-01552": {
+"zh": "酸化液出口 N2",
+"vi": "Cửa ra dung dịch acid hoá N2"
+},
+"s2-01556": {
+"zh": "爬梯与护笼",
+"vi": "Thang leo và lồng bảo vệ"
+},
+"s2-01566": {
+"zh": "减速机与电机",
+"vi": "Hộp giảm tốc và động cơ"
+},
+"s2-01567": {
+"zh": "加酸计量泵",
+"vi": "Bơm định lượng acid"
+},
+"s2-01572": {
+"zh": "搅拌与加酸",
+"vi": "Khuấy và thêm acid"
+},
+"s2-01573": {
+"zh": "筒体（带壁厚）",
+"vi": "Thân tháp (có bề dày thành)"
+},
+"s2-01574": {
+"zh": "三段填料层",
+"vi": "Ba tầng vật liệu đệm"
+},
+"s2-01576": {
+"zh": "氯气进口 N2",
+"vi": "Cửa vào khí chlorine N2"
+},
+"s2-01577": {
+"zh": "氧化液出口 N4",
+"vi": "Cửa ra dung dịch oxi hoá N4"
+},
+"s2-01579": {
+"zh": "氯气流量表",
+"vi": "Lưu lượng kế khí chlorine"
+},
+"s2-01581": {
+"zh": "氧化塔筒体",
+"vi": "Thân tháp oxi hoá"
+},
+"s2-01582": {
+"zh": "填料层（3 段）",
+"vi": "Tầng vật liệu đệm (3 tầng)"
+},
+"s2-01583": {
+"zh": "氯气分布环",
+"vi": "Vòng phân phối khí chlorine"
+},
+"s2-01585": {
+"zh": "氯气投加泵",
+"vi": "Bơm cấp khí chlorine"
+},
+"s2-01588": {
+"zh": "通氯量",
+"vi": "Lượng chlorine sục vào"
+},
+"s2-01590": {
+"zh": "上下椭圆封头",
+"vi": "Nắp elip trên và dưới"
+},
+"s2-01600": {
+"zh": "皮带传动",
+"vi": "Truyền động đai"
+},
+"s2-01601": {
+"zh": "塔顶温度表",
+"vi": "Nhiệt kế đỉnh tháp"
+},
+"s2-01604": {
+"zh": "吹出塔筒体",
+"vi": "Thân tháp thổi khí"
+},
+"s2-01605": {
+"zh": "气液接触面",
+"vi": "Bề mặt tiếp xúc khí – lỏng"
+},
+"s2-01606": {
+"zh": "液体分布器",
+"vi": "Bộ phân phối chất lỏng"
+},
+"s2-01608": {
+"zh": "空气进口 N2",
+"vi": "Cửa vào không khí N2"
+},
+"s2-01610": {
+"zh": "溴气去吸收塔",
+"vi": "Hơi bromine đến tháp hấp thụ"
+},
+"s2-01612": {
+"zh": "塔底持液",
+"vi": "Chất lỏng đọng đáy tháp"
+},
+"s2-01618": {
+"zh": "风机检修位",
+"vi": "Vị trí bảo dưỡng quạt"
+},
+"s2-01620": {
+"zh": "吹出风量",
+"vi": "Lưu lượng gió thổi"
+},
+"s2-01624": {
+"zh": "含溴空气进口 N1",
+"vi": "Cửa vào không khí chứa bromine N1"
+},
+"s2-01628": {
+"zh": "吸收液流量表",
+"vi": "Lưu lượng kế dung dịch hấp thụ"
+},
+"s2-01630": {
+"zh": "吸收塔筒体",
+"vi": "Thân tháp hấp thụ"
+},
+"s2-01632": {
+"zh": "气相分布环",
+"vi": "Vòng phân phối pha khí"
+},
+"s2-01637": {
+"zh": "吸收液循环量",
+"vi": "Lưu lượng tuần hoàn dung dịch hấp thụ"
+},
+"s2-01640": {
+"zh": "吸收液进料 N1",
+"vi": "Nạp dung dịch hấp thụ N1"
+},
+"s2-01645": {
+"zh": "蒸馏塔筒体",
+"vi": "Thân tháp chưng cất"
+},
+"s2-01647": {
+"zh": "冷凝器",
+"vi": "Thiết bị ngưng tụ"
+},
+"s2-01652": {
+"zh": "再沸负荷",
+"vi": "Công suất đun sôi lại"
+},
+"s2-01684": {
+"zh": "工业制水泥",
+"vi": "Sản xuất xi măng trong công nghiệp"
+},
+"s2-01689": {
+"zh": "先分解",
+"vi": "Phân huỷ trước"
+},
+"s2-01693": {
+"zh": "急冷",
+"vi": "Làm nguội nhanh"
+},
+"s2-01695": {
+"zh": "调凝",
+"vi": "Điều chỉnh đông kết"
+},
+"s2-01702": {
+"zh": "预热段物料",
+"vi": "Vật liệu vùng gia nhiệt"
+},
+"s2-01703": {
+"zh": "烧成带物料",
+"vi": "Vật liệu vùng nung"
+},
+"s2-01704": {
+"zh": "煤粉火焰",
+"vi": "Ngọn lửa than bột"
+},
+"s2-01705": {
+"zh": "冷却带物料",
+"vi": "Vật liệu vùng làm nguội"
+},
+"s2-01706": {
+"zh": "生料制备",
+"vi": "Chuẩn bị phối liệu"
+},
+"s2-01707": {
+"zh": "备生料",
+"vi": "Chuẩn bị liệu"
+},
+"s2-01709": {
+"zh": "预热分解",
+"vi": "Gia nhiệt – phân huỷ"
+},
+"s2-01713": {
+"zh": "篦冷机",
+"vi": "Máy làm nguội kiểu ghi"
+},
+"s2-01715": {
+"zh": "水泥磨",
+"vi": "Máy nghiền xi măng"
+},
+"s2-01717": {
+"zh": "看全厂",
+"vi": "Xem toàn nhà máy"
+},
+"s2-01723": {
+"zh": "先磨后烧再磨",
+"vi": "Nghiền, nung, rồi nghiền"
+},
+"s2-01736": {
+"zh": "磨细 + 均化",
+"vi": "Nghiền mịn + đồng nhất"
+},
+"s2-01738": {
+"zh": "安定性",
+"vi": "Tính ổn định thể tích"
+},
+"s2-01749": {
+"zh": "逆流预热",
+"vi": "Gia nhiệt ngược chiều"
+},
+"s2-01750": {
+"zh": "先分解后烧结",
+"vi": "Phân huỷ trước, thiêu kết sau"
+},
+"s2-01764": {
+"zh": "物料窑尾→窑头",
+"vi": "Vật liệu đuôi → đầu lò"
+},
+"s2-01765": {
+"zh": "热气窑头→窑尾",
+"vi": "Khí nóng đầu → đuôi lò"
+},
+"s2-01791": {
+"zh": "二次风回收",
+"vi": "Thu hồi gió cấp hai"
+},
+"s2-01799": {
+"zh": "加石膏",
+"vi": "Thêm thạch cao"
+},
+"s2-01805": {
+"zh": "石膏是调凝剂",
+"vi": "Thạch cao điều chỉnh đông kết"
+},
+"s2-01827": {
+"zh": "烧成带温度",
+"vi": "Nhiệt độ vùng nung"
+},
+"s2-01829": {
+"zh": "石膏掺量",
+"vi": "Lượng thạch cao"
+},
+"s2-01831": {
+"zh": "已磨细均化",
+"vi": "Đã nghiền mịn, đồng nhất"
+},
+"s2-01832": {
+"zh": "粗料直入",
+"vi": "Liệu thô vào thẳng"
+},
+"s2-01835": {
+"zh": "生料分解率",
+"vi": "Tỉ lệ phân huỷ phối liệu"
+},
+"s2-01836": {
+"zh": "熟料热耗",
+"vi": "Tiêu hao nhiệt clinker"
+},
+"s2-01837": {
+"zh": "初凝时间",
+"vi": "Thời gian bắt đầu đông kết"
+},
+"s2-01842": {
+"zh": "窑况风险",
+"vi": "Rủi ro tình trạng lò"
+},
+"s2-01864": {
+"zh": "B. 结圈越长越大",
+"vi": "B. Vòng bám càng ngày càng lớn"
+},
+"s2-01876": {
+"zh": "① 看全厂",
+"vi": "① Xem toàn nhà máy"
+},
+"s2-01880": {
+"zh": "熟料和砂石",
+"vi": "Clinker và cát đá"
+},
+"s2-01881": {
+"zh": "石英砂和焦炭",
+"vi": "Cát thạch anh và than cốc"
+},
+"s2-01883": {
+"zh": "⑦ 加石膏",
+"vi": "⑦ Thêm thạch cao"
+},
+"s2-01890": {
+"zh": "② 备生料",
+"vi": "② Chuẩn bị phối liệu"
+},
+"s2-01892": {
+"zh": "方便运输",
+"vi": "Thuận tiện vận chuyển"
+},
+"s2-01894": {
+"zh": "让窑温更高",
+"vi": "Làm nhiệt độ lò cao hơn"
+},
+"s2-01895": {
+"zh": "减少石膏用量",
+"vi": "Giảm lượng thạch cao"
+},
+"s2-01897": {
+"zh": "③ 预热分解",
+"vi": "③ Gia nhiệt – phân huỷ"
+},
+"s2-01912": {
+"zh": "初凝时间变长",
+"vi": "Thời gian bắt đầu đông kết dài ra"
+},
+"s2-01913": {
+"zh": "物料走得太快",
+"vi": "Vật liệu đi quá nhanh"
+},
+"s2-01915": {
+"zh": "⑥ 急冷",
+"vi": "⑥ Làm nguội nhanh"
+},
+"s2-01917": {
+"zh": "让熟料更硬",
+"vi": "Làm clinker cứng hơn"
+},
+"s2-01922": {
+"zh": "窑温越高 f-CaO 越高",
+"vi": "Nhiệt độ lò càng cao CaO tự do càng cao"
+},
+"s2-01942": {
+"zh": "耐火砖内衬",
+"vi": "Lớp lót gạch chịu lửa"
+},
+"s2-01945": {
+"zh": "轮带（三道）",
+"vi": "Vành lăn (ba vành)"
+},
+"s2-01946": {
+"zh": "托轮（三组六只）",
+"vi": "Con lăn đỡ (ba cụm sáu con)"
+},
+"s2-01948": {
+"zh": "齿圈轮齿",
+"vi": "Răng của vành răng"
+},
+"s2-01950": {
+"zh": "主传动电机",
+"vi": "Động cơ truyền động chính"
+},
+"s2-01952": {
+"zh": "窑头罩（出料端）",
+"vi": "Chụp đầu lò (đầu ra liệu)"
+},
+"s2-01954": {
+"zh": "窑尾密封片",
+"vi": "Tấm làm kín đuôi lò"
+},
+"s2-01957": {
+"zh": "筒体环焊缝",
+"vi": "Mối hàn vòng ống lò"
+},
+"s2-01959": {
+"zh": "人孔",
+"vi": "Cửa người chui"
+},
+"s2-01963": {
+"zh": "轮带 + 托轮",
+"vi": "Vành lăn + con lăn đỡ"
+},
+"s2-01969": {
+"zh": "进料冷端",
+"vi": "Đầu nguội nạp liệu"
+},
+"s2-01970": {
+"zh": "煤粉燃烧器",
+"vi": "Vòi đốt than bột"
+},
+"s2-01980": {
+"zh": "主电机 + 减速机",
+"vi": "Động cơ chính + hộp giảm tốc"
+},
+"s2-01982": {
+"zh": "大齿圈",
+"vi": "Vành răng lớn"
+},
+"s2-01984": {
+"zh": "小齿轮",
+"vi": "Bánh răng nhỏ"
+},
+"s2-01990": {
+"zh": "红外测温",
+"vi": "Đo nhiệt hồng ngoại"
+},
+"s2-01992": {
+"zh": "传动检修区 3 m",
+"vi": "Khu bảo dưỡng truyền động 3 m"
+},
+"s2-02003": {
+"zh": "石膏（白粒）",
+"vi": "Thạch cao (hạt trắng)"
+},
+"s2-02004": {
+"zh": "熟料（深灰粒）",
+"vi": "Clinker (hạt xám đậm)"
+},
+"s3-00002": {
+"zh": "氯碱工业",
+"vi": "Công nghiệp chlor-kiềm"
+},
+"s3-00014": {
+"zh": "参照带",
+"vi": "Vùng tham chiếu"
+},
+"s3-00024": {
+"zh": "膜已拆：Cl₂ 与 OH⁻ 互窜",
+"vi": "Đã bỏ màng: Cl₂ và OH⁻ trộn lẫn sang nhau"
+},
+"s3-00025": {
+"zh": "化盐与精制",
+"vi": "Hoà muối và tinh chế"
+},
+"s3-00027": {
+"zh": "离子膜电解",
+"vi": "Điện phân màng ion"
+},
+"s3-00029": {
+"zh": "氯气处理",
+"vi": "Xử lí chlorine"
+},
+"s3-00032": {
+"zh": "氢气处理",
+"vi": "Xử lí hydrogen"
+},
+"s3-00037": {
+"zh": "化盐桶",
+"vi": "Thùng hoà muối"
+},
+"s3-00038": {
+"zh": "粗盐 → 饱和盐水",
+"vi": "Muối thô → nước muối bão hoà"
+},
+"s3-00041": {
+"zh": "螯合树脂塔",
+"vi": "Tháp nhựa chelat"
+},
+"s3-00043": {
+"zh": "离子膜电解槽",
+"vi": "Bình điện phân màng trao đổi ion"
+},
+"s3-00045": {
+"zh": "氯气冷却塔",
+"vi": "Tháp làm lạnh chlorine"
+},
+"s3-00046": {
+"zh": "降温、除水",
+"vi": "Hạ nhiệt, tách nước"
+},
+"s3-00047": {
+"zh": "浓硫酸干燥塔",
+"vi": "Tháp làm khô bằng sulfuric acid đặc"
+},
+"s3-00048": {
+"zh": "干燥氯气",
+"vi": "Làm khô chlorine"
+},
+"s3-00049": {
+"zh": "液氯储罐",
+"vi": "Bồn chứa chlorine lỏng"
+},
+"s3-00051": {
+"zh": "事故氯吸收塔",
+"vi": "Tháp hấp thụ chlorine sự cố"
+},
+"s3-00053": {
+"zh": "氢气压缩机",
+"vi": "Máy nén hydrogen"
+},
+"s3-00054": {
+"zh": "升压后外送",
+"vi": "Tăng áp rồi chuyển đi"
+},
+"s3-00057": {
+"zh": "三效蒸发器",
+"vi": "Thiết bị cô đặc ba nồi"
+},
+"s3-00059": {
+"zh": "浓碱储罐",
+"vi": "Bồn chứa kiềm đặc"
+},
+"s3-00069": {
+"zh": "离子膜法",
+"vi": "Phương pháp màng ion"
+},
+"s3-00076": {
+"zh": "先洗盐",
+"vi": "Rửa muối trước"
+},
+"s3-00103": {
+"zh": "膜里看",
+"vi": "Nhìn vào màng"
+},
+"s3-00111": {
+"zh": "羧酸层靠阴极",
+"vi": "Lớp carboxylic phía cathode"
+},
+"s3-00132": {
+"zh": "调槽温",
+"vi": "Chỉnh nhiệt bể"
+},
+"s3-00139": {
+"zh": "碱浓度恒 32 %",
+"vi": "Nồng độ kiềm cố định 32 %"
+},
+"s3-00151": {
+"zh": "烧碱被污染",
+"vi": "Xút bị nhiễm bẩn"
+},
+"s3-00173": {
+"zh": "电流密度",
+"vi": "Mật độ dòng điện"
+},
+"s3-00175": {
+"zh": "盐水精制",
+"vi": "Tinh chế nước muối"
+},
+"s3-00176": {
+"zh": "离子交换膜",
+"vi": "Màng trao đổi ion"
+},
+"s3-00180": {
+"zh": "产碱速率",
+"vi": "Tốc độ sản xuất kiềm"
+},
+"s3-00181": {
+"zh": "吨碱直流电耗",
+"vi": "Điện năng một chiều mỗi tấn xút"
+},
+"s3-00183": {
+"zh": "电流效率",
+"vi": "Hiệu suất dòng điện"
+},
+"s3-00186": {
+"zh": "线性拟合",
+"vi": "Khớp tuyến tính"
+},
+"s3-00188": {
+"zh": "精制已断",
+"vi": "Tinh chế đã ngắt"
+},
+"s3-00221": {
+"zh": "② 先洗盐",
+"vi": "② Rửa muối trước"
+},
+"s3-00233": {
+"zh": "只有水通过",
+"vi": "Chỉ có nước đi qua"
+},
+"s3-00240": {
+"zh": "水的电解停止",
+"vi": "Sự điện phân nước dừng lại"
+},
+"s3-00244": {
+"zh": "基本不变",
+"vi": "Hầu như không đổi"
+},
+"s3-00247": {
+"zh": "先升后降",
+"vi": "Tăng trước rồi giảm"
+},
+"s3-00266": {
+"zh": "降低电流密度",
+"vi": "Giảm mật độ dòng điện"
+},
+"s3-00276": {
+"zh": "已停车（断电）",
+"vi": "Đã dừng máy (ngắt điện)"
+},
+"s3-00290": {
+"zh": "除杂",
+"vi": "Loại tạp chất"
+},
+"s3-00296": {
+"zh": "五段装置",
+"vi": "Bộ thí nghiệm năm đoạn"
+},
+"s3-00314": {
+"zh": "尾气未接：Cl₂ 排空",
+"vi": "Chưa nối khí thải: Cl₂ thoát ra ngoài"
+},
+"s3-00315": {
+"zh": "HClO 光照分解出 O₂",
+"vi": "HClO bị ánh sáng phân huỷ giải phóng O₂"
+},
+"s3-00317": {
+"zh": "除杂与干燥",
+"vi": "Loại tạp chất và làm khô"
+},
+"s3-00321": {
+"zh": "尾气吸收",
+"vi": "Hấp thụ khí thải"
+},
+"s3-00324": {
+"zh": "氯水",
+"vi": "Nước chlorine"
+},
+"s3-00326": {
+"zh": "认识装置",
+"vi": "Làm quen bộ thí nghiệm"
+},
+"s3-00332": {
+"zh": "除杂装置",
+"vi": "Bộ phận loại tạp chất"
+},
+"s3-00333": {
+"zh": "收集装置",
+"vi": "Bộ phận thu khí"
+},
+"s3-00334": {
+"zh": "尾气处理",
+"vi": "Xử lí khí thải"
+},
+"s3-00347": {
+"zh": "浓盐酸",
+"vi": "Hydrochloric acid đặc"
+},
+"s3-00364": {
+"zh": "稀盐酸不反应",
+"vi": "Acid loãng không phản ứng"
+},
+"s3-00373": {
+"zh": "第一瓶洗什么",
+"vi": "Bình thứ nhất rửa gì"
+},
+"s3-00379": {
+"zh": "饱和食盐水",
+"vi": "Dung dịch muối ăn bão hoà"
+},
+"s3-00381": {
+"zh": "长进短出",
+"vi": "Ống dài vào ngắn ra"
+},
+"s3-00382": {
+"zh": "不能换 NaOH",
+"vi": "Không thay bằng NaOH được"
+},
+"s3-00390": {
+"zh": "第二瓶洗什么",
+"vi": "Bình thứ hai rửa gì"
+},
+"s3-00394": {
+"zh": "先除 HCl，后干燥",
+"vi": "Loại HCl trước, làm khô sau"
+},
+"s3-00395": {
+"zh": "先除杂后干燥",
+"vi": "Loại tạp chất trước, làm khô sau"
+},
+"s3-00396": {
+"zh": "湿氯气才漂白",
+"vi": "Chlorine ẩm mới tẩy màu"
+},
+"s3-00397": {
+"zh": "干布条不褪色",
+"vi": "Dải vải khô không mất màu"
+},
+"s3-00412": {
+"zh": "向上排空气",
+"vi": "Đẩy không khí, ngửa bình"
+},
+"s3-00413": {
+"zh": "不能用排水法",
+"vi": "Không dùng phương pháp đẩy nước"
+},
+"s3-00428": {
+"zh": "不用石灰水",
+"vi": "Không dùng nước vôi trong"
+},
+"s3-00436": {
+"zh": "氯水里有什么",
+"vi": "Trong nước chlorine có gì"
+},
+"s3-00457": {
+"zh": "尾气接好",
+"vi": "Đã nối khí thải"
+},
+"s3-00474": {
+"zh": "浓硫酸干燥",
+"vi": "Làm khô bằng H₂SO₄ đặc"
+},
+"s3-00475": {
+"zh": "NaOH 尾气吸收",
+"vi": "Hấp thụ khí thải bằng NaOH"
+},
+"s3-00476": {
+"zh": "光照时间",
+"vi": "Thời gian chiếu sáng"
+},
+"s3-00477": {
+"zh": "集气瓶纯度",
+"vi": "Độ tinh khiết bình thu"
+},
+"s3-00479": {
+"zh": "氯水 pH",
+"vi": "pH nước chlorine"
+},
+"s3-00481": {
+"zh": "按杂质扣减",
+"vi": "Trừ theo tạp chất"
+},
+"s3-00483": {
+"zh": "未达标：未加热",
+"vi": "Chưa đạt: chưa đun nóng"
+},
+"s3-00491": {
+"zh": "尾气泄漏风险",
+"vi": "Rủi ro rò khí thải"
+},
+"s3-00504": {
+"zh": "氯气溶于水",
+"vi": "Chlorine tan trong nước"
+},
+"s3-00507": {
+"zh": "② 除杂",
+"vi": "② Loại tạp chất"
+},
+"s3-00527": {
+"zh": "直接排入空气",
+"vi": "Xả thẳng ra không khí"
+},
+"s3-00530": {
+"zh": "用水吸收",
+"vi": "Hấp thụ bằng nước"
+},
+"s3-00532": {
+"zh": "⑤ 氯水",
+"vi": "⑤ Nước chlorine"
+},
+"s3-00537": {
+"zh": "三个量都不变",
+"vi": "Cả ba đại lượng đều không đổi"
+},
+"s3-00569": {
+"zh": "变换",
+"vi": "Chuyển hoá CO"
+},
+"s3-00590": {
+"zh": "产品是合成气",
+"vi": "Sản phẩm là khí tổng hợp"
+},
+"s3-00598": {
+"zh": "供热还是供气",
+"vi": "Cấp nhiệt hay cấp khí"
+},
+"s3-00603": {
+"zh": "吸热反应",
+"vi": "Phản ứng thu nhiệt"
+},
+"s3-00604": {
+"zh": "部分燃烧供热",
+"vi": "Đốt một phần để cấp nhiệt"
+},
+"s3-00606": {
+"zh": "有效气被稀释",
+"vi": "Khí hữu ích bị pha loãng"
+},
+"s3-00620": {
+"zh": "并流烧嘴",
+"vi": "Vòi đốt cùng chiều"
+},
+"s3-00621": {
+"zh": "激冷",
+"vi": "Làm nguội nhanh"
+},
+"s3-00622": {
+"zh": "熔渣排渣",
+"vi": "Xả xỉ nóng chảy"
+},
+"s3-00623": {
+"zh": "高于灰熔点",
+"vi": "Cao hơn điểm chảy của tro"
+},
+"s3-00636": {
+"zh": "蒸汽吸热",
+"vi": "Hơi nước thu nhiệt"
+},
+"s3-00639": {
+"zh": "与氧气跷跷板",
+"vi": "Bập bênh với oxygen"
+},
+"s3-00647": {
+"zh": "变换调比例",
+"vi": "Chuyển hoá CO chỉnh tỉ lệ"
+},
+"s3-00652": {
+"zh": "放热可逆",
+"vi": "Toả nhiệt, thuận nghịch"
+},
+"s3-00653": {
+"zh": "Kp 随温度下降",
+"vi": "Kp giảm khi nhiệt độ tăng"
+},
+"s3-00654": {
+"zh": "耐硫带硫变换",
+"vi": "Chuyển hoá có lưu huỳnh"
+},
+"s3-00663": {
+"zh": "为什么要脱硫",
+"vi": "Vì sao phải khử lưu huỳnh"
+},
+"s3-00670": {
+"zh": "低温甲醇洗",
+"vi": "Rửa methanol nhiệt độ thấp"
+},
+"s3-00671": {
+"zh": "克劳斯回收硫",
+"vi": "Thu hồi lưu huỳnh Claus"
+},
+"s3-00680": {
+"zh": "变成什么",
+"vi": "Thành sản phẩm gì"
+},
+"s3-00709": {
+"zh": "备煤制浆",
+"vi": "Chuẩn bị than, pha bùn than"
+},
+"s3-00710": {
+"zh": "备煤",
+"vi": "Chuẩn bị than"
+},
+"s3-00714": {
+"zh": "耐硫变换",
+"vi": "Chuyển hoá chịu lưu huỳnh"
+},
+"s3-00716": {
+"zh": "净化与硫回收",
+"vi": "Làm sạch và thu hồi lưu huỳnh"
+},
+"s3-00717": {
+"zh": "产品气去向",
+"vi": "Đầu ra khí sản phẩm"
+},
+"s3-00725": {
+"zh": "渣池 熔渣排出",
+"vi": "Bể xỉ, xả xỉ nóng chảy"
+},
+"s3-00726": {
+"zh": "配氮（来自空分）",
+"vi": "Bổ sung nitrogen (từ tách không khí)"
+},
+"s3-00727": {
+"zh": "空分",
+"vi": "Tách không khí"
+},
+"s3-00730": {
+"zh": "磨煤机",
+"vi": "Máy nghiền than"
+},
+"s3-00736": {
+"zh": "耐硫变换炉",
+"vi": "Lò chuyển hoá chịu lưu huỳnh"
+},
+"s3-00738": {
+"zh": "变换换热器",
+"vi": "Thiết bị trao đổi nhiệt chuyển hoá"
+},
+"s3-00745": {
+"zh": "硫磺成型",
+"vi": "Tạo hình lưu huỳnh"
+},
+"s3-00746": {
+"zh": "硫磺外销",
+"vi": "Lưu huỳnh bán ra ngoài"
+},
+"s3-00747": {
+"zh": "甲醇合成塔",
+"vi": "Tháp tổng hợp methanol"
+},
+"s3-00748": {
+"zh": "氨合成塔",
+"vi": "Tháp tổng hợp ammonia"
+},
+"s3-00750": {
+"zh": "原料气压缩机",
+"vi": "Máy nén khí nguyên liệu"
+},
+"s3-00751": {
+"zh": "升压后进合成",
+"vi": "Tăng áp rồi vào tổng hợp"
+},
+"s3-00753": {
+"zh": "开停车放空",
+"vi": "Xả khí khi khởi động – dừng máy"
+},
+"s3-00761": {
+"zh": "有效气含量",
+"vi": "Hàm lượng khí hữu ích"
+},
+"s3-00762": {
+"zh": "碳转化率",
+"vi": "Hiệu suất chuyển hoá carbon"
+},
+"s3-00763": {
+"zh": "总硫",
+"vi": "Tổng lưu huỳnh"
+},
+"s3-00767": {
+"zh": "入炉碳",
+"vi": "Carbon vào lò"
+},
+"s3-00806": {
+"zh": "煤的气化属于",
+"vi": "Khí hoá than thuộc loại"
+},
+"s3-00817": {
+"zh": "氧气用来降温",
+"vi": "Oxygen dùng để hạ nhiệt"
+},
+"s3-00819": {
+"zh": "② 氧煤比",
+"vi": "② Tỉ lệ oxygen/than"
+},
+"s3-00823": {
+"zh": "什么都不变",
+"vi": "Không có gì thay đổi"
+},
+"s3-00837": {
+"zh": "合成气里 CO₂ 消失",
+"vi": "CO₂ trong khí tổng hợp biến mất"
+},
+"s3-00840": {
+"zh": "⑤ 变换",
+"vi": "⑤ Chuyển hoá CO"
+},
+"s3-00844": {
+"zh": "先降后升",
+"vi": "Giảm trước rồi tăng"
+},
+"s3-00846": {
+"zh": "⑥ 脱硫",
+"vi": "⑥ Khử lưu huỳnh"
+},
+"s3-00858": {
+"zh": "都不需要调整",
+"vi": "Đều không cần điều chỉnh"
+},
+"s3-00872": {
+"zh": "球形上封头",
+"vi": "Nắp trên hình cầu"
+},
+"s3-00875": {
+"zh": "顶置工艺烧嘴",
+"vi": "Vòi đốt công nghệ đặt trên đỉnh"
+},
+"s3-00876": {
+"zh": "氧气入口接管",
+"vi": "Ống nối đầu vào oxygen"
+},
+"s3-00879": {
+"zh": "下降管",
+"vi": "Ống dẫn xuống"
+},
+"s3-00882": {
+"zh": "检修人孔",
+"vi": "Cửa người chui bảo dưỡng"
+},
+"s3-00885": {
+"zh": "设备铭牌",
+"vi": "Biển tên thiết bị"
+},
+"s3-00886": {
+"zh": "地脚螺栓圈",
+"vi": "Vòng bu lông móng"
+},
+"s3-00893": {
+"zh": "工艺烧嘴",
+"vi": "Vòi đốt công nghệ"
+},
+"s3-00895": {
+"zh": "合成气出口",
+"vi": "Đầu ra khí tổng hợp"
+},
+"s3-00896": {
+"zh": "检修平台",
+"vi": "Sàn thao tác bảo dưỡng"
+},
+"s3-00898": {
+"zh": "耐火砖衬里",
+"vi": "Lớp lót gạch chịu lửa"
+},
+"s3-00899": {
+"zh": "激冷环",
+"vi": "Vòng làm nguội nhanh"
+},
+"s3-00900": {
+"zh": "激冷水",
+"vi": "Nước làm nguội nhanh"
+},
+"s3-00904": {
+"zh": "炉膛温度",
+"vi": "Nhiệt độ buồng lò"
+},
+"s3-00914": {
+"zh": "电解质会电离",
+"vi": "Chất điện li phân li"
+},
+"s3-00916": {
+"zh": "有离子才导电",
+"vi": "Có ion mới dẫn điện"
+},
+"s3-00941": {
+"zh": "电源与电流表",
+"vi": "Nguồn điện và ampe kế"
+},
+"s3-00948": {
+"zh": "认识台面",
+"vi": "Làm quen bàn thí nghiệm"
+},
+"s3-00952": {
+"zh": "三站一台表",
+"vi": "Ba trạm, một đồng hồ"
+},
+"s3-00960": {
+"zh": "干燥与熔融",
+"vi": "Khô và nóng chảy"
+},
+"s3-00967": {
+"zh": "熔融态导电",
+"vi": "Trạng thái nóng chảy dẫn điện"
+},
+"s3-00975": {
+"zh": "溶于水",
+"vi": "Tan trong nước"
+},
+"s3-00988": {
+"zh": "水与蔗糖",
+"vi": "Nước và sucrose"
+},
+"s3-00993": {
+"zh": "非电解质",
+"vi": "Chất không điện li"
+},
+"s3-00994": {
+"zh": "纯水极弱",
+"vi": "Nước tinh khiết rất yếu"
+},
+"s3-01039": {
+"zh": "换错滴定剂",
+"vi": "Đổi sai chất chuẩn độ"
+},
+"s3-01045": {
+"zh": "无最低点",
+"vi": "Không có điểm thấp nhất"
+},
+"s3-01046": {
+"zh": "无沉淀",
+"vi": "Không có kết tủa"
+},
+"s3-01054": {
+"zh": "考核 · 找终点",
+"vi": "Kiểm tra · tìm điểm cuối"
+},
+"s3-01069": {
+"zh": "离子能否移动",
+"vi": "Ion có chuyển động được không"
+},
+"s3-01070": {
+"zh": "由形态决定",
+"vi": "Do trạng thái quyết định"
+},
+"s3-01074": {
+"zh": "无（蔗糖不电离）",
+"vi": "Không (sucrose không điện li)"
+},
+"s3-01078": {
+"zh": "无（非电解质）",
+"vi": "Không (chất không điện li)"
+},
+"s3-01085": {
+"zh": "盐酸",
+"vi": "Hydrochloric acid"
+},
+"s3-01090": {
+"zh": "水溶液",
+"vi": "Dung dịch nước"
+},
+"s3-01092": {
+"zh": "滴入体积",
+"vi": "Thể tích nhỏ vào"
+},
+"s3-01093": {
+"zh": "滴定剂",
+"vi": "Chất chuẩn độ"
+},
+"s3-01094": {
+"zh": "稀盐酸（对照）",
+"vi": "HCl loãng (đối chứng)"
+},
+"s3-01151": {
+"zh": "微电池成立",
+"vi": "Hình thành vi pin"
+},
+"s3-01155": {
+"zh": "酸性换一条路",
+"vi": "Môi trường acid đổi đường"
+},
+"s3-01170": {
+"zh": "液柱—放置时间",
+"vi": "Cột chất lỏng — thời gian để yên"
+},
+"s3-01172": {
+"zh": "暖贴",
+"vi": "Miếng dán giữ nhiệt"
+},
+"s3-01174": {
+"zh": "铁钉表面的 H₂",
+"vi": "H₂ trên bề mặt đinh sắt"
+},
+"s3-01179": {
+"zh": "吸氧腐蚀装置",
+"vi": "Bộ thí nghiệm ăn mòn hấp thụ oxygen"
+},
+"s3-01180": {
+"zh": "吸氧腐蚀",
+"vi": "Ăn mòn hấp thụ oxygen"
+},
+"s3-01182": {
+"zh": "析氢腐蚀对照",
+"vi": "Đối chứng ăn mòn giải phóng hydrogen"
+},
+"s3-01183": {
+"zh": "析氢对照",
+"vi": "Đối chứng giải phóng H₂"
+},
+"s3-01185": {
+"zh": "暖贴与密闭瓶",
+"vi": "Miếng dán giữ nhiệt và bình kín"
+},
+"s3-01190": {
+"zh": "铁表面微电池",
+"vi": "Vi pin trên bề mặt sắt"
+},
+"s3-01192": {
+"zh": "台面四站",
+"vi": "Bốn trạm trên bàn"
+},
+"s3-01217": {
+"zh": "碳粉的角色",
+"vi": "Vai trò bột carbon"
+},
+"s3-01224": {
+"zh": "碳作正极",
+"vi": "Carbon làm cực dương"
+},
+"s3-01238": {
+"zh": "析氢腐蚀",
+"vi": "Ăn mòn giải phóng hydrogen"
+},
+"s3-01259": {
+"zh": "暖贴发热",
+"vi": "Miếng dán toả nhiệt"
+},
+"s3-01273": {
+"zh": "捂住的代价",
+"vi": "Cái giá của bịt kín"
+},
+"s3-01301": {
+"zh": "考核 · 设计暖贴",
+"vi": "Kiểm tra · thiết kế miếng dán"
+},
+"s3-01315": {
+"zh": "在反应",
+"vi": "Đang phản ứng"
+},
+"s3-01316": {
+"zh": "未反应",
+"vi": "Chưa phản ứng"
+},
+"s3-01317": {
+"zh": "暖贴温度 T",
+"vi": "Nhiệt độ miếng dán T"
+},
+"s3-01320": {
+"zh": "铁氰化钾",
+"vi": "Potassium ferricyanide"
+},
+"s3-01321": {
+"zh": "未检出",
+"vi": "Không phát hiện"
+},
+"s3-01322": {
+"zh": "检出（蓝色）",
+"vi": "Phát hiện (xanh lam)"
+},
+"s3-01323": {
+"zh": "液柱方向",
+"vi": "Hướng cột chất lỏng"
+},
+"s3-01324": {
+"zh": "上升（耗氧）",
+"vi": "Dâng (tiêu thụ O₂)"
+},
+"s3-01325": {
+"zh": "上升·锌耗氧",
+"vi": "Dâng · Zn tiêu thụ O₂"
+},
+"s3-01332": {
+"zh": "接触空气",
+"vi": "Tiếp xúc không khí"
+},
+"s3-01333": {
+"zh": "隔绝空气",
+"vi": "Cách li không khí"
+},
+"s3-01337": {
+"zh": "放置时间",
+"vi": "Thời gian để yên"
+},
+"s3-01338": {
+"zh": "暖贴碳粉比例",
+"vi": "Tỉ lệ carbon trong miếng dán"
+},
+"s3-01346": {
+"zh": "电解腐蚀",
+"vi": "Ăn mòn điện phân"
+},
+"s3-01351": {
+"zh": "③ 液柱",
+"vi": "③ Cột chất lỏng"
+},
+"s3-01372": {
+"zh": "⑥ 防护",
+"vi": "⑥ Chống ăn mòn"
+},
+"s3-01401": {
+"zh": "通电才有电解",
+"vi": "Có dòng điện mới điện phân"
+},
+"s3-01403": {
+"zh": "离子定向迁移",
+"vi": "Ion di chuyển có hướng"
+},
+"s3-01405": {
+"zh": "谁先放电",
+"vi": "Chất nào phóng điện trước"
+},
+"s3-01407": {
+"zh": "电量定产量",
+"vi": "Điện lượng quyết định sản lượng"
+},
+"s3-01428": {
+"zh": "酚酞",
+"vi": "Phenolphthalein"
+},
+"s3-01441": {
+"zh": "未通电",
+"vi": "Chưa có dòng điện"
+},
+"s3-01449": {
+"zh": "接通电源",
+"vi": "Nối nguồn điện"
+},
+"s3-01463": {
+"zh": "通得更久",
+"vi": "Điện phân lâu hơn"
+},
+"s3-01469": {
+"zh": "颜色几乎不变",
+"vi": "Màu gần như không đổi"
+},
+"s3-01482": {
+"zh": "箭头反向",
+"vi": "Mũi tên ngược chiều"
+},
+"s3-01483": {
+"zh": "电子不进溶液",
+"vi": "Electron không vào dung dịch"
+},
+"s3-01484": {
+"zh": "断电全停",
+"vi": "Ngắt điện là dừng hết"
+},
+"s3-01491": {
+"zh": "换食盐水",
+"vi": "Đổi sang nước muối"
+},
+"s3-01504": {
+"zh": "阴极区变红",
+"vi": "Vùng cathode hoá hồng"
+},
+"s3-01510": {
+"zh": "酚酞变红",
+"vi": "Phenolphthalein hoá hồng"
+},
+"s3-01519": {
+"zh": "放电顺序",
+"vi": "Thứ tự phóng điện"
+},
+"s3-01527": {
+"zh": "Na⁺ 不放电",
+"vi": "Na⁺ không phóng điện"
+},
+"s3-01534": {
+"zh": "铜作阳极",
+"vi": "Copper làm anode"
+},
+"s3-01540": {
+"zh": "试纸不变蓝",
+"vi": "Giấy thử không hoá xanh"
+},
+"s3-01566": {
+"zh": "通电时间",
+"vi": "Thời gian điện phân"
+},
+"s3-01569": {
+"zh": "直流电源",
+"vi": "Nguồn điện một chiều"
+},
+"s3-01571": {
+"zh": "① 站阳极材料",
+"vi": "Vật liệu anode trạm ①"
+},
+"s3-01572": {
+"zh": "已换成铜片",
+"vi": "Đã đổi sang lá copper"
+},
+"s3-01573": {
+"zh": "石墨棒",
+"vi": "Thanh than chì"
+},
+"s3-01582": {
+"zh": "阴极产物",
+"vi": "Sản phẩm ở cathode"
+},
+"s3-01583": {
+"zh": "阳极产物",
+"vi": "Sản phẩm ở anode"
+},
+"s3-01586": {
+"zh": "无指示剂",
+"vi": "Không có chất chỉ thị"
+},
+"s3-01587": {
+"zh": "酚酞无色",
+"vi": "Phenolphthalein không màu"
+},
+"s3-01588": {
+"zh": "未滴酚酞",
+"vi": "Chưa nhỏ phenolphthalein"
+},
+"s3-01590": {
+"zh": "蓝绿色（略浅）",
+"vi": "Xanh lục lam (hơi nhạt)"
+},
+"s3-01591": {
+"zh": "浅蓝绿色",
+"vi": "Xanh lục lam nhạt"
+},
+"s3-01618": {
+"zh": "④ 电解食盐水",
+"vi": "④ Điện phân nước muối"
+},
+"s3-01625": {
+"zh": "⑤ 电量与产物",
+"vi": "⑤ Điện lượng và sản phẩm"
+},
+"s3-01665": {
+"zh": "铁（Ⅲ）/硫氰酸管组",
+"vi": "Nhóm ống iron(III)/thiocyanate"
+},
+"s3-01668": {
+"zh": "重铬酸钾管组",
+"vi": "Nhóm ống potassium dichromate"
+},
+"s3-01685": {
+"zh": "铁管加料",
+"vi": "Thêm chất vào ống Fe"
+},
+"s3-01698": {
+"zh": "铁粉减料",
+"vi": "Bột sắt bớt chất"
+},
+"s3-01705": {
+"zh": "减小反应物",
+"vi": "Giảm chất phản ứng"
+},
+"s3-01712": {
+"zh": "铬管加碱",
+"vi": "Thêm kiềm vào ống Cr"
+},
+"s3-01725": {
+"zh": "铬管加酸",
+"vi": "Thêm acid vào ống Cr"
+},
+"s3-01739": {
+"zh": "冷热两盆",
+"vi": "Hai chậu nóng – lạnh"
+},
+"s3-01746": {
+"zh": "升温 K 变小",
+"vi": "Tăng nhiệt độ K giảm"
+},
+"s3-01757": {
+"zh": "v正 = v逆（动态平衡）",
+"vi": "v(thuận) = v(nghịch) (cân bằng động)"
+},
+"s3-01759": {
+"zh": "同一时刻",
+"vi": "Cùng một thời điểm"
+},
+"s3-01760": {
+"zh": "同源颜色",
+"vi": "Màu cùng nguồn"
+},
+"s3-01793": {
+"zh": "a 实验管（加料）",
+"vi": "a Ống thí nghiệm (thêm chất)"
+},
+"s3-01794": {
+"zh": "c 对照管（不加料）",
+"vi": "c Ống đối chứng (không thêm)"
+},
+"s3-01795": {
+"zh": "铬管（实验）",
+"vi": "Ống Cr (thí nghiệm)"
+},
+"s3-01796": {
+"zh": "1 号球（水浴）",
+"vi": "Bình số 1 (bể ổn nhiệt)"
+},
+"s3-01803": {
+"zh": "铁管滴数",
+"vi": "Số giọt ống Fe"
+},
+"s3-01804": {
+"zh": "铁管滴瓶",
+"vi": "Lọ nhỏ giọt ống Fe"
+},
+"s3-01808": {
+"zh": "刚改变时 Q",
+"vi": "Q ngay khi vừa thay đổi"
+},
+"s3-01809": {
+"zh": "平衡常数 K",
+"vi": "Hằng số cân bằng K"
+},
+"s3-01810": {
+"zh": "移动方向",
+"vi": "Chiều chuyển dịch"
+},
+"s3-01811": {
+"zh": "NO₂ 浓度—水浴温度",
+"vi": "Nồng độ NO₂ — nhiệt độ bể ổn nhiệt"
+},
+"s3-01840": {
+"zh": "溶液被稀释了",
+"vi": "Dung dịch bị pha loãng"
+},
+"s3-01846": {
+"zh": "已达平衡",
+"vi": "Đã đạt cân bằng"
+},
+"s3-01851": {
+"zh": "无量纲",
+"vi": "Không thứ nguyên"
+},
+"s3-01852": {
+"zh": "只随温度变",
+"vi": "Chỉ đổi theo nhiệt độ"
+},
+"s3-01857": {
+"zh": "室温",
+"vi": "Nhiệt độ phòng"
+}
+}

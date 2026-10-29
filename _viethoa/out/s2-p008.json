@@ -1,0 +1,11 @@
+{
+"s2-00770": "<svg class=\"sheet-svg\" viewBox=\"0 0 ${e} ${n}\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Hình bài giảng mặt cắt đẳng cự tháp tổng hợp R-401\">\n<rect x=\"0\" y=\"0\" width=\"${e}\" height=\"${n}\" fill=\"#ffffff\"/>\n${X}\n${H}\n</svg>",
+"s2-00771": "<div class=\"sec-sheetwrap\">\n      <div class=\"sec-sheet-hd\"><b>${o.sheetTitle||\"Hình bài giảng\"}</b><span>${o.sheetHint||\"\"}</span></div>\n      ${O||'<div class=\"sec-sheet-none\">Bài này không có hình bài giảng</div>'}\n      <div class=\"sec-sheet-read\">${r.map($=>",
+"s2-00991": "<svg class=\"sheet-svg\" viewBox=\"0 0 ${e} ${n}\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Hình bài giảng mặt cắt đẳng cự tháp tổng hợp R-401\">\n<rect x=\"0\" y=\"0\" width=\"${e}\" height=\"${n}\" fill=\"#ffffff\"/>\n${rt}\n${O}\n</svg>",
+"s2-00992": "<div class=\"sec-sheetwrap\">\n      <div class=\"sec-sheet-hd\"><b>${o.sheetTitle||\"Hình bài giảng\"}</b><span>${o.sheetHint||\"\"}</span></div>\n      ${z||'<div class=\"sec-sheet-none\">Bài này không có hình bài giảng</div>'}\n      <div class=\"sec-sheet-read\">${r.map($=>",
+"s2-00995": "${k.unitOf} bước ${me.no}:",
+"s2-01317": "<svg class=\"sheet-svg\" viewBox=\"0 0 ${e} ${n}\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Hình bài giảng mặt cắt đẳng cự tháp tổng hợp R-401\">\n<rect x=\"0\" y=\"0\" width=\"${e}\" height=\"${n}\" fill=\"#ffffff\"/>\n${nt}\n${U}\n</svg>",
+"s2-01322": "${k.unitOf} bước ${pe.no}:",
+"s2-01661": "<svg class=\"sheet-svg\" viewBox=\"0 0 ${e} ${n}\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Hình bài giảng mặt cắt đẳng cự tháp tổng hợp R-401\">\n<rect x=\"0\" y=\"0\" width=\"${e}\" height=\"${n}\" fill=\"#ffffff\"/>\n${at}\n${B}\n</svg>",
+"s2-01662": "<div class=\"sec-sheetwrap\">\n      <div class=\"sec-sheet-hd\"><b>${o.sheetTitle||\"Hình bài giảng\"}</b><span>${o.sheetHint||\"\"}</span></div>\n      ${F||'<div class=\"sec-sheet-none\">Bài này không có hình bài giảng</div>'}\n      <div class=\"sec-sheet-read\">${r.map($=>"
+}

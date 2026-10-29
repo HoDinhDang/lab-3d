@@ -1,0 +1,186 @@
+{
+ "common": {
+  "lessons": [],
+  "strings": 444,
+  "zh_chars": 3311,
+  "titles": {}
+ },
+ "catalog": {
+  "lessons": [],
+  "strings": 116,
+  "zh_chars": 2797,
+  "titles": {}
+ },
+ "s1": {
+  "lessons": [
+   "accel-force-step",
+   "brownian-step",
+   "capacitor-step",
+   "centripetal-step",
+   "current-field-step",
+   "emf-step",
+   "energy-step",
+   "photoelectric-step"
+  ],
+  "strings": 1847,
+  "zh_chars": 29347,
+  "titles": {
+   "accel-force-step": "实验：探究加速度与力、质量的关系",
+   "brownian-step": "布朗运动与扩散",
+   "capacitor-step": "观察电容器的充放电",
+   "centripetal-step": "探究向心力大小与半径、角速度、质量的关系",
+   "current-field-step": "电流的磁场",
+   "emf-step": "测电源电动势和内阻",
+   "energy-step": "实验：验证机械能守恒定律",
+   "photoelectric-step": "光电效应"
+  }
+ },
+ "s2": {
+  "lessons": [
+   "projectile-step",
+   "self-induction-step",
+   "ammonia-step",
+   "ball-stick-step",
+   "blast-furnace-step",
+   "bromine-step",
+   "cement-step"
+  ],
+  "strings": 2008,
+  "zh_chars": 29050,
+  "titles": {
+   "projectile-step": "实验：探究平抛运动的特点",
+   "self-induction-step": "自感与涡流",
+   "ammonia-step": "氨的制备与性质（含喷泉实验）",
+   "ball-stick-step": "搭建球棍模型认识有机化合物分子结构",
+   "blast-furnace-step": "高炉炼铁",
+   "bromine-step": "海水提溴：空气吹出法",
+   "cement-step": "工业制水泥"
+  }
+ },
+ "s3": {
+  "lessons": [
+   "chlor-alkali-step",
+   "chlorine-step",
+   "coal-gas-step",
+   "conductivity-step",
+   "corrosion-step",
+   "electrolysis-step",
+   "equilibrium-step"
+  ],
+  "strings": 1862,
+  "zh_chars": 28830,
+  "titles": {
+   "chlor-alkali-step": "氯碱工业",
+   "chlorine-step": "氯气的制备及性质",
+   "coal-gas-step": "煤的综合利用：以煤的气化为主线",
+   "conductivity-step": "电解质的电离与溶液导电性、离子反应的实质",
+   "corrosion-step": "吸氧腐蚀与暖贴的设计",
+   "electrolysis-step": "电解原理：电解氯化铜溶液与饱和食盐水",
+   "equilibrium-step": "探究影响化学平衡移动的因素"
+  }
+ },
+ "s4": {
+  "lessons": [
+   "flame-step",
+   "galvanic-step",
+   "haber-step",
+   "hou-soda-step",
+   "hydrolysis-step",
+   "iron-step",
+   "nitric-lab-step"
+  ],
+  "strings": 1820,
+  "zh_chars": 29285,
+  "titles": {
+   "flame-step": "焰色试验与原子光谱",
+   "galvanic-step": "原电池：单液到双液",
+   "haber-step": "合成氨工业",
+   "hou-soda-step": "侯氏制碱",
+   "hydrolysis-step": "盐类的水解及其应用",
+   "iron-step": "铁及其化合物：铁的价态转化",
+   "nitric-lab-step": "浓、稀硝酸的性质与氮氧化物的转化"
+  }
+ },
+ "s5": {
+  "lessons": [
+   "rate-step",
+   "smelting-step",
+   "sodium-step",
+   "sulfur-step",
+   "sulfuric-step",
+   "titration-step",
+   "enzyme-step"
+  ],
+  "strings": 1761,
+  "zh_chars": 29816,
+  "titles": {
+   "rate-step": "化学反应速率的影响因素",
+   "smelting-step": "金属冶炼：电解熔融盐 + 铝热",
+   "sodium-step": "金属钠的性质（含钠着火扑救）",
+   "sulfur-step": "硫、二氧化硫、浓硫酸的性质与不同价态含硫物质的转化",
+   "sulfuric-step": "接触法制硫酸",
+   "titration-step": "强酸与强碱的中和滴定",
+   "enzyme-step": "影响酶活性的条件"
+  }
+ },
+ "s6": {
+  "lessons": [
+   "impulse-step",
+   "mitosis-step",
+   "plasmolysis-step",
+   "transport-step",
+   "carbon-step",
+   "circulation-step",
+   "currents-step",
+   "earth-motion-step"
+  ],
+  "strings": 1894,
+  "zh_chars": 29567,
+  "titles": {
+   "impulse-step": "神经冲动的产生和传导",
+   "mitosis-step": "观察根尖分生区组织细胞的有丝分裂",
+   "plasmolysis-step": "植物细胞的吸水和失水",
+   "transport-step": "物质跨膜运输",
+   "carbon-step": "全球气候变化与国家安全",
+   "circulation-step": "气压带、风带与三圈环流",
+   "currents-step": "世界洋流的分布规律与影响",
+   "earth-motion-step": "地球运动的地理意义"
+  }
+ },
+ "s7": {
+  "lessons": [
+   "enso-step",
+   "heating-step",
+   "insolation-step",
+   "karst-step",
+   "river-step",
+   "soil-step",
+   "tectonic-step",
+   "thermal-step"
+  ],
+  "strings": 1881,
+  "zh_chars": 27798,
+  "titles": {
+   "enso-step": "海—气相互作用与厄尔尼诺、拉尼娜",
+   "heating-step": "大气受热过程",
+   "insolation-step": "太阳直射点的回归运动与四季、五带",
+   "karst-step": "喀斯特地貌的形成与识别",
+   "river-step": "河流地貌的发育",
+   "soil-step": "土壤的主要形成因素与土壤剖面观察",
+   "tectonic-step": "构造地貌的形成",
+   "thermal-step": "大气热力环流"
+  }
+ },
+ "s8": {
+  "lessons": [
+   "water-cycle-step",
+   "wind-step"
+  ],
+  "strings": 515,
+  "zh_chars": 7830,
+  "titles": {
+   "water-cycle-step": "水循环的过程与地理意义",
+   "wind-step": "大气的水平运动——风"
+  }
+ }
+}

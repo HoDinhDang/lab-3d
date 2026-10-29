@@ -1,0 +1,1274 @@
+[
+  {
+    "slug": "haber-step",
+    "subject": "chem",
+    "title": "Tổng hợp ammonia",
+    "type": "Quy trình công nghiệp",
+    "question": "Làm thế nào biến nitrogen trong không khí thành ammonia vừa nhanh, vừa nhiều, vừa tiết kiệm?",
+    "textbook": [
+      "Tự chọn bắt buộc 1 Nguyên lý phản ứng hoá học · Chương 2 Tốc độ phản ứng hoá học và cân bằng hoá học · Bài 4 Điều khiển phản ứng hoá học",
+      "Bắt buộc – Tập 2 · Chương 5 Các nguyên tố phi kim quan trọng trong sản xuất hoá học · Bài 2 Nitrogen và hợp chất"
+    ],
+    "steps": [
+      "Vì sao xây nhà máy",
+      "Vì sao làm sạch",
+      "Vì sao tăng áp",
+      "Vì sao nhiệt độ cao",
+      "Trong tháp ra sao",
+      "Vì sao tuần hoàn",
+      "Kiểm tra · trưởng ca"
+    ],
+    "file": "courses/haber-step.html",
+    "cover": "covers/haber-step.webp",
+    "online": "https://lab.tongjiang.app/c/haber-step/"
+  },
+  {
+    "slug": "river-step",
+    "subject": "geo",
+    "title": "Sự phát triển của địa hình sông",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Vì sao đường bờ đoạn Trấn Giang của sông Trường Giang liên tục dịch chuyển về phía bắc?",
+    "textbook": [
+      "Tự chọn bắt buộc 1 Cơ sở địa lý tự nhiên · Chương 2 Sự hình thành địa hình bề mặt · Bài 3 Sự phát triển của địa hình sông"
+    ],
+    "steps": [
+      "Làm quen sa bàn",
+      "Thung lũng chữ V",
+      "Mặt cắt thung lũng",
+      "Quạt bồi tích",
+      "Bờ lõm, bờ lồi",
+      "Bãi bồi",
+      "Tam giác châu",
+      "Kiểm tra: mùa lũ tới"
+    ],
+    "file": "courses/river-step.html",
+    "cover": "covers/river-step.webp",
+    "online": "https://lab.tongjiang.app/c/river-step/"
+  },
+  {
+    "slug": "rate-step",
+    "subject": "chem",
+    "title": "Các yếu tố ảnh hưởng đến tốc độ phản ứng hoá học",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Cùng là hai phản ứng, vì sao có phản ứng vài giây đã xong, có phản ứng phải chờ rất lâu? Nhanh hay chậm rốt cuộc do đâu quyết định?",
+    "textbook": [
+      "Bắt buộc – Tập 2 · Chương 6 Phản ứng hoá học và năng lượng · Hoạt động thí nghiệm 7 Các yếu tố ảnh hưởng đến tốc độ phản ứng hoá học",
+      "Tự chọn bắt buộc 1 Nguyên lý phản ứng hoá học · Chương 2 Tốc độ phản ứng hoá học và cân bằng hoá học · Bài 1 Tốc độ phản ứng hoá học"
+    ],
+    "steps": [
+      "Làm quen bàn TN",
+      "Nồng độ",
+      "Nhiệt độ",
+      "Chất xúc tác",
+      "Đo tốc độ",
+      "Nhìn vào trong",
+      "Sai số và thao tác sai",
+      "Kiểm tra · Tự làm TN"
+    ],
+    "file": "courses/rate-step.html",
+    "cover": "covers/rate-step.webp",
+    "online": "https://lab.tongjiang.app/c/rate-step/"
+  },
+  {
+    "slug": "insolation-step",
+    "subject": "geo",
+    "title": "Chuyển động biểu kiến của điểm Mặt Trời lên thiên đỉnh, bốn mùa và năm vành đai nhiệt",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Góc nhập xạ lúc giữa trưa và hướng Mặt Trời lúc giữa trưa ở nơi trường em, vì sao trong một năm lại thay đổi có quy luật?",
+    "textbook": [
+      "Tự chọn bắt buộc 1 Cơ sở địa lý tự nhiên · Chương 1 Chuyển động của Trái Đất · Bài 2 Hệ quả địa lý của các chuyển động của Trái Đất · Chuyển động biểu kiến của điểm Mặt Trời lên thiên đỉnh · Bốn mùa và năm vành đai nhiệt"
+    ],
+    "steps": [
+      "Góc hoàng – xích",
+      "Chuyển động biểu kiến",
+      "Góc giữa trưa",
+      "Theo vĩ độ",
+      "Thay đổi trong năm",
+      "Hướng giữa trưa",
+      "Bốn mùa",
+      "5 vành đai nhiệt",
+      "Kiểm tra · vành đai"
+    ],
+    "file": "courses/insolation-step.html",
+    "cover": "covers/insolation-step.webp",
+    "online": "https://lab.tongjiang.app/c/insolation-step/"
+  },
+  {
+    "slug": "ball-stick-step",
+    "subject": "chem",
+    "title": "Lắp mô hình rỗng (quả cầu – que) tìm hiểu cấu trúc phân tử hợp chất hữu cơ",
+    "type": "Mô phỏng nguyên lý và hiện tượng",
+    "question": "Phân tử vẽ trên giấy thì phẳng, hình dạng ba chiều thực sự của nó ra sao? Lắp một mô hình rỗng thì thấy được gì?",
+    "textbook": [
+      "Bắt buộc – Tập 2 · Chương 7 Hợp chất hữu cơ · Hoạt động thí nghiệm 8 Lắp mô hình rỗng để tìm hiểu cấu trúc phân tử hợp chất hữu cơ"
+    ],
+    "steps": [
+      "Hộp linh kiện",
+      "Methane",
+      "Dichloromethane",
+      "Liên kết đơn quay được",
+      "Mạch carbon",
+      "Đồng phân",
+      "Ethylene và acetylene",
+      "Benzene",
+      "Kiểm tra"
+    ],
+    "file": "courses/ball-stick-step.html",
+    "cover": "covers/ball-stick-step.webp",
+    "online": "https://lab.tongjiang.app/c/ball-stick-step/"
+  },
+  {
+    "slug": "titration-step",
+    "subject": "chem",
+    "title": "Chuẩn độ acid mạnh bằng base mạnh",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Trước đó thêm hơn 20 mL gần như không thấy thay đổi, vì sao nửa giọt cuối cùng lại làm đổi màu hẳn?",
+    "textbook": [
+      "Tự chọn bắt buộc 1 Nguyên lý phản ứng hoá học · Chương 3 Phản ứng ion và cân bằng trong dung dịch nước · Bài 2 Sự điện li của nước và pH của dung dịch · Chuẩn độ trung hoà acid – base · Hoạt động thí nghiệm 2"
+    ],
+    "steps": [
+      "Bộ chuẩn độ",
+      "Tráng, đuổi bọt khí",
+      "Lấy dung dịch và thêm chất chỉ thị",
+      "Nhỏ từng giọt",
+      "Nửa giọt đến điểm cuối",
+      "Đọc số, tính toán",
+      "Nhìn vào trong",
+      "Sai số và thao tác sai",
+      "Kiểm tra · chuẩn độ"
+    ],
+    "file": "courses/titration-step.html",
+    "cover": "covers/titration-step.webp",
+    "online": "https://lab.tongjiang.app/c/titration-step/"
+  },
+  {
+    "slug": "chlorine-step",
+    "subject": "chem",
+    "title": "Điều chế và tính chất của chlorine",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Muốn có một bình chlorine khô, tinh khiết, mỗi đoạn của bộ thí nghiệm đảm nhận việc gì? Thiếu một đoạn thì sao?",
+    "textbook": [
+      "Bắt buộc – Tập 1 · Chương 2 Các nguyên tố quan trọng trong nước biển – sodium và chlorine · Bài 2 Chlorine và hợp chất"
+    ],
+    "steps": [
+      "Làm quen bộ thí nghiệm",
+      "Vì sao đun nóng",
+      "Vì sao cần acid đặc",
+      "Bình thứ nhất rửa gì",
+      "Bình thứ hai rửa gì",
+      "Thu thế nào",
+      "Chlorine dư đi đâu",
+      "Nước chlorine có gì",
+      "Kiểm tra · Tự làm TN"
+    ],
+    "file": "courses/chlorine-step.html",
+    "cover": "covers/chlorine-step.webp",
+    "online": "https://lab.tongjiang.app/c/chlorine-step/"
+  },
+  {
+    "slug": "blast-furnace-step",
+    "subject": "chem",
+    "title": "Luyện gang lò cao",
+    "type": "Quy trình công nghiệp",
+    "question": "Một đống quặng đổ xuống từ đỉnh lò, sao vài giờ sau đã thành dòng gang lỏng, lại còn càng tiết kiệm càng tốt?",
+    "textbook": [
+      "Bắt buộc – Tập 2 · Chương 8 Hoá học và phát triển bền vững · Bài 1 Khai thác và sử dụng tài nguyên thiên nhiên · Khai thác và sử dụng khoáng sản kim loại"
+    ],
+    "steps": [
+      "Quặng thành gang",
+      "Rải liệu thành lớp",
+      "Cắt ra xem lớp",
+      "Mắt gió đốt cốc",
+      "Khử từng cấp",
+      "Đá vôi tạo xỉ",
+      "Bài toán nhiệt độ gió",
+      "Kiểm tra ca trực"
+    ],
+    "file": "courses/blast-furnace-step.html",
+    "cover": "covers/blast-furnace-step.webp",
+    "online": "https://lab.tongjiang.app/c/blast-furnace-step/"
+  },
+  {
+    "slug": "smelting-step",
+    "subject": "chem",
+    "title": "Luyện kim: điện phân muối nóng chảy + nhiệt nhôm",
+    "type": "Quy trình công nghiệp",
+    "question": "Vì sao nhôm chỉ có thể dùng điện để “tách” ra, còn sắt lại có thể bị nhôm “đẩy” ra?",
+    "textbook": [
+      "Bắt buộc – Tập 2 · Chương 8 Hoá học và phát triển bền vững · Bài 1 Khai thác và sử dụng tài nguyên thiên nhiên · Khai thác và sử dụng khoáng sản kim loại"
+    ],
+    "steps": [
+      "Ba bàn",
+      "Chỉ điện phân",
+      "Cắt bể",
+      "Ai đi về đâu",
+      "Thêm cryolite",
+      "Bài toán điện năng",
+      "Nhiệt nhôm",
+      "Kiểm tra ca trực"
+    ],
+    "file": "courses/smelting-step.html",
+    "cover": "covers/smelting-step.webp",
+    "online": "https://lab.tongjiang.app/c/smelting-step/"
+  },
+  {
+    "slug": "currents-step",
+    "subject": "geo",
+    "title": "Quy luật phân bố và ảnh hưởng của các dòng biển trên thế giới",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Hàng vạn con vịt đồ chơi rơi xuống mặt biển, vì sao lại trôi dạt tới bờ biển khắp nơi trên thế giới?",
+    "textbook": [
+      "Tự chọn bắt buộc 1 Cơ sở địa lý tự nhiên · Chương 4 Sự vận động của nước · Bài 2 Dòng biển",
+      "Bắt buộc – Tập 1 · Chương 3 Nước trên Trái Đất · Bài 3 Sự vận động của nước biển"
+    ],
+    "steps": [
+      "Gió đẩy nước đi",
+      "Vĩ độ thấp – TB thành vòng",
+      "Vĩ độ TB – cao quay ngược",
+      "Dòng nóng, lạnh",
+      "Không vòng, đảo chiều",
+      "Tính chất nước biển",
+      "Ảnh hưởng khí hậu",
+      "Ngư trường",
+      "Kiểm tra · Bốn điểm"
+    ],
+    "file": "courses/currents-step.html",
+    "cover": "covers/currents-step.webp",
+    "online": "https://lab.tongjiang.app/c/currents-step/"
+  },
+  {
+    "slug": "enso-step",
+    "subject": "geo",
+    "title": "Tương tác biển – khí quyển và El Niño, La Niña",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Ven biển Pê-ru quanh năm khô hạn, vì sao cuối năm 2016 nước biển vừa ấm lên đã mưa lớn, làm gần một trăm người thiệt mạng?",
+    "textbook": [
+      "Tự chọn bắt buộc 1 Cơ sở địa lý tự nhiên · Chương 4 Sự vận động của nước · Bài 3 Tương tác biển – khí quyển"
+    ],
+    "steps": [
+      "Trao đổi",
+      "Chênh",
+      "Hoàn lưu",
+      "El Niño",
+      "Vượt ngưỡng",
+      "La Niña",
+      "Kiểm tra"
+    ],
+    "file": "courses/enso-step.html",
+    "cover": "covers/enso-step.webp",
+    "online": "https://lab.tongjiang.app/c/enso-step/"
+  },
+  {
+    "slug": "coal-gas-step",
+    "subject": "chem",
+    "title": "Sử dụng tổng hợp than đá: lấy khí hoá than làm mạch chính",
+    "type": "Quy trình công nghiệp",
+    "question": "Than đá chỉ để đốt thôi sao? Làm thế nào biến than thành khí để sản xuất phân bón, methanol?",
+    "textbook": [
+      "Bắt buộc – Tập 2 · Chương 8 Hoá học và phát triển bền vững · Bài 1 Khai thác và sử dụng tài nguyên thiên nhiên · Sử dụng tổng hợp than"
+    ],
+    "steps": [
+      "Vì sao khí hoá",
+      "Cấp nhiệt hay cấp khí",
+      "Bên trong lò trông thế nào",
+      "Hơi nước nhiều hay ít thì tốt",
+      "Chuyển hoá CO chỉnh tỉ lệ",
+      "Vì sao khử lưu huỳnh",
+      "Thành sản phẩm gì",
+      "Kiểm tra"
+    ],
+    "file": "courses/coal-gas-step.html",
+    "cover": "covers/coal-gas-step.webp",
+    "online": "https://lab.tongjiang.app/c/coal-gas-step/"
+  },
+  {
+    "slug": "sulfuric-step",
+    "subject": "chem",
+    "title": "Điều chế H₂SO₄ (PP tiếp xúc)",
+    "type": "Quy trình công nghiệp",
+    "question": "Làm thế nào biến sulfur trong quặng thành sulfuric acid vừa nhanh, vừa nhiều, vừa tiết kiệm, vừa sạch?",
+    "textbook": [
+      "Bắt buộc – Tập 2 · Chương 5 Các nguyên tố phi kim quan trọng trong sản xuất hoá học · Bài 1 Sulfur và hợp chất · Sản xuất sulfuric acid trong công nghiệp"
+    ],
+    "steps": [
+      "Vì sao chia 5 công đoạn",
+      "Vì sao làm sạch trước",
+      "Vì sao nhiệt độ này",
+      "Vì sao áp suất thường",
+      "Trong tháp ra sao",
+      "Vì sao dùng acid đặc",
+      "Kiểm tra · trưởng ca"
+    ],
+    "file": "courses/sulfuric-step.html",
+    "cover": "covers/sulfuric-step.webp",
+    "online": "https://lab.tongjiang.app/c/sulfuric-step/"
+  },
+  {
+    "slug": "hydrolysis-step",
+    "subject": "chem",
+    "title": "Sự thuỷ phân của muối và ứng dụng",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Các ion do muối phân li ra trông “chẳng acid cũng chẳng base”, dựa vào đâu mà làm dung dịch có tính acid hay base?",
+    "textbook": [
+      "Tự chọn bắt buộc 1 Nguyên lý phản ứng hoá học · Chương 3 Phản ứng ion và cân bằng trong dung dịch nước · Bài 3 Sự thuỷ phân của muối · Hoạt động thí nghiệm 3 Ứng dụng của sự thuỷ phân muối"
+    ],
+    "steps": [
+      "Làm quen thí nghiệm",
+      "Loại muối",
+      "Nhìn vào trong",
+      "Nồng độ",
+      "Nhiệt độ",
+      "Thêm acid ức chế",
+      "Làm trong",
+      "Đun sôi và cô cạn",
+      "Kiểm tra · pha dd"
+    ],
+    "file": "courses/hydrolysis-step.html",
+    "cover": "covers/hydrolysis-step.webp",
+    "online": "https://lab.tongjiang.app/c/hydrolysis-step/"
+  },
+  {
+    "slug": "heating-step",
+    "subject": "geo",
+    "title": "Khí quyển nhận nhiệt",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Mặt đất phơi nắng cả ngày, vì sao ban ngày nóng lên trước, ban đêm lại nguội nhanh đến thế – khí quyển rốt cuộc giữ lại cho mặt đất bao nhiêu nhiệt?",
+    "textbook": [
+      "Bắt buộc – Tập 1 · Chương 2 Khí quyển Trái Đất · Bài 2 Quá trình nhận nhiệt và chuyển động của khí quyển · Quá trình nhận nhiệt của khí quyển"
+    ],
+    "steps": [
+      "Suy yếu",
+      "Mặt đất hấp thụ",
+      "Sóng dài",
+      "Giữ lại",
+      "Bức xạ ngược",
+      "Mây",
+      "Khí nhà kính",
+      "Đối chứng Mặt Trăng",
+      "Kiểm tra"
+    ],
+    "file": "courses/heating-step.html",
+    "cover": "covers/heating-step.webp",
+    "online": "https://lab.tongjiang.app/c/heating-step/"
+  },
+  {
+    "slug": "karst-step",
+    "subject": "geo",
+    "title": "Sự hình thành và nhận biết địa hình các-xtơ",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Từ Hà Khách viết “núi dựng tách rời, xếp hàng đua nhọn” – những đỉnh nhọn như mọc lên từ lòng đất này được biến ra từ một lớp đá như thế nào?",
+    "textbook": [
+      "Bắt buộc – Tập 1 · Chương 4 Địa hình · Bài 1 Các dạng địa hình thường gặp · Địa hình các-xtơ"
+    ],
+    "steps": [
+      "Tan",
+      "Rãnh→trũng",
+      "Cụm đỉnh→rừng đá",
+      "Núi sót→đồi sót",
+      "Nhanh chậm",
+      "Hang",
+      "Kiểm tra"
+    ],
+    "file": "courses/karst-step.html",
+    "cover": "covers/karst-step.webp",
+    "online": "https://lab.tongjiang.app/c/karst-step/"
+  },
+  {
+    "slug": "cement-step",
+    "subject": "chem",
+    "title": "Sản xuất xi măng",
+    "type": "Quy trình công nghiệp",
+    "question": "Một xe đá và đất, dựa vào đâu mà nghiền một chút, nung một chút, rồi nghiền thêm là thành xi măng đủ sức xây đập?",
+    "textbook": [
+      "Bắt buộc – Tập 2 · Chương 5 Các nguyên tố phi kim quan trọng trong sản xuất hoá học · Bài 3 Vật liệu vô cơ phi kim loại"
+    ],
+    "steps": [
+      "Xem toàn nhà máy",
+      "Chuẩn bị liệu",
+      "Gia nhiệt – phân huỷ",
+      "Đi trong lò",
+      "Vùng nung",
+      "Làm nguội nhanh",
+      "Thêm thạch cao",
+      "Kiểm tra ca trực"
+    ],
+    "file": "courses/cement-step.html",
+    "cover": "covers/cement-step.webp",
+    "online": "https://lab.tongjiang.app/c/cement-step/"
+  },
+  {
+    "slug": "carbon-step",
+    "subject": "geo",
+    "title": "Biến đổi khí hậu toàn cầu và an ninh quốc gia",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Vì sao Man-đi-vơ lại tổ chức họp nội các dưới đáy biển sâu 6 mét?",
+    "textbook": [
+      "Tự chọn bắt buộc 3 Tài nguyên, môi trường và an ninh quốc gia · Chương 3 An ninh môi trường và an ninh quốc gia · Bài 4 Biến đổi khí hậu toàn cầu và an ninh quốc gia"
+    ],
+    "steps": [
+      "Chu trình carbon",
+      "Hai nguồn vào",
+      "Phát thải đi đâu",
+      "Giữ nhiệt tăng",
+      "Vượt ngưỡng",
+      "Quốc gia",
+      "Ứng phó",
+      "Kiểm tra"
+    ],
+    "file": "courses/carbon-step.html",
+    "cover": "covers/carbon-step.webp",
+    "online": "https://lab.tongjiang.app/c/carbon-step/"
+  },
+  {
+    "slug": "tectonic-step",
+    "subject": "geo",
+    "title": "Sự hình thành địa hình kiến tạo",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Vì sao trên cao nguyên Thanh Tạng lại tìm thấy hoá thạch lá cây lá rộng – sức mạnh nào đã nâng bề mặt lên, rồi lại cắt nó ra?",
+    "textbook": [
+      "Tự chọn bắt buộc 1 Cơ sở địa lý tự nhiên · Chương 2 Sự hình thành địa hình bề mặt · Bài 2 Sự hình thành địa hình kiến tạo"
+    ],
+    "steps": [
+      "Uốn",
+      "Phân bổ",
+      "Đảo ngược",
+      "Xê dịch",
+      "Nâng hạ",
+      "Kiểm tra"
+    ],
+    "file": "courses/tectonic-step.html",
+    "cover": "covers/tectonic-step.webp",
+    "online": "https://lab.tongjiang.app/c/tectonic-step/"
+  },
+  {
+    "slug": "photoelectric-step",
+    "subject": "phys",
+    "title": "Hiệu ứng quang điện",
+    "type": "Nguyên lý và TN",
+    "question": "Cùng một chùm sáng, vì sao đổi sang kim loại khác thì không bật ra được electron nào? Năng lượng của quang electron rốt cuộc do yếu tố nào của ánh sáng quyết định?",
+    "textbook": [
+      "Tự chọn bắt buộc – Tập 3 · Chương 4 Cấu trúc nguyên tử và lưỡng tính sóng – hạt · Bài 2 Hiệu ứng quang điện"
+    ],
+    "steps": [
+      "Làm quen mạch điện",
+      "Tăng đến bão hoà",
+      "Quét chiều ngược",
+      "Đổi cường độ sáng",
+      "Đổi tần số",
+      "Đổi kim loại",
+      "Vẽ đồ thị đo h",
+      "Dụng cụ thực",
+      "Kiểm tra"
+    ],
+    "file": "courses/photoelectric-step.html",
+    "cover": "covers/photoelectric-step.webp",
+    "online": "https://lab.tongjiang.app/c/photoelectric-step/"
+  },
+  {
+    "slug": "capacitor-step",
+    "subject": "phys",
+    "title": "Quan sát sự tích điện và phóng điện của tụ điện",
+    "type": "Nguyên lý và TN",
+    "question": "Trong tụ điện thực sự chứa cái gì? Có thể chỉ dùng một con số để đo “sức chứa” của nó không?",
+    "textbook": [
+      "Bắt buộc – Tập 3 · Chương 10 Năng lượng trong điện trường tĩnh · Bài 4 Điện dung của tụ điện · Thí nghiệm bắt buộc của học sinh: Quan sát sự tích điện và phóng điện của tụ điện"
+    ],
+    "steps": [
+      "Làm quen dụng cụ",
+      "Gạt sang 1 tích điện",
+      "Gạt sang 2 phóng điện",
+      "Diện tích ra điện tích",
+      "Hai cách mắc",
+      "Ghi q-u",
+      "Đổi C, đổi R",
+      "Dụng cụ thực",
+      "Kiểm tra"
+    ],
+    "file": "courses/capacitor-step.html",
+    "cover": "covers/capacitor-step.webp",
+    "online": "https://lab.tongjiang.app/c/capacitor-step/"
+  },
+  {
+    "slug": "earth-motion-step",
+    "subject": "geo",
+    "title": "Hệ quả địa lý của các chuyển động của Trái Đất",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Cùng một thời điểm, vì sao ở Bắc Kinh là giữa trưa, ở Niu Oóc là nửa đêm, và ban ngày mùa hạ lại dài hơn mùa đông?",
+    "textbook": [
+      "Tự chọn bắt buộc 1 Cơ sở địa lý tự nhiên · Chương 1 Chuyển động của Trái Đất · Bài 2 Hệ quả địa lý của các chuyển động của Trái Đất",
+      "Tự chọn bắt buộc 1 Cơ sở địa lý tự nhiên · Chương 1 Chuyển động của Trái Đất · Bài 1 Chuyển động tự quay và chuyển động quanh Mặt Trời của Trái Đất"
+    ],
+    "steps": [
+      "Tự quay",
+      "Quanh Mặt Trời",
+      "Bán cầu ngày/đêm",
+      "Đường sáng, đường tối",
+      "Giờ địa phương",
+      "Múi giờ, đường chuyển ngày",
+      "Độ dài ngày đêm",
+      "Góc nhập xạ giữa trưa",
+      "Kiểm tra · Chênh lệch giờ"
+    ],
+    "file": "courses/earth-motion-step.html",
+    "cover": "covers/earth-motion-step.webp",
+    "online": "https://lab.tongjiang.app/c/earth-motion-step/"
+  },
+  {
+    "slug": "accel-force-step",
+    "subject": "phys",
+    "title": "Thí nghiệm: Tìm hiểu mối liên hệ giữa gia tốc với lực và khối lượng",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Không đo trực tiếp lực, cũng không đo trực tiếp gia tốc – chỉ với một băng giấy và vài quả nặng móc, liệu có đo được mối liên hệ giữa a với F và m không?",
+    "textbook": [
+      "Bắt buộc – Tập 1 · Chương 4 Mối liên hệ giữa chuyển động và lực · Bài 2 Thí nghiệm: Tìm hiểu mối liên hệ giữa gia tốc với lực và khối lượng"
+    ],
+    "steps": [
+      "Làm quen dụng cụ",
+      "Cân bằng ma sát",
+      "Gõ băng giấy",
+      "Tính gia tốc",
+      "a và F",
+      "a và m",
+      "Sai số",
+      "Kiểm tra"
+    ],
+    "file": "courses/accel-force-step.html",
+    "cover": "covers/accel-force-step.webp",
+    "online": "https://lab.tongjiang.app/c/accel-force-step/"
+  },
+  {
+    "slug": "iron-step",
+    "subject": "chem",
+    "title": "Sắt và hợp chất: chuyển hoá giữa các số oxi hoá của sắt",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Cùng là nguyên tố sắt, vì sao trong ống nghiệm lúc là +2, lúc là +3, và dựa vào đâu ta biết nó là loại nào?",
+    "textbook": [
+      "Bắt buộc – Tập 1 · Chương 3 Sắt, vật liệu kim loại · Bài 1 Sắt và hợp chất"
+    ],
+    "steps": [
+      "Làm quen thí nghiệm",
+      "Kết tủa trắng",
+      "Cách li không khí",
+      "Nhận biết bằng KSCN",
+      "Hạ số oxi hoá",
+      "Nâng số oxi hoá",
+      "Nhìn vào trong",
+      "Trạm thử sắt",
+      "Kiểm tra · hạ về +2"
+    ],
+    "file": "courses/iron-step.html",
+    "cover": "covers/iron-step.webp",
+    "online": "https://lab.tongjiang.app/c/iron-step/"
+  },
+  {
+    "slug": "plasmolysis-step",
+    "subject": "bio",
+    "title": "Sự hút nước và mất nước của tế bào thực vật",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Rau ngâm trong nước sạch sẽ cứng giòn, rắc muối thì rỉ nước – tế bào thực vật hút nước và mất nước như thế nào?",
+    "textbook": [
+      "Bắt buộc 1 Phân tử và tế bào · Chương 4 Sự vận chuyển các chất vào và ra khỏi tế bào · Bài 1 Vận chuyển thụ động · Tìm hiểu · Thực hành: Tìm hiểu sự hút nước và mất nước của tế bào thực vật"
+    ],
+    "steps": [
+      "Thẩm thấu",
+      "Lớp nguyên sinh chất",
+      "Mất nước",
+      "Nước đi đâu",
+      "Phản co",
+      "Glycerol",
+      "Đo nồng độ",
+      "Kiểm tra"
+    ],
+    "file": "courses/plasmolysis-step.html",
+    "cover": "covers/plasmolysis-step.webp",
+    "online": "https://lab.tongjiang.app/c/plasmolysis-step/"
+  },
+  {
+    "slug": "electrolysis-step",
+    "subject": "chem",
+    "title": "Nguyên lý điện phân: điện phân dung dịch copper(II) chloride và dung dịch muối ăn bão hoà",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Cùng một nguồn điện một chiều, vì sao điện phân dung dịch copper(II) chloride thu được copper và chlorine, còn điện phân dung dịch muối ăn bão hoà lại thu được hydrogen, chlorine và sodium hydroxide?",
+    "textbook": [
+      "Tự chọn bắt buộc 1 Nguyên lý phản ứng hoá học · Chương 4 Phản ứng hoá học và điện năng · Bài 2 Bình điện phân · Điện phân dung dịch copper(II) chloride · Điện phân dung dịch muối ăn bão hoà"
+    ],
+    "steps": [
+      "Làm quen thí nghiệm",
+      "Nối nguồn điện",
+      "Điện phân lâu hơn",
+      "Nhìn vào trong",
+      "Đổi sang nước muối",
+      "Vùng cathode hoá hồng",
+      "Thứ tự phóng điện",
+      "Cu làm anode",
+      "Kiểm tra · thu 29.6 mg copper"
+    ],
+    "file": "courses/electrolysis-step.html",
+    "cover": "covers/electrolysis-step.webp",
+    "online": "https://lab.tongjiang.app/c/electrolysis-step/"
+  },
+  {
+    "slug": "ammonia-step",
+    "subject": "chem",
+    "title": "Điều chế và tính chất của ammonia (gồm thí nghiệm “đài phun”)",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Một bình khí ammonia, dựa vào đâu mà tự “hút” được nước trong cốc lên bình?",
+    "textbook": [
+      "Bắt buộc – Tập 2 · Chương 5 Các nguyên tố phi kim quan trọng trong sản xuất hoá học · Bài 2 Nitrogen và hợp chất · Ammonia và muối ammonium"
+    ],
+    "steps": [
+      "Toàn bộ thiết bị",
+      "Miệng ống hướng nào",
+      "Chọn chất làm khô",
+      "Thu thế nào",
+      "Thu bao lâu",
+      "Kiểm tra đầy và khói trắng",
+      "Làm đài phun",
+      "Nhìn vào trong",
+      "Kiểm tra · làm đài phun"
+    ],
+    "file": "courses/ammonia-step.html",
+    "cover": "covers/ammonia-step.webp",
+    "online": "https://lab.tongjiang.app/c/ammonia-step/"
+  },
+  {
+    "slug": "equilibrium-step",
+    "subject": "chem",
+    "title": "Tìm hiểu các yếu tố ảnh hưởng đến chuyển dịch cân bằng hoá học",
+    "type": "Nguyên lý và TN",
+    "question": "Thay đổi một điều kiện, dựa vào đâu mà nói cân bằng “chuyển dịch về phía nào”?",
+    "textbook": [
+      "Tự chọn bắt buộc 1 Nguyên lý phản ứng hoá học · Chương 2 Tốc độ phản ứng hoá học và cân bằng hoá học · Hoạt động thí nghiệm 1 Tìm hiểu các yếu tố ảnh hưởng đến chuyển dịch cân bằng hoá học"
+    ],
+    "steps": [
+      "Làm quen bàn TN",
+      "Thêm chất ống Fe",
+      "Bột sắt bớt chất",
+      "Thêm kiềm vào ống Cr",
+      "Thêm acid vào ống Cr",
+      "Hai chậu nóng – lạnh",
+      "Nhìn vào trong",
+      "Sai số · số đọc",
+      "Kiểm tra"
+    ],
+    "file": "courses/equilibrium-step.html",
+    "cover": "covers/equilibrium-step.webp",
+    "online": "https://lab.tongjiang.app/c/equilibrium-step/"
+  },
+  {
+    "slug": "flame-step",
+    "subject": "chem",
+    "title": "Thử màu ngọn lửa và quang phổ nguyên tử",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Vì sao mỗi kim loại cho ngọn lửa một màu riêng, và dựa vào đâu mà chút màu ấy có thể coi là “phiếu kết quả phân tích”?",
+    "textbook": [
+      "Bắt buộc – Tập 1 · Chương 2 Các nguyên tố quan trọng trong nước biển – sodium và chlorine · Bài 1 Sodium và hợp chất · Thử màu ngọn lửa",
+      "Tự chọn bắt buộc 2 Cấu trúc và tính chất của chất · Chương 1 Cấu trúc và tính chất của nguyên tử · Bài 1 Cấu trúc nguyên tử · Quang phổ nguyên tử"
+    ],
+    "steps": [
+      "Làm quen thí nghiệm",
+      "Rửa dây Pt",
+      "Vạch kép Na",
+      "K và kính cobalt",
+      "Năng lượng và bước sóng",
+      "Phát xạ và hấp thụ",
+      "Sáu kim loại",
+      "Kiểm tra · nhận biết K"
+    ],
+    "file": "courses/flame-step.html",
+    "cover": "covers/flame-step.webp",
+    "online": "https://lab.tongjiang.app/c/flame-step/"
+  },
+  {
+    "slug": "galvanic-step",
+    "subject": "chem",
+    "title": "Pin điện hoá: từ một dung dịch đến hai dung dịch",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Trong một cốc sulfuric acid loãng đã có dòng điện rồi, vì sao còn phải đổi thành hai cốc và thêm một cầu muối?",
+    "textbook": [
+      "Bắt buộc – Tập 2 · Chương 6 Phản ứng hoá học và năng lượng · Bài 1 Phản ứng hoá học và sự biến đổi năng lượng · Hoạt động thí nghiệm 6 Chuyển hoá năng lượng hoá học thành điện năng",
+      "Tự chọn bắt buộc 1 Nguyên lý phản ứng hoá học · Chương 4 Phản ứng hoá học và điện năng · Bài 1 Pin điện hoá"
+    ],
+    "steps": [
+      "Hai bộ pin",
+      "Nối dây dẫn",
+      "Cái gì đang chạy",
+      "Hạn chế pin 1 dd",
+      "Đổi sang hai dd",
+      "Rút cầu muối",
+      "Nhìn vào trong",
+      "Nồng độ",
+      "Kiểm tra · lắp pin"
+    ],
+    "file": "courses/galvanic-step.html",
+    "cover": "covers/galvanic-step.webp",
+    "online": "https://lab.tongjiang.app/c/galvanic-step/"
+  },
+  {
+    "slug": "conductivity-step",
+    "subject": "chem",
+    "title": "Sự điện li của chất điện li, tính dẫn điện của dung dịch và bản chất của phản ứng ion",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Tay khô hay tay ướt cũng là cùng một bàn tay, sao tay ướt lại dễ bị điện giật hơn?",
+    "textbook": [
+      "Bắt buộc – Tập 1 · Chương 1 Chất và sự biến đổi của chất · Bài 2 Phản ứng ion",
+      "Tự chọn bắt buộc 1 Nguyên lý phản ứng hoá học · Chương 3 Phản ứng ion và cân bằng trong dung dịch nước · Bài 1 Cân bằng điện li · Chất điện li mạnh và chất điện li yếu"
+    ],
+    "steps": [
+      "Làm quen bàn TN",
+      "Khô và nóng chảy",
+      "Tan trong nước",
+      "Nước và sucrose",
+      "Mạnh và yếu",
+      "Nhỏ H₂SO₄ loãng",
+      "Nhìn vào trong",
+      "Đổi sai chất chuẩn độ",
+      "Kiểm tra · tìm điểm cuối"
+    ],
+    "file": "courses/conductivity-step.html",
+    "cover": "covers/conductivity-step.webp",
+    "online": "https://lab.tongjiang.app/c/conductivity-step/"
+  },
+  {
+    "slug": "energy-step",
+    "subject": "phys",
+    "title": "Thí nghiệm: Kiểm chứng định luật bảo toàn cơ năng",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Khi vật nặng rơi, thế năng trọng trường giảm đi có đúng bằng động năng tăng thêm không? Một băng giấy có đo được điều này không?",
+    "textbook": [
+      "Bắt buộc – Tập 2 · Chương 8 Định luật bảo toàn cơ năng · Bài 5 Thí nghiệm: Kiểm chứng định luật bảo toàn cơ năng"
+    ],
+    "steps": [
+      "Làm quen dụng cụ",
+      "Bật điện rồi thả",
+      "Chọn điểm",
+      "Đo h, tính v",
+      "Ghi và vẽ đồ thị",
+      "Đổi vật nặng",
+      "Sai số",
+      "Kiểm tra"
+    ],
+    "file": "courses/energy-step.html",
+    "cover": "covers/energy-step.webp",
+    "online": "https://lab.tongjiang.app/c/energy-step/"
+  },
+  {
+    "slug": "soil-step",
+    "subject": "geo",
+    "title": "Các nhân tố hình thành đất và quan sát phẫu diện đất",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Đất ở Đông Bắc vừa đen vừa màu mỡ, vì sao đất ở phía nam tương đối nghèo dinh dưỡng?",
+    "textbook": [
+      "Bắt buộc – Tập 1 · Chương 5 Thảm thực vật và đất · Bài 2 Đất"
+    ],
+    "steps": [
+      "Mặt cắt",
+      "Vật liệu mẹ",
+      "Sinh vật",
+      "Khí hậu",
+      "Địa hình",
+      "Thời gian",
+      "Con người",
+      "Kiểm tra"
+    ],
+    "file": "courses/soil-step.html",
+    "cover": "covers/soil-step.webp",
+    "online": "https://lab.tongjiang.app/c/soil-step/"
+  },
+  {
+    "slug": "projectile-step",
+    "subject": "phys",
+    "title": "Thí nghiệm: Tìm hiểu đặc điểm của chuyển động ném ngang",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Chỉ với một máng nghiêng và một tấm chắn, liệu có thể tách chuyển động ném ngang thành hai chuyển động thành phần và đo được vận tốc ban đầu không?",
+    "textbook": [
+      "Bắt buộc – Tập 2 · Chương 5 Chuyển động ném · Bài 3 Thí nghiệm: Tìm hiểu đặc điểm của chuyển động ném ngang"
+    ],
+    "steps": [
+      "Làm quen dụng cụ",
+      "Đứng trước",
+      "Đầu máng phải ngang",
+      "Vẽ bốn điểm",
+      "Định khoảng thời gian",
+      "Ngang là đều",
+      "Đổi vạch thả",
+      "Hai kiểu lệch lớn",
+      "Kiểm tra"
+    ],
+    "file": "courses/projectile-step.html",
+    "cover": "covers/projectile-step.webp",
+    "online": "https://lab.tongjiang.app/c/projectile-step/"
+  },
+  {
+    "slug": "transport-step",
+    "subject": "bio",
+    "title": "Vận chuyển qua màng",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Cùng một màng tế bào, vì sao oxygen tự đi qua được, glucose cần nhiều protein giúp, còn K⁺ lại đi vào được ngược chiều nồng độ?",
+    "textbook": [
+      "Bắt buộc 1 Phân tử và tế bào · Chương 4 Sự vận chuyển các chất vào và ra khỏi tế bào"
+    ],
+    "steps": [
+      "Khuếch tán đơn giản",
+      "Thấm chọn lọc",
+      "Khuếch tán tăng cường",
+      "Protein mang, kênh",
+      "Vận chuyển chủ động",
+      "Nhập bào, xuất bào",
+      "Tổng hợp",
+      "Kiểm tra"
+    ],
+    "file": "courses/transport-step.html",
+    "cover": "covers/transport-step.webp",
+    "online": "https://lab.tongjiang.app/c/transport-step/"
+  },
+  {
+    "slug": "nitric-lab-step",
+    "subject": "chem",
+    "title": "Tính chất của nitric acid đặc, loãng và sự chuyển hoá các oxide của nitrogen",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Cùng là đồng với nitric acid, vì sao một bình thoát khí màu nâu đỏ, bình kia lại không có màu gì?",
+    "textbook": [
+      "Bắt buộc – Tập 2 · Chương 5 Các nguyên tố phi kim quan trọng trong sản xuất hoá học · Bài 2 Nitrogen và hợp chất · Nitrogen monoxide, nitrogen dioxide và nitric acid"
+    ],
+    "steps": [
+      "Toàn bộ thiết bị",
+      "Cắm dây đồng",
+      "Đổi HNO₃ loãng",
+      "Đổi lá sắt",
+      "Khí thải đi đâu",
+      "Lí do của lọ nâu",
+      "Hút không khí",
+      "Lắc và nhìn vào",
+      "Kiểm tra · chuyển hoá NO"
+    ],
+    "file": "courses/nitric-lab-step.html",
+    "cover": "covers/nitric-lab-step.webp",
+    "online": "https://lab.tongjiang.app/c/nitric-lab-step/"
+  },
+  {
+    "slug": "centripetal-step",
+    "subject": "phys",
+    "title": "Tìm hiểu mối liên hệ giữa độ lớn lực hướng tâm với bán kính, tốc độ góc và khối lượng",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Thiết bị quay tay này chỉ cho em số vạch trên hai thước chia vạch – liệu có dùng nó đo được mối liên hệ định lượng giữa F với m, r, ω không?",
+    "textbook": [
+      "Bắt buộc – Tập 2 · Chương 6 Chuyển động tròn · Bài 2 Lực hướng tâm · Thí nghiệm: Tìm hiểu sự phụ thuộc của độ lớn lực hướng tâm vào bán kính, tốc độ góc và khối lượng"
+    ],
+    "steps": [
+      "Làm quen thiết bị",
+      "Kiểm tra thiết bị",
+      "Theo khối lượng",
+      "Theo bán kính",
+      "Theo tốc độ góc",
+      "Gộp ba thành một công thức",
+      "Sai số và thao tác sai",
+      "Kiểm tra · ω là bình phương"
+    ],
+    "file": "courses/centripetal-step.html",
+    "cover": "covers/centripetal-step.webp",
+    "online": "https://lab.tongjiang.app/c/centripetal-step/"
+  },
+  {
+    "slug": "self-induction-step",
+    "subject": "phys",
+    "title": "Tự cảm và dòng Foucault",
+    "type": "Nguyên lý và TN",
+    "question": "Cuộn dây chỉ là quấn thêm mấy vòng dây đồng, vì sao hai bóng đèn sáng khác nhau? Công tắc đã ngắt rồi, dựa vào đâu bóng đèn còn sáng lên một chút?",
+    "textbook": [
+      "Tự chọn bắt buộc – Tập 2 · Chương 2 Cảm ứng điện từ · Bài 4 Hỗ cảm và tự cảm",
+      "Tự chọn bắt buộc – Tập 2 · Chương 2 Cảm ứng điện từ · Bài 3 Dòng điện Foucault, hãm điện từ và dẫn động điện từ"
+    ],
+    "steps": [
+      "Làm quen dụng cụ",
+      "Tự cảm khi đóng mạch",
+      "Tự cảm khi ngắt mạch",
+      "Đường I-t",
+      "Đổi cuộn dây",
+      "Dụng cụ thực",
+      "Dòng Foucault",
+      "Hãm điện từ",
+      "Kiểm tra"
+    ],
+    "file": "courses/self-induction-step.html",
+    "cover": "covers/self-induction-step.webp",
+    "online": "https://lab.tongjiang.app/c/self-induction-step/"
+  },
+  {
+    "slug": "emf-step",
+    "subject": "phys",
+    "title": "Đo suất điện động và điện trở trong của nguồn điện",
+    "type": "Nguyên lý và TN",
+    "question": "Suất điện động và điện trở trong của một pin khô cũ, làm sao “đo” ra bằng một vôn kế, một ampe kế và một biến trở con chạy? Đổi cách mắc khác, đo ra có còn như cũ không?",
+    "textbook": [
+      "Bắt buộc – Tập 3 · Chương 12 Điện năng, định luật bảo toàn năng lượng · Bài 3 Thí nghiệm: Đo suất điện động và điện trở trong của pin"
+    ],
+    "steps": [
+      "Làm quen cách mắc",
+      "Lớn nhất trước",
+      "Đo nhiều lần",
+      "Vẽ đồ thị U-I",
+      "Gốc trục tung",
+      "Chỉ đo hai lần",
+      "Đổi cách mắc",
+      "Phân tích sai số",
+      "Kiểm tra"
+    ],
+    "file": "courses/emf-step.html",
+    "cover": "covers/emf-step.webp",
+    "online": "https://lab.tongjiang.app/c/emf-step/"
+  },
+  {
+    "slug": "impulse-step",
+    "subject": "bio",
+    "title": "Sự phát sinh và dẫn truyền xung thần kinh",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Xuất phát trong vòng 0.1 s sau tiếng súng lệnh bị coi là xuất phát sớm (SGK tr. 27) – hưng phấn “chạy” trong cơ thể như thế nào?",
+    "textbook": [
+      "Tự chọn bắt buộc 1 Cân bằng nội môi và điều hoà · Chương 2 Điều hoà thần kinh · Bài 3 Sự phát sinh và dẫn truyền xung thần kinh"
+    ],
+    "steps": [
+      "Xung thần kinh",
+      "Điện thế nghỉ",
+      "Điện thế hoạt động",
+      "Dòng điện cục bộ",
+      "Synapse",
+      "Một chiều, chậm",
+      "Cocaine",
+      "Na⁺ ngoài màng",
+      "Kiểm tra"
+    ],
+    "file": "courses/impulse-step.html",
+    "cover": "covers/impulse-step.webp",
+    "online": "https://lab.tongjiang.app/c/impulse-step/"
+  },
+  {
+    "slug": "bromine-step",
+    "subject": "chem",
+    "title": "Tách bromine từ nước biển: phương pháp thổi khí",
+    "type": "Quy trình công nghiệp",
+    "question": "Bromine trong nước biển chỉ có 65 mg/L, làm sao biến nó thành một bình bromine lỏng?",
+    "textbook": [
+      "Bắt buộc – Tập 2 · Chương 8 Hoá học và phát triển bền vững · Bài 1 Khai thác và sử dụng tài nguyên thiên nhiên · Khai thác và sử dụng tài nguyên nước biển"
+    ],
+    "steps": [
+      "Toàn cảnh",
+      "Acid hoá",
+      "Oxi hoá",
+      "Thổi khí",
+      "Hấp thụ",
+      "Tinh chế",
+      "Kiểm tra"
+    ],
+    "file": "courses/bromine-step.html",
+    "cover": "covers/bromine-step.webp",
+    "online": "https://lab.tongjiang.app/c/bromine-step/"
+  },
+  {
+    "slug": "thermal-step",
+    "subject": "geo",
+    "title": "Hoàn lưu nhiệt",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Hướng gió hai bên eo biển Đài Loan vì sao trong một ngày lại đảo ngược?",
+    "textbook": [
+      "Bắt buộc – Tập 1 · Chương 2 Khí quyển Trái Đất · Bài 2 Quá trình nhận nhiệt và chuyển động của khí quyển · Hoàn lưu nhiệt"
+    ],
+    "steps": [
+      "Chênh nhiệt",
+      "Trên cao",
+      "Sát mặt đất",
+      "Khép vòng",
+      "Mạnh yếu",
+      "Gió biển",
+      "Gió đất",
+      "Đảo nhiệt",
+      "Kiểm tra"
+    ],
+    "file": "courses/thermal-step.html",
+    "cover": "covers/thermal-step.webp",
+    "online": "https://lab.tongjiang.app/c/thermal-step/"
+  },
+  {
+    "slug": "mitosis-step",
+    "subject": "bio",
+    "title": "Quan sát nguyên phân ở tế bào mô phân sinh đầu rễ",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Trên một đầu rễ hành, những tế bào nào đang phân chia? Mỗi kì của một lần phân chia kéo dài bao lâu?",
+    "textbook": [
+      "Bắt buộc 1 Phân tử và tế bào · Chương 6 Chu trình sống của tế bào · Bài 1 Sự sinh sản của tế bào · Tìm hiểu · Thực hành: Quan sát nguyên phân ở tế bào mô phân sinh đầu rễ"
+    ],
+    "steps": [
+      "Làm tiêu bản",
+      "Tìm vùng phân sinh",
+      "Kì đầu",
+      "Kì giữa",
+      "Kì sau",
+      "Kì cuối",
+      "Đếm",
+      "Tính thời gian",
+      "Kiểm tra"
+    ],
+    "file": "courses/mitosis-step.html",
+    "cover": "covers/mitosis-step.webp",
+    "online": "https://lab.tongjiang.app/c/mitosis-step/"
+  },
+  {
+    "slug": "sodium-step",
+    "subject": "chem",
+    "title": "Tính chất của kim loại sodium (gồm cách dập cháy sodium)",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Một mẩu kim loại nhỏ màu trắng bạc, vì sao phải ngâm trong dầu hoả, khi cháy đến nước cũng không được dội?",
+    "textbook": [
+      "Bắt buộc – Tập 1 · Chương 2 Các nguyên tố quan trọng trong nước biển – sodium và chlorine · Bài 1 Sodium và hợp chất · Đơn chất kim loại hoạt động mạnh – sodium"
+    ],
+    "steps": [
+      "Làm quen thí nghiệm",
+      "Trắng bạc xỉn đi",
+      "Ngâm trong dầu hoả",
+      "Đun nóng – đốt cháy",
+      "Nổi chảy chạy kêu đỏ",
+      "Cỡ mẩu sodium",
+      "Nhìn vào trong",
+      "Dập cháy",
+      "Kiểm tra"
+    ],
+    "file": "courses/sodium-step.html",
+    "cover": "covers/sodium-step.webp",
+    "online": "https://lab.tongjiang.app/c/sodium-step/"
+  },
+  {
+    "slug": "sulfur-step",
+    "subject": "chem",
+    "title": "Tính chất của sulfur, sulfur dioxide, sulfuric acid đặc và sự chuyển hoá giữa các chất chứa sulfur có số oxi hoá khác nhau",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Cùng là sulfur, vì sao có lúc nó là chất rắn màu vàng, có lúc làm fuchsin mất màu, có lúc lại đi vào bột sắt?",
+    "textbook": [
+      "Bắt buộc – Tập 2 · Chương 5 Các nguyên tố phi kim quan trọng trong sản xuất hoá học · Bài 1 Sulfur và hợp chất",
+      "Bắt buộc – Tập 2 · Chương 5 Các nguyên tố phi kim quan trọng trong sản xuất hoá học · Hoạt động thí nghiệm 5 Chuyển hoá giữa các chất chứa sulfur có số oxi hoá khác nhau"
+    ],
+    "steps": [
+      "Toàn bộ thiết bị",
+      "Bột S + bột Fe",
+      "H₂SO₄ đặc và Cu",
+      "Đặc hay loãng",
+      "Đun → hồi màu",
+      "Ba ống kiểm tra và nút bông",
+      "Quy trung về 0",
+      "Nhìn vào trong · thang máy số oxi hoá",
+      "Kiểm tra · tẩy màu"
+    ],
+    "file": "courses/sulfur-step.html",
+    "cover": "covers/sulfur-step.webp",
+    "online": "https://lab.tongjiang.app/c/sulfur-step/"
+  },
+  {
+    "slug": "wind-step",
+    "subject": "geo",
+    "title": "Chuyển động ngang của không khí – gió",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Gió trên bản đồ thời tiết vì sao không thổi thẳng từ áp cao sang áp thấp?",
+    "textbook": [
+      "Bắt buộc – Tập 1 · Chương 2 Khí quyển Trái Đất · Bài 2 Quá trình nhận nhiệt và chuyển động của khí quyển · Chuyển động ngang của không khí – gió"
+    ],
+    "steps": [
+      "Đường đẳng áp",
+      "Lực gradient",
+      "Lực Coriolis",
+      "Gió trên cao",
+      "Sát mặt đất",
+      "Bán cầu Nam",
+      "Dày thưa",
+      "Kiểm tra"
+    ],
+    "file": "courses/wind-step.html",
+    "cover": "covers/wind-step.webp",
+    "online": "https://lab.tongjiang.app/c/wind-step/"
+  },
+  {
+    "slug": "corrosion-step",
+    "subject": "chem",
+    "title": "Ăn mòn hấp thụ oxygen và thiết kế miếng dán giữ nhiệt",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Sắt gỉ chậm như vậy, dựa vào đâu mà làm được miếng dán giữ nhiệt trên 45 ℃? Và dựa vào đâu mà dùng ngược lại nó để bảo vệ sắt khỏi gỉ?",
+    "textbook": [
+      "Tự chọn bắt buộc 1 Nguyên lý phản ứng hoá học · Chương 4 Phản ứng hoá học và điện năng · Bài 3 Ăn mòn kim loại và chống ăn mòn · Nghiên cứu và thực hành: Thiết kế và chế tạo miếng dán giữ nhiệt"
+    ],
+    "steps": [
+      "Bốn trạm trên bàn",
+      "Vì sao cột dâng",
+      "Vai trò bột carbon",
+      "Đổi sang acid",
+      "Nhìn vào trong",
+      "Miếng dán toả nhiệt",
+      "Cái giá của bịt kín",
+      "Để kẽm gỉ thay",
+      "Kiểm tra · thiết kế miếng dán"
+    ],
+    "file": "courses/corrosion-step.html",
+    "cover": "covers/corrosion-step.webp",
+    "online": "https://lab.tongjiang.app/c/corrosion-step/"
+  },
+  {
+    "slug": "enzyme-step",
+    "subject": "bio",
+    "title": "Các điều kiện ảnh hưởng đến hoạt tính enzyme",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Cùng một ống enzyme, vì sao cho vào nước sôi thì không cứu lại được nữa, còn cho vào nước đá lại có thể “tỉnh” lại?",
+    "textbook": [
+      "Bắt buộc 1 Phân tử và tế bào · Chương 5 Sự cung cấp và sử dụng năng lượng của tế bào · Bài 1 Enzyme làm giảm năng lượng hoạt hoá của phản ứng hoá học · Tìm hiểu · Thực hành: Các điều kiện ảnh hưởng đến hoạt tính enzyme"
+    ],
+    "steps": [
+      "Làm quen bàn TN",
+      "Nhiệt độ",
+      "pH",
+      "t° cao: không thuận nghịch",
+      "t° thấp: hồi phục được",
+      "Nhìn vào trong",
+      "Quá acid/base",
+      "Kiểm tra · Tự làm TN"
+    ],
+    "file": "courses/enzyme-step.html",
+    "cover": "covers/enzyme-step.webp",
+    "online": "https://lab.tongjiang.app/c/enzyme-step/"
+  },
+  {
+    "slug": "chlor-alkali-step",
+    "subject": "chem",
+    "title": "Công nghiệp chlor-kiềm",
+    "type": "Quy trình công nghiệp",
+    "question": "Cùng một lượng điện, làm sao thu được nhiều xút hơn, tốn ít điện hơn mà không xảy ra sự cố?",
+    "textbook": [
+      "Tự chọn bắt buộc 1 Nguyên lý phản ứng hoá học · Chương 4 Phản ứng hoá học và điện năng · Bài 2 Bình điện phân · Điện phân dung dịch muối ăn bão hoà"
+    ],
+    "steps": [
+      "Ba sản phẩm",
+      "Rửa muối trước",
+      "Cắt bể",
+      "Nhìn vào màng",
+      "Tăng dòng",
+      "Chỉnh nhiệt bể",
+      "Bỏ màng",
+      "Kiểm tra ca trực"
+    ],
+    "file": "courses/chlor-alkali-step.html",
+    "cover": "covers/chlor-alkali-step.webp",
+    "online": "https://lab.tongjiang.app/c/chlor-alkali-step/"
+  },
+  {
+    "slug": "hou-soda-step",
+    "subject": "chem",
+    "title": "Phương pháp Hầu Đức Bảng",
+    "type": "Quy trình công nghiệp",
+    "question": "Làm thế nào dùng muối ăn và ammonia để sản xuất soda, lại thu thêm được phân đạm?",
+    "textbook": [
+      "Bắt buộc – Tập 1 · Chương 2 Các nguyên tố quan trọng trong nước biển – sodium và chlorine · Bài 1 Sodium và hợp chất · Tư liệu tình huống: Phương pháp sản xuất soda Hầu Đức Bảng"
+    ],
+    "steps": [
+      "Từ muối đến soda",
+      "NH₃ trước CO₂ sau",
+      "Vì sao tự kết tinh",
+      "Nhiệt độ carbonate hoá",
+      "Lọc chia hai dòng",
+      "Nung thành soda",
+      "Nước cái và tuần hoàn",
+      "Em làm trưởng ca"
+    ],
+    "file": "courses/hou-soda-step.html",
+    "cover": "covers/hou-soda-step.webp",
+    "online": "https://lab.tongjiang.app/c/hou-soda-step/"
+  },
+  {
+    "slug": "current-field-step",
+    "subject": "phys",
+    "title": "Từ trường của dòng điện",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Từ trường không nhìn thấy, không sờ được, làm sao vẽ được nó, lại làm sao xác định chiều của nó?",
+    "textbook": [
+      "Bắt buộc – Tập 3 · Chương 13 Cảm ứng điện từ và sóng điện từ (sơ lược) · Bài 1 Từ trường, đường sức từ"
+    ],
+    "steps": [
+      "Mạt sắt hiện hình",
+      "Các vòng đồng tâm",
+      "Nắm dây xác định chiều",
+      "Dày thưa = mạnh yếu",
+      "Xuyên qua rồi vòng lại",
+      "Nhiều vòng chồng chập",
+      "Suy giảm dọc trục",
+      "Bên trong đều",
+      "Kiểm tra · Tìm miệng ống"
+    ],
+    "file": "courses/current-field-step.html",
+    "cover": "covers/current-field-step.webp",
+    "online": "https://lab.tongjiang.app/c/current-field-step/"
+  },
+  {
+    "slug": "brownian-step",
+    "subject": "phys",
+    "title": "Chuyển động Brown và sự khuếch tán",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Phân tử thì không nhìn thấy, dựa vào đâu mà nói nó chuyển động hỗn loạn?",
+    "textbook": [
+      "Tự chọn bắt buộc – Tập 3 · Chương 1 Thuyết động học phân tử · Bài 1 Nội dung cơ bản của thuyết động học phân tử"
+    ],
+    "steps": [
+      "Thấy nó chuyển động",
+      "30 giây một điểm",
+      "Càng lâu càng xa",
+      "Hạt càng nhỏ càng rõ",
+      "Nhiệt độ càng cao càng mạnh",
+      "Do va chạm",
+      "Một lần ≠ thống kê",
+      "Khuếch tán: nồng độ lan ra",
+      "Kiểm tra · Chuyển động rõ hơn"
+    ],
+    "file": "courses/brownian-step.html",
+    "cover": "covers/brownian-step.webp",
+    "online": "https://lab.tongjiang.app/c/brownian-step/"
+  },
+  {
+    "slug": "water-cycle-step",
+    "subject": "geo",
+    "title": "Quá trình và ý nghĩa địa lý của vòng tuần hoàn nước",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Sông ngòi không ngừng đổ ra biển, vì sao nước biển không tăng lên?",
+    "textbook": [
+      "Bắt buộc – Tập 1 · Chương 3 Nước trên Trái Đất · Bài 1 Vòng tuần hoàn nước"
+    ],
+    "steps": [
+      "Toàn cảnh",
+      "Bốc hơi",
+      "Thoát hơi nước",
+      "Vận chuyển",
+      "Thấm",
+      "Ba loại",
+      "Ruộng phủ sỏi",
+      "Ý nghĩa",
+      "Kiểm tra"
+    ],
+    "file": "courses/water-cycle-step.html",
+    "cover": "covers/water-cycle-step.webp",
+    "online": "https://lab.tongjiang.app/c/water-cycle-step/"
+  },
+  {
+    "slug": "circulation-step",
+    "subject": "geo",
+    "title": "Đai khí áp, đới gió và hoàn lưu ba vòng",
+    "type": "Nguyên lý, hiện tượng",
+    "question": "Vì sao đoàn thuyền của Ma-gien-lăng có chặng gặp gió ngược, có chặng thuận gió, nhưng đến gần 30°S lại hầu như không nhích được bước nào?",
+    "textbook": [
+      "Tự chọn bắt buộc 1 Cơ sở địa lý tự nhiên · Chương 3 Chuyển động của khí quyển · Bài 2 Đai khí áp và đới gió"
+    ],
+    "steps": [
+      "Áp thấp xích đạo",
+      "30° giáng xuống",
+      "60° trượt lên",
+      "7 đai, 6 đới gió",
+      "Di chuyển theo mùa",
+      "Phân bố lục địa – đại dương",
+      "Kiểm tra · Ma-gien-lăng"
+    ],
+    "file": "courses/circulation-step.html",
+    "cover": "covers/circulation-step.webp",
+    "online": "https://lab.tongjiang.app/c/circulation-step/"
+  }
+]

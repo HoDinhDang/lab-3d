@@ -1,0 +1,21 @@
+{
+"s7-00504": "Chấm đỏ ở mặt trước quả cầu đi về phía nam dọc kinh tuyến Bắc Kinh, để lại vệt đỏ, lần lượt quét qua chí tuyến Bắc, Xích đạo (Thu phân 23/9, 0.0°), chí tuyến Nam; vĩ độ điểm lên thiên đỉnh giảm từ 23.4°N xuống 23.4°S, nhãn cạnh chấm đỏ ghi “Chuyển hướng” lúc Hạ chí, “Dịch về nam” khi đang kéo, đến Đông chí lại ghi “Chuyển hướng”; trong hình nhỏ góc trên trái, Trái Đất đi theo quỹ đạo tới Đông chí, hướng trục Trái Đất không đổi",
+"s7-00522": "Ví dụ 40°N",
+"s7-00526": "Góc nhập xạ lúc giữa trưa có thể tính theo a = 90° − |φ − δ|, δ lấy dương trong nửa năm mùa hạ, lấy âm trong nửa năm mùa đông; Bắc Kinh (40°N) Hạ chí 73°26′, Đông chí 26°34′. Góc giữa tấm nhỏ ở Bắc Kinh trên quả cầu và tia sáng nằm ngang chính là a; hình phóng to phía trên đặt mảnh đất này nằm phẳng để quan sát, số cạnh cung thay đổi theo ngày.",
+"s7-00529": "Góc nhập xạ lúc giữa trưa a = 90° − |φ − δ|: tại điểm Mặt Trời lên thiên đỉnh là 90°, trên đường phân chia sáng tối là 0°, các nơi khác giảm dần theo hiệu vĩ độ với điểm lên thiên đỉnh; Bắc Kinh 40°N Hạ chí 73°26′, Đông chí 26°34′.",
+"s7-00533": "Kéo điểm quan sát từ Bắc Kinh (40°N) lên tận 80°N, xem số đọc, đỉnh đường cong trên bảng điều khiển, đối chiếu với dãy góc ở mép quả cầu",
+"s7-00534": "Góc nhập xạ lúc giữa trưa giảm từ 73.4° xuống 33.4°; đường cong luôn cao nhất tại một chỗ, chỗ đó chính là vĩ độ của điểm Mặt Trời lên thiên đỉnh (23.4°N), giảm dần về hai phía bắc, nam; dãy góc ở mép quả cầu giảm từ 90.0° tại điểm lên thiên đỉnh về hai phía (80°N 33.4°, 40°N 73.4°, Xích đạo 66.6°, 40°S 26.6°), cùng một nội dung với đường cong",
+"s7-00549": "Kéo điểm quan sát từ 40°N về Xích đạo, theo dõi dòng “Lớn nhất / nhỏ nhất trong năm” dưới số đọc chính",
+"s7-00550": "“Lớn nhất trong năm” tăng từ 73.4° lên 90.0°, “nhỏ nhất trong năm” tăng từ 26.6° lên 66.6°; số đọc vành đai đổi từ “Ôn đới Bắc” thành “Nhiệt đới”; góc nhập xạ giữa trưa lúc này là 66.6°; cung màu cam trong hình phóng to là phạm vi Mặt Trời giữa trưa đi qua trong năm: ở 40°N cả cung nằm ở bầu trời phía nam, kéo về Xích đạo thì nó vượt qua thiên đỉnh, phía bắc và phía nam đều tới 66.6°",
+"s7-00563": "Kéo điểm quan sát từ 40°N vào vùng nhiệt đới (20°N), xem trong hình phóng to Mặt Trời ở phía nào của thiên đỉnh, bóng cọc hướng về đâu",
+"s7-00564": "Hướng Mặt Trời giữa trưa đổi từ “Phía nam” thành “Phía bắc”, bóng cọc lật sang phía nam; kéo về 40°N lại thành “Phía nam”; kéo đúng vĩ độ điểm lên thiên đỉnh sẽ hiện “Đỉnh đầu”",
+"s7-00574": "Dễ sai: phía bắc chí tuyến Bắc quanh năm ở phía nam (không phải “mùa hạ ở phía bắc”); ở 20°N ngày Hạ chí Mặt Trời giữa trưa ở phía bắc, ngày Đông chí ở phía nam, trong năm có lúc ở nam có lúc ở bắc.",
+"s7-00579": "Cùng một ngày (Hạ chí), chuyển điểm quan sát từ 40°N sang 40°S, xem hai ô số đọc mùa",
+"s7-00580": "“Mùa ở bán cầu Bắc” vẫn là “Hạ”, “Mùa địa phương” đổi từ “Hạ” thành “Đông”; điểm lên thiên đỉnh vẫn ở 23.4°N không đổi; hai mặt phẳng chân trời trên dưới: 40°N Mặt Trời cao (73.4°), 40°S Mặt Trời thấp (26.6°); phần lớn bán cầu Bắc ở mặt sáng, phần lớn bán cầu Nam ở mặt tối",
+"s7-00594": "Kéo điểm quan sát từ 40°N lên 80°N, rồi về Xích đạo, xuống 80°S, xem số đọc vành đai thay đổi thế nào",
+"s7-00595": "Số đọc vành đai đổi từ “Ôn đới Bắc” thành “Hàn đới Bắc”; vòng cực 66°34′ trên quả cầu chính là ranh giới; kéo xuống 80°S được “Hàn đới Nam”, kéo về Xích đạo được “Nhiệt đới”; năm vành đai tô phẳng theo Hình 1.18: nhiệt đới màu cam, ôn đới xanh lá nhạt, hàn đới xanh lam nhạt, vĩ độ ranh giới ghi ở mép trái quả cầu",
+"s7-00496": "Vì vậy phạm vi Mặt Trời lên thiên đỉnh xa nhất về phía bắc tới vĩ độ 23°26′ Bắc, xa nhất về phía nam tới vĩ độ 23°26′ Nam; hai đường giới hạn này gọi là chí tuyến Bắc, chí tuyến Nam.",
+"s7-00499": "Do góc hoàng – xích 23°26′, hướng trục Trái Đất không đổi còn vị trí Trái Đất trên quỹ đạo thay đổi, điểm Mặt Trời chiếu thẳng góc chỉ có thể đi về giữa hai chí tuyến, xa nhất về phía bắc tới 23°26′ Bắc, xa nhất về phía nam tới 23°26′ Nam.",
+"s7-00510": "Ngày Hạ chí (khoảng 21/6) Mặt Trời lên thiên đỉnh ở vĩ độ 23°26′ Bắc, sau đó điểm Mặt Trời lên thiên đỉnh dần dịch về phía nam.",
+"s7-00511": "Ngày Thu phân (khoảng 23/9) Mặt Trời lên thiên đỉnh ở Xích đạo, ngày Đông chí (khoảng 22/12) lên thiên đỉnh ở vĩ độ 23°26′ Nam, sau đó dần quay về phía bắc."
+}

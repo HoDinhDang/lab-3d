@@ -1,0 +1,4434 @@
+{
+"s4-00007": {
+"zh": "光有颜色",
+"vi": "Ánh sáng có màu"
+},
+"s4-00009": {
+"zh": "颜色有来历",
+"vi": "Màu có nguồn gốc"
+},
+"s4-00013": {
+"zh": "更准的仪器",
+"vi": "Dụng cụ chính xác hơn"
+},
+"s4-00025": {
+"zh": "光谱强度—波长",
+"vi": "Cường độ phổ – bước sóng"
+},
+"s4-00040": {
+"zh": "光谱仪",
+"vi": "Máy quang phổ"
+},
+"s4-00043": {
+"zh": "能级图",
+"vi": "Giản đồ năng lượng"
+},
+"s4-00049": {
+"zh": "定性分析",
+"vi": "Phân tích định tính"
+},
+"s4-00058": {
+"zh": "洗净铂丝",
+"vi": "Rửa sạch dây platinum"
+},
+"s4-00062": {
+"zh": "MCl + 火焰 → 特征焰色",
+"vi": "MCl + ngọn lửa → màu ngọn lửa đặc trưng"
+},
+"s4-00085": {
+"zh": "钾与钴玻璃",
+"vi": "Potassium và kính cobalt"
+},
+"s4-00091": {
+"zh": "滤去黄光",
+"vi": "Lọc bỏ ánh sáng vàng"
+},
+"s4-00099": {
+"zh": "能量与波长",
+"vi": "Năng lượng và bước sóng"
+},
+"s4-00112": {
+"zh": "发射与吸收",
+"vi": "Phát xạ và hấp thụ"
+},
+"s4-00119": {
+"zh": "光谱分析",
+"vi": "Phân tích quang phổ"
+},
+"s4-00156": {
+"zh": "已透过钴玻璃",
+"vi": "Đã nhìn qua kính cobalt"
+},
+"s4-00157": {
+"zh": "直接观察",
+"vi": "Quan sát trực tiếp"
+},
+"s4-00161": {
+"zh": "光谱仪模式",
+"vi": "Chế độ máy quang phổ"
+},
+"s4-00162": {
+"zh": "吸收光谱",
+"vi": "Quang phổ hấp thụ"
+},
+"s4-00163": {
+"zh": "发射光谱",
+"vi": "Quang phổ phát xạ"
+},
+"s4-00164": {
+"zh": "主谱线波长 λ",
+"vi": "Bước sóng vạch chính λ"
+},
+"s4-00167": {
+"zh": "两条线分得开",
+"vi": "Hai vạch tách được"
+},
+"s4-00171": {
+"zh": "光子能量 E",
+"vi": "Năng lượng photon E"
+},
+"s4-00172": {
+"zh": "光谱仪分辨",
+"vi": "Phân giải máy quang phổ"
+},
+"s4-00175": {
+"zh": "并成一条",
+"vi": "Nhập thành một"
+},
+"s4-00182": {
+"zh": "（边缘有钠黄）",
+"vi": "(viền có màu vàng Na)"
+},
+"s4-00214": {
+"zh": "⑤ 发射与吸收",
+"vi": "⑤ Phát xạ và hấp thụ"
+},
+"s4-00250": {
+"zh": "于是有电流",
+"vi": "Nhờ đó có dòng điện"
+},
+"s4-00252": {
+"zh": "单液的代价",
+"vi": "Cái giá của một dung dịch"
+},
+"s4-00266": {
+"zh": "电流—通电时间",
+"vi": "Dòng điện – thời gian"
+},
+"s4-00269": {
+"zh": "电极表面气泡",
+"vi": "Bọt khí trên điện cực"
+},
+"s4-00272": {
+"zh": "单液原电池",
+"vi": "Pin một dung dịch"
+},
+"s4-00275": {
+"zh": "双液原电池",
+"vi": "Pin hai dung dịch"
+},
+"s4-00278": {
+"zh": "电流表与导线",
+"vi": "Ampe kế và dây dẫn"
+},
+"s4-00310": {
+"zh": "谁在流",
+"vi": "Cái gì đang chạy"
+},
+"s4-00332": {
+"zh": "电流衰减",
+"vi": "Dòng điện giảm"
+},
+"s4-00340": {
+"zh": "换成双液",
+"vi": "Đổi sang hai dd"
+},
+"s4-00386": {
+"zh": "电动势不变",
+"vi": "Suất điện động không đổi"
+},
+"s4-00387": {
+"zh": "内阻",
+"vi": "Điện trở trong"
+},
+"s4-00408": {
+"zh": "电动势 E",
+"vi": "Suất điện động E"
+},
+"s4-00413": {
+"zh": "电子流向",
+"vi": "Chiều electron"
+},
+"s4-00414": {
+"zh": "Zn 直接反应",
+"vi": "Zn phản ứng trực tiếp"
+},
+"s4-00415": {
+"zh": "电解质浓度",
+"vi": "Nồng độ chất điện li"
+},
+"s4-00478": {
+"zh": "合成氨工业",
+"vi": "Công nghiệp tổng hợp ammonia"
+},
+"s4-00495": {
+"zh": "③ 冷激气流",
+"vi": "③ Dòng khí làm lạnh nhanh"
+},
+"s4-00505": {
+"zh": "为什么建厂",
+"vi": "Vì sao xây nhà máy"
+},
+"s4-00524": {
+"zh": "脱碳：碱液或 PSA",
+"vi": "Khử CO₂: dung dịch kiềm hoặc PSA"
+},
+"s4-00525": {
+"zh": "净化后再压缩",
+"vi": "Làm sạch rồi mới nén"
+},
+"s4-00538": {
+"zh": "级间冷却",
+"vi": "Làm mát giữa các cấp"
+},
+"s4-00547": {
+"zh": "为什么高温",
+"vi": "Vì sao nhiệt độ cao"
+},
+"s4-00559": {
+"zh": "塔内什么样",
+"vi": "Trong tháp ra sao"
+},
+"s4-00579": {
+"zh": "原料利用率约 97 %",
+"vi": "Hiệu suất sử dụng nguyên liệu khoảng 97 %"
+},
+"s4-00587": {
+"zh": "考核 · 当班长",
+"vi": "Kiểm tra · làm trưởng ca"
+},
+"s4-00599": {
+"zh": "原料气制备",
+"vi": "Điều chế khí nguyên liệu"
+},
+"s4-00600": {
+"zh": "原料气",
+"vi": "Khí nguyên liệu"
+},
+"s4-00605": {
+"zh": "核心反应器",
+"vi": "Thiết bị phản ứng chính"
+},
+"s4-00608": {
+"zh": "分离与循环",
+"vi": "Tách và tuần hoàn"
+},
+"s4-00609": {
+"zh": "分离循环",
+"vi": "Tách – tuần hoàn"
+},
+"s4-00611": {
+"zh": "一段转化炉",
+"vi": "Lò reforming sơ cấp"
+},
+"s4-00613": {
+"zh": "空分装置",
+"vi": "Thiết bị tách không khí"
+},
+"s4-00615": {
+"zh": "脱硫塔",
+"vi": "Tháp khử lưu huỳnh"
+},
+"s4-00617": {
+"zh": "变换炉",
+"vi": "Lò chuyển hoá CO"
+},
+"s4-00620": {
+"zh": "再生塔",
+"vi": "Tháp tái sinh"
+},
+"s4-00622": {
+"zh": "合成气压缩机",
+"vi": "Máy nén khí tổng hợp"
+},
+"s4-00624": {
+"zh": "级间冷却器",
+"vi": "Bộ làm mát giữa cấp"
+},
+"s4-00625": {
+"zh": "压缩后降温",
+"vi": "Hạ nhiệt sau nén"
+},
+"s4-00627": {
+"zh": "废热锅炉",
+"vi": "Nồi hơi nhiệt thải"
+},
+"s4-00628": {
+"zh": "回收反应热",
+"vi": "Thu hồi nhiệt phản ứng"
+},
+"s4-00629": {
+"zh": "水冷器",
+"vi": "Bộ làm mát nước"
+},
+"s4-00630": {
+"zh": "冷却水降温",
+"vi": "Hạ nhiệt bằng nước làm mát"
+},
+"s4-00631": {
+"zh": "氨冷器",
+"vi": "Bộ làm lạnh ammonia"
+},
+"s4-00632": {
+"zh": "液氨蒸发制冷",
+"vi": "Làm lạnh bằng bay hơi NH₃ lỏng"
+},
+"s4-00633": {
+"zh": "氨分离器",
+"vi": "Bình tách ammonia"
+},
+"s4-00634": {
+"zh": "液氨从此流出",
+"vi": "NH₃ lỏng chảy ra ở đây"
+},
+"s4-00635": {
+"zh": "循环压缩机",
+"vi": "Máy nén tuần hoàn"
+},
+"s4-00636": {
+"zh": "未反应气送回",
+"vi": "Đưa khí chưa phản ứng về"
+},
+"s4-00637": {
+"zh": "液氨储罐",
+"vi": "Bồn chứa NH₃ lỏng"
+},
+"s4-00639": {
+"zh": "床层温度",
+"vi": "Nhiệt độ tầng xúc tác"
+},
+"s4-00642": {
+"zh": "原料气净化",
+"vi": "Làm sạch khí nguyên liệu"
+},
+"s4-00646": {
+"zh": "净化正常",
+"vi": "Làm sạch bình thường"
+},
+"s4-00647": {
+"zh": "未净化（含硫）",
+"vi": "Chưa làm sạch (có S)"
+},
+"s4-00648": {
+"zh": "氨产率",
+"vi": "Sản lượng NH₃"
+},
+"s4-00650": {
+"zh": "原料利用率",
+"vi": "Hiệu suất dùng nguyên liệu"
+},
+"s4-00651": {
+"zh": "触媒活性",
+"vi": "Hoạt tính xúc tác"
+},
+"s4-00653": {
+"zh": "循环开",
+"vi": "Tuần hoàn bật"
+},
+"s4-00654": {
+"zh": "循环关",
+"vi": "Tuần hoàn tắt"
+},
+"s4-00655": {
+"zh": "净化·温度",
+"vi": "Làm sạch·nhiệt độ"
+},
+"s4-00656": {
+"zh": "产率—温度",
+"vi": "Sản lượng – nhiệt độ"
+},
+"s4-00681": {
+"zh": "C. 高压氢气泄漏",
+"vi": "C. Rò rỉ hydrogen áp suất cao"
+},
+"s4-00691": {
+"zh": "跳工段（第几步）",
+"vi": "Nhảy công đoạn (bước mấy)"
+},
+"s4-00696": {
+"zh": "电解水",
+"vi": "Điện phân nước"
+},
+"s4-00698": {
+"zh": "空气液化分馏",
+"vi": "Hoá lỏng và chưng cất phân đoạn không khí"
+},
+"s4-00699": {
+"zh": "氨的分解",
+"vi": "Phân huỷ ammonia"
+},
+"s4-00705": {
+"zh": "降低反应温度",
+"vi": "Giảm nhiệt độ phản ứng"
+},
+"s4-00730": {
+"zh": "平衡常数增大",
+"vi": "Hằng số cân bằng tăng"
+},
+"s4-00737": {
+"zh": "增大平衡常数",
+"vi": "Tăng hằng số cân bằng"
+},
+"s4-00742": {
+"zh": "使用催化剂",
+"vi": "Dùng chất xúc tác"
+},
+"s4-00743": {
+"zh": "及时分离出氨",
+"vi": "Kịp thời tách ammonia ra"
+},
+"s4-00751": {
+"zh": "触媒已装",
+"vi": "Đã lắp xúc tác"
+},
+"s4-00762": {
+"zh": "主法兰＋螺栓圈",
+"vi": "Mặt bích chính + vòng bu lông"
+},
+"s4-00767": {
+"zh": "中心管（出气）",
+"vi": "Ống trung tâm (khí ra)"
+},
+"s4-00774": {
+"zh": "相对活性",
+"vi": "Hoạt tính tương đối"
+},
+"s4-00776": {
+"zh": "出塔氨含量",
+"vi": "Hàm lượng NH₃ ra tháp"
+},
+"s4-00783": {
+"zh": "交代整体",
+"vi": "Giới thiệu tổng thể"
+},
+"s4-00785": {
+"zh": "推近 · 看内件",
+"vi": "Lại gần · xem bộ phận trong"
+},
+"s4-00787": {
+"zh": "聚焦 · 温度分布",
+"vi": "Tập trung · phân bố nhiệt độ"
+},
+"s4-00789": {
+"zh": "标注 · 段间冷激",
+"vi": "Chú thích · làm lạnh giữa tầng"
+},
+"s4-00794": {
+"zh": "整段连播 ▶",
+"vi": "Phát liền cả đoạn ▶"
+},
+"s4-00796": {
+"zh": "拆开态",
+"vi": "Trạng thái tách"
+},
+"s4-00802": {
+"zh": "越界 · 烧结区",
+"vi": "Vượt ngưỡng · vùng thiêu kết"
+},
+"s4-00805": {
+"zh": "四段床层",
+"vi": "Bốn tầng xúc tác"
+},
+"s4-00808": {
+"zh": "// 横向收成火舌",
+"vi": "// Thu hẹp theo phương ngang thành lưỡi lửa"
+},
+"s4-00809": {
+"zh": "// 越高越淡",
+"vi": "// Càng cao càng nhạt"
+},
+"s4-00819": {
+"zh": "侯氏制碱",
+"vi": "Sản xuất soda theo phương pháp Hầu Đức Bảng"
+},
+"s4-00831": {
+"zh": "氨化塔",
+"vi": "Tháp ammonia hoá"
+},
+"s4-00832": {
+"zh": "盐水吸饱 NH₃",
+"vi": "Nước muối hấp thụ no NH₃"
+},
+"s4-00833": {
+"zh": "碳化塔",
+"vi": "Tháp carbonate hoá"
+},
+"s4-00835": {
+"zh": "滤碱机",
+"vi": "Máy lọc NaHCO₃"
+},
+"s4-00839": {
+"zh": "冷析结晶器",
+"vi": "Thiết bị kết tinh lạnh"
+},
+"s4-00842": {
+"zh": "精制盐水",
+"vi": "Nước muối tinh chế"
+},
+"s4-00844": {
+"zh": "母液循环",
+"vi": "Tuần hoàn nước cái"
+},
+"s4-00848": {
+"zh": "碳化",
+"vi": "Carbonate hoá"
+},
+"s4-00853": {
+"zh": "冷析",
+"vi": "Kết tinh lạnh"
+},
+"s4-00857": {
+"zh": "从盐到碱",
+"vi": "Từ muối đến soda"
+},
+"s4-00864": {
+"zh": "母液冷析 ≤ 10 ℃",
+"vi": "Nước cái kết tinh lạnh ≤ 10 ℃"
+},
+"s4-00871": {
+"zh": "先氨后碳",
+"vi": "NH₃ trước CO₂ sau"
+},
+"s4-00877": {
+"zh": "溶液显碱性",
+"vi": "Dung dịch có tính base"
+},
+"s4-00891": {
+"zh": "过饱和才析出",
+"vi": "Quá bão hoà mới kết tinh"
+},
+"s4-00892": {
+"zh": "晶核长大",
+"vi": "Mầm tinh thể lớn lên"
+},
+"s4-00900": {
+"zh": "碳化温度",
+"vi": "Nhiệt độ carbonate hoá"
+},
+"s4-00906": {
+"zh": "冷却控温",
+"vi": "Làm mát khống chế nhiệt"
+},
+"s4-00915": {
+"zh": "过滤分两路",
+"vi": "Lọc chia hai dòng"
+},
+"s4-00921": {
+"zh": "转鼓真空过滤",
+"vi": "Lọc chân không thùng quay"
+},
+"s4-00930": {
+"zh": "煅烧成碱",
+"vi": "Nung thành soda"
+},
+"s4-00936": {
+"zh": "CO₂ 回碳化",
+"vi": "CO₂ quay về carbonate hoá"
+},
+"s4-00937": {
+"zh": "> 320 ℃ 熔结（设定）",
+"vi": "> 320 ℃ nóng chảy kết khối (thiết lập)"
+},
+"s4-00944": {
+"zh": "母液与循环",
+"vi": "Nước cái và tuần hoàn"
+},
+"s4-00949": {
+"zh": "加盐至饱和",
+"vi": "Thêm muối đến bão hoà"
+},
+"s4-00959": {
+"zh": "你来当班长",
+"vi": "Em làm trưởng ca"
+},
+"s4-00973": {
+"zh": "纯碱产量",
+"vi": "Sản lượng soda"
+},
+"s4-00974": {
+"zh": "析出率",
+"vi": "Tỉ lệ kết tinh"
+},
+"s4-00975": {
+"zh": "分解率",
+"vi": "Tỉ lệ phân huỷ"
+},
+"s4-00976": {
+"zh": "结晶率",
+"vi": "Tỉ lệ kết tinh NH₄Cl"
+},
+"s4-00977": {
+"zh": "插值设定",
+"vi": "Thiết lập nội suy"
+},
+"s4-00978": {
+"zh": "分段设定",
+"vi": "Thiết lập phân đoạn"
+},
+"s4-00979": {
+"zh": "同离子设定",
+"vi": "Thiết lập ion chung"
+},
+"s4-00981": {
+"zh": "冷析温度",
+"vi": "Nhiệt độ kết tinh lạnh"
+},
+"s4-00982": {
+"zh": "吸氨中",
+"vi": "Đang hấp thụ NH₃"
+},
+"s4-00987": {
+"zh": "溶解度曲线",
+"vi": "Đường cong độ tan"
+},
+"s4-00989": {
+"zh": "越界风险",
+"vi": "Rủi ro vượt ngưỡng"
+},
+"s4-01008": {
+"zh": "吸氨与碳化",
+"vi": "Hấp thụ ammonia và carbonate hoá"
+},
+"s4-01010": {
+"zh": "冷析与加盐",
+"vi": "Kết tinh lạnh và thêm muối"
+},
+"s4-01032": {
+"zh": "直接排放",
+"vi": "Thải thẳng ra ngoài"
+},
+"s4-01034": {
+"zh": "去煅烧炉烧掉",
+"vi": "Đưa vào lò nung đốt bỏ"
+},
+"s4-01045": {
+"zh": "副产 NH₄Cl 氮肥",
+"vi": "Có sản phẩm phụ là phân đạm NH₄Cl"
+},
+"s4-01068": {
+"zh": "谁弱谁水解",
+"vi": "Ion yếu thì thuỷ phân"
+},
+"s4-01074": {
+"zh": "拿去用",
+"vi": "Đem ra ứng dụng"
+},
+"s4-01087": {
+"zh": "水解度—温度",
+"vi": "Độ thuỷ phân – nhiệt độ"
+},
+"s4-01088": {
+"zh": "盐溶液站",
+"vi": "Trạm dung dịch muối"
+},
+"s4-01091": {
+"zh": "水浴与加热站",
+"vi": "Trạm cách thuỷ và đun nóng"
+},
+"s4-01094": {
+"zh": "净水站",
+"vi": "Trạm làm trong nước"
+},
+"s4-01097": {
+"zh": "溶液示意放大",
+"vi": "Phóng to minh hoạ dung dịch"
+},
+"s4-01105": {
+"zh": "对照并排",
+"vi": "Đối chứng đặt cạnh"
+},
+"s4-01140": {
+"zh": "水解度增大",
+"vi": "Độ thuỷ phân tăng"
+},
+"s4-01142": {
+"zh": "稀释促进水解",
+"vi": "Pha loãng thúc đẩy thuỷ phân"
+},
+"s4-01154": {
+"zh": "升温促水解",
+"vi": "Tăng nhiệt thúc đẩy thuỷ phân"
+},
+"s4-01163": {
+"zh": "加酸抑制",
+"vi": "Thêm acid ức chế"
+},
+"s4-01184": {
+"zh": "对照管",
+"vi": "Ống đối chứng"
+},
+"s4-01193": {
+"zh": "煮沸与蒸干",
+"vi": "Đun sôi và cô cạn"
+},
+"s4-01222": {
+"zh": "盐溶液的浓度",
+"vi": "Nồng độ dung dịch muối"
+},
+"s4-01223": {
+"zh": "溶液温度",
+"vi": "Nhiệt độ dung dịch"
+},
+"s4-01227": {
+"zh": "不加酸",
+"vi": "Không thêm acid"
+},
+"s4-01229": {
+"zh": "未加入（对照管）",
+"vi": "Chưa thêm (ống đối chứng)"
+},
+"s4-01230": {
+"zh": "净水剂种类",
+"vi": "Loại chất làm trong"
+},
+"s4-01234": {
+"zh": "水解很小",
+"vi": "Thuỷ phân rất ít"
+},
+"s4-01236": {
+"zh": "pH（常温）",
+"vi": "pH (nhiệt độ thường)"
+},
+"s4-01237": {
+"zh": "—（常温口径）",
+"vi": "— (quy ước nhiệt độ thường)"
+},
+"s4-01238": {
+"zh": "已水解离子",
+"vi": "Ion đã thuỷ phân"
+},
+"s4-01240": {
+"zh": "不水解",
+"vi": "Không thuỷ phân"
+},
+"s4-01241": {
+"zh": "溶液性质",
+"vi": "Tính chất dung dịch"
+},
+"s4-01249": {
+"zh": "（教材实验活动3）",
+"vi": "(SGK Hoạt động thí nghiệm 3)"
+},
+"s4-01279": {
+"zh": "⑥ 净水",
+"vi": "⑥ Làm trong nước"
+},
+"s4-01281": {
+"zh": "Al³⁺、Fe³⁺ 能杀菌消毒",
+"vi": "Al³⁺, Fe³⁺ có thể diệt khuẩn khử trùng"
+},
+"s4-01297": {
+"zh": "pH 计（常温口径）",
+"vi": "Máy đo pH (nhiệt độ thường)"
+},
+"s4-01300": {
+"zh": "不加热（对照）",
+"vi": "Không đun (đối chứng)"
+},
+"s4-01301": {
+"zh": "浑浊水 + 净水剂",
+"vi": "Nước đục + chất làm trong"
+},
+"s4-01310": {
+"zh": "价态有高低",
+"vi": "Số oxi hoá có cao thấp"
+},
+"s4-01312": {
+"zh": "往上要氧化剂",
+"vi": "Đi lên cần chất oxi hoá"
+},
+"s4-01314": {
+"zh": "往下要还原剂",
+"vi": "Đi xuống cần chất khử"
+},
+"s4-01342": {
+"zh": "上层清液",
+"vi": "Dịch trong phía trên"
+},
+"s4-01347": {
+"zh": "检验站",
+"vi": "Trạm nhận biết"
+},
+"s4-01350": {
+"zh": "转化站",
+"vi": "Trạm chuyển hoá"
+},
+"s4-01389": {
+"zh": "煤油液封",
+"vi": "Lớp dầu hoả bịt kín"
+},
+"s4-01442": {
+"zh": "失电子 = 被氧化",
+"vi": "Nhường electron = bị oxi hoá"
+},
+"s4-01443": {
+"zh": "粒子总数不变",
+"vi": "Tổng số hạt không đổi"
+},
+"s4-01455": {
+"zh": "先氧化再检验",
+"vi": "Oxi hoá trước, thử sau"
+},
+"s4-01479": {
+"zh": "② 检验站",
+"vi": "② Trạm nhận biết"
+},
+"s4-01480": {
+"zh": "③ 转化站",
+"vi": "③ Trạm chuyển hoá"
+},
+"s4-01486": {
+"zh": "已隔绝空气",
+"vi": "Đã ngăn không khí"
+},
+"s4-01541": {
+"zh": "⑤ 加氯水",
+"vi": "⑤ Thêm nước chlorine"
+},
+"s4-01577": {
+"zh": "浓稀不同",
+"vi": "Đặc loãng khác nhau"
+},
+"s4-01583": {
+"zh": "两条安全线",
+"vi": "Hai lằn ranh an toàn"
+},
+"s4-01591": {
+"zh": "实验管",
+"vi": "Ống thí nghiệm"
+},
+"s4-01604": {
+"zh": "硝酸与金属",
+"vi": "Nitric acid và kim loại"
+},
+"s4-01627": {
+"zh": "溶液变绿",
+"vi": "Dung dịch chuyển lục"
+},
+"s4-01635": {
+"zh": "换成稀硝酸",
+"vi": "Đổi sang HNO₃ loãng"
+},
+"s4-01642": {
+"zh": "溶液变蓝",
+"vi": "Dung dịch chuyển lam"
+},
+"s4-01649": {
+"zh": "换成铁片",
+"vi": "Đổi sang lá sắt"
+},
+"s4-01655": {
+"zh": "气泡：几乎没有",
+"vi": "Bọt khí: hầu như không"
+},
+"s4-01672": {
+"zh": "逸出烟带",
+"vi": "Dải khói thoát ra"
+},
+"s4-01687": {
+"zh": "瓶内红棕色",
+"vi": "Trong lọ có màu nâu đỏ"
+},
+"s4-01707": {
+"zh": "振荡与看进去",
+"vi": "Lắc và nhìn vào trong"
+},
+"s4-01731": {
+"zh": "反应快慢",
+"vi": "Tốc độ phản ứng"
+},
+"s4-01732": {
+"zh": "教材现象口径",
+"vi": "Hiện tượng theo SGK"
+},
+"s4-01736": {
+"zh": "注射器气体",
+"vi": "Khí trong xi lanh"
+},
+"s4-01743": {
+"zh": "实验工况",
+"vi": "Chế độ thí nghiệm"
+},
+"s4-01754": {
+"zh": "浓硝酸保存",
+"vi": "Bảo quản HNO₃ đặc"
+},
+"s4-01755": {
+"zh": "棕色瓶避光",
+"vi": "Lọ nâu tránh sáng"
+},
+"s4-01756": {
+"zh": "透明瓶见光",
+"vi": "Lọ trong gặp sáng"
+},
+"s4-01765": {
+"zh": "① 浓稀产物",
+"vi": "① Sản phẩm đặc/loãng"
+},
+"s4-01791": {
+"zh": "⑤ 钝化",
+"vi": "⑤ Thụ động hoá"
+},
+"s4-01801": {
+"zh": "通入 NaOH 溶液吸收",
+"vi": "Dẫn vào dung dịch NaOH để hấp thụ"
+},
+"s5-00008": {
+"zh": "现象计时",
+"vi": "Bấm giờ hiện tượng"
+},
+"s5-00012": {
+"zh": "活化分子",
+"vi": "Phân tử hoạt động"
+},
+"s5-00026": {
+"zh": "普通分子",
+"vi": "Phân tử thường"
+},
+"s5-00027": {
+"zh": "有效碰撞",
+"vi": "Va chạm hiệu quả"
+},
+"s5-00028": {
+"zh": "浓度对比",
+"vi": "So sánh nồng độ"
+},
+"s5-00030": {
+"zh": "温度对比",
+"vi": "So sánh nhiệt độ"
+},
+"s5-00032": {
+"zh": "催化剂对比",
+"vi": "So sánh chất xúc tác"
+},
+"s5-00034": {
+"zh": "定量测速率",
+"vi": "Đo định lượng tốc độ"
+},
+"s5-00038": {
+"zh": "碰撞模型",
+"vi": "Mô hình va chạm"
+},
+"s5-00087": {
+"zh": "示意倍数",
+"vi": "Hệ số minh hoạ"
+},
+"s5-00088": {
+"zh": "降低活化能",
+"vi": "Giảm năng lượng hoạt hoá"
+},
+"s5-00101": {
+"zh": "平均速率",
+"vi": "Tốc độ trung bình"
+},
+"s5-00115": {
+"zh": "活化能",
+"vi": "Năng lượng hoạt hoá"
+},
+"s5-00129": {
+"zh": "时间偏小",
+"vi": "Thời gian lệch nhỏ"
+},
+"s5-00154": {
+"zh": "对照浑浊时间",
+"vi": "Thời gian vẩn đục đối chứng"
+},
+"s5-00156": {
+"zh": "催化剂气泡",
+"vi": "Bọt khí có xúc tác"
+},
+"s5-00161": {
+"zh": "（教材做法）",
+"vi": "(cách làm của SGK)"
+},
+"s5-00206": {
+"zh": "稀释管",
+"vi": "Ống pha loãng"
+},
+"s5-00218": {
+"zh": "活动性",
+"vi": "Tính hoạt động"
+},
+"s5-00228": {
+"zh": "车间流程",
+"vi": "Quy trình phân xưởng"
+},
+"s5-00244": {
+"zh": "电解铝车间",
+"vi": "Phân xưởng điện phân nhôm"
+},
+"s5-00246": {
+"zh": "熔融盐对照台",
+"vi": "Bàn đối chiếu muối nóng chảy"
+},
+"s5-00248": {
+"zh": "铝热反应台",
+"vi": "Bàn phản ứng nhiệt nhôm"
+},
+"s5-00251": {
+"zh": "系列控制柜",
+"vi": "Tủ điều khiển dãy bể"
+},
+"s5-00253": {
+"zh": "氧化铝料仓",
+"vi": "Silo aluminium oxide"
+},
+"s5-00255": {
+"zh": "氟化盐料仓",
+"vi": "Silo muối fluoride"
+},
+"s5-00263": {
+"zh": "铝热坩埚（示意）",
+"vi": "Chén nung nhiệt nhôm (minh hoạ)"
+},
+"s5-00336": {
+"zh": "电耗的账",
+"vi": "Bài toán điện năng"
+},
+"s5-00379": {
+"zh": "系列电流",
+"vi": "Dòng điện dãy bể"
+},
+"s5-00380": {
+"zh": "冰晶石助熔",
+"vi": "Cryolite trợ chảy"
+},
+"s5-00383": {
+"zh": "吨铝直流电耗",
+"vi": "Điện năng/tấn nhôm"
+},
+"s5-00394": {
+"zh": "槽温风险",
+"vi": "Rủi ro nhiệt độ bể"
+},
+"s5-00431": {
+"zh": "焦炭太贵",
+"vi": "Than cốc quá đắt"
+},
+"s5-00433": {
+"zh": "氧化铝不导电",
+"vi": "Aluminium oxide không dẫn điện"
+},
+"s5-00455": {
+"zh": "⑥ 电耗的账",
+"vi": "⑥ Bài toán điện năng"
+},
+"s5-00480": {
+"zh": "摇篮架竖肋",
+"vi": "Gân đứng khung nôi"
+},
+"s5-00482": {
+"zh": "侧部炭块内衬",
+"vi": "Lớp lót khối carbon thành bên"
+},
+"s5-00484": {
+"zh": "阴极碳块（槽底）",
+"vi": "Khối carbon cathode (đáy bể)"
+},
+"s5-00487": {
+"zh": "钢爪与铝导杆",
+"vi": "Chấu thép và thanh dẫn nhôm"
+},
+"s5-00488": {
+"zh": "阳极母线横梁",
+"vi": "Dầm ngang thanh cái anode"
+},
+"s5-00489": {
+"zh": "立柱母线",
+"vi": "Thanh cái đứng"
+},
+"s5-00490": {
+"zh": "门形上部结构",
+"vi": "Kết cấu phía trên dạng cổng"
+},
+"s5-00495": {
+"zh": "槽控箱",
+"vi": "Hộp điều khiển bể"
+},
+"s5-00496": {
+"zh": "铝液（沉在槽底）",
+"vi": "Nhôm lỏng (chìm ở đáy bể)"
+},
+"s5-00497": {
+"zh": "熔融电解质",
+"vi": "Chất điện li nóng chảy"
+},
+"s5-00498": {
+"zh": "结壳覆盖料",
+"vi": "Lớp vỏ và liệu phủ"
+},
+"s5-00500": {
+"zh": "壁厚示意加厚",
+"vi": "Độ dày thành vẽ dày hơn"
+},
+"s5-00501": {
+"zh": "铝母线",
+"vi": "Thanh cái nhôm"
+},
+"s5-00502": {
+"zh": "打壳下料器",
+"vi": "Bộ phá vỏ – nạp liệu"
+},
+"s5-00504": {
+"zh": "预焙阳极碳块",
+"vi": "Khối anode nung sẵn"
+},
+"s5-00508": {
+"zh": "比熔体重，沉底",
+"vi": "Nặng hơn khối nóng chảy, chìm đáy"
+},
+"s5-00509": {
+"zh": "阴极碳块",
+"vi": "Khối carbon cathode"
+},
+"s5-00510": {
+"zh": "嵌阴极钢棒",
+"vi": "Gắn thanh thép cathode"
+},
+"s5-00513": {
+"zh": "铝热焊（示教）",
+"vi": "Hàn nhiệt nhôm (minh hoạ)"
+},
+"s5-00514": {
+"zh": "锥形耐火坩埚",
+"vi": "Chén nung chịu lửa hình côn"
+},
+"s5-00519": {
+"zh": "坩埚三脚架",
+"vi": "Giá ba chân chén nung"
+},
+"s5-00520": {
+"zh": "枕木与砂盘",
+"vi": "Tà vẹt và khay cát"
+},
+"s5-00522": {
+"zh": "镁条（引燃）",
+"vi": "Dải magnesium (mồi cháy)"
+},
+"s5-00525": {
+"zh": "熔渣（浮在上面）",
+"vi": "Xỉ nóng chảy (nổi trên)"
+},
+"s5-00527": {
+"zh": "防护网屏",
+"vi": "Lưới chắn bảo hộ"
+},
+"s5-00530": {
+"zh": "耐火坩埚",
+"vi": "Chén nung chịu lửa"
+},
+"s5-00533": {
+"zh": "对接缝等铁水",
+"vi": "Mối nối chờ sắt lỏng"
+},
+"s5-00536": {
+"zh": "铝热剂",
+"vi": "Hỗn hợp tecmit"
+},
+"s5-00540": {
+"zh": "镁条",
+"vi": "Dải magnesium"
+},
+"s5-00542": {
+"zh": "观察安全距离 2 m",
+"vi": "Khoảng cách quan sát an toàn 2 m"
+},
+"s5-00544": {
+"zh": "反应进度",
+"vi": "Tiến độ phản ứng"
+},
+"s5-00552": {
+"zh": "最外层 1 个电子",
+"vi": "Lớp ngoài cùng 1 electron"
+},
+"s5-00554": {
+"zh": "见氧就变",
+"vi": "Gặp oxygen là biến đổi"
+},
+"s5-00556": {
+"zh": "见水更凶",
+"vi": "Gặp nước dữ dội hơn"
+},
+"s5-00558": {
+"zh": "所以不能用水",
+"vi": "Vì vậy không dùng nước"
+},
+"s5-00560": {
+"zh": "只能用干砂",
+"vi": "Chỉ dùng cát khô"
+},
+"s5-00580": {
+"zh": "泡在煤油里",
+"vi": "Ngâm trong dầu hoả"
+},
+"s5-00581": {
+"zh": "常温对照",
+"vi": "Đối chứng nhiệt độ thường"
+},
+"s5-00582": {
+"zh": "已滴酚酞",
+"vi": "Đã nhỏ phenolphthalein"
+},
+"s5-00585": {
+"zh": "观察站",
+"vi": "Trạm quan sát"
+},
+"s5-00594": {
+"zh": "扑救站",
+"vi": "Trạm dập cháy"
+},
+"s5-00603": {
+"zh": "标准状况",
+"vi": "Điều kiện chuẩn"
+},
+"s5-00615": {
+"zh": "保存在煤油中",
+"vi": "Bảo quản trong dầu hoả"
+},
+"s5-00616": {
+"zh": "已泡在煤油里",
+"vi": "Đã ngâm trong dầu hoả"
+},
+"s5-00620": {
+"zh": "常温",
+"vi": "Nhiệt độ thường"
+},
+"s5-00633": {
+"zh": "把钠火扑灭",
+"vi": "Dập tắt đám cháy sodium"
+},
+"s5-00645": {
+"zh": "银白变暗",
+"vi": "Trắng bạc xỉn đi"
+},
+"s5-00670": {
+"zh": "煤油隔绝空气",
+"vi": "Dầu hoả cách li không khí"
+},
+"s5-00673": {
+"zh": "加热燃烧",
+"vi": "Đun nóng – đốt cháy"
+},
+"s5-00688": {
+"zh": "浮熔游响红",
+"vi": "Nổi chảy chạy kêu đỏ"
+},
+"s5-00725": {
+"zh": "电子流出 Na",
+"vi": "Electron rời khỏi Na"
+},
+"s5-00753": {
+"zh": "最外层电子",
+"vi": "Electron lớp ngoài cùng"
+},
+"s5-00755": {
+"zh": "钠的熔点只有 97.79 ℃",
+"vi": "Nhiệt độ nóng chảy của sodium chỉ 97.79 ℃"
+},
+"s5-00762": {
+"zh": "防止钠挥发",
+"vi": "Ngăn sodium bay hơi"
+},
+"s5-00763": {
+"zh": "让钠保持低温",
+"vi": "Giữ sodium ở nhiệt độ thấp"
+},
+"s5-00767": {
+"zh": "常温与加热",
+"vi": "Nhiệt độ thường và đun nóng"
+},
+"s5-00774": {
+"zh": "钠与水",
+"vi": "Sodium và nước"
+},
+"s5-00782": {
+"zh": "用大量水浇灭",
+"vi": "Dội nhiều nước để dập tắt"
+},
+"s5-00809": {
+"zh": "价态定身份",
+"vi": "Số oxi hoá xác định danh tính"
+},
+"s5-00815": {
+"zh": "看得见的证据",
+"vi": "Bằng chứng nhìn thấy được"
+},
+"s5-00827": {
+"zh": "品红溶液",
+"vi": "Dung dịch fuchsin"
+},
+"s5-00842": {
+"zh": "硫粉与铁粉",
+"vi": "Bột sulfur và bột sắt"
+},
+"s5-00847": {
+"zh": "价态归中",
+"vi": "Quy trung số oxi hoá"
+},
+"s5-00856": {
+"zh": "一条气路",
+"vi": "Một đường dẫn khí"
+},
+"s5-00863": {
+"zh": "硫粉 + 铁粉",
+"vi": "Bột sulfur + bột sắt"
+},
+"s5-00868": {
+"zh": "红热蔓延",
+"vi": "Nóng đỏ lan ra"
+},
+"s5-00877": {
+"zh": "浓硫酸与铜",
+"vi": "Sulfuric acid đặc và đồng"
+},
+"s5-00895": {
+"zh": "浓 + 加热才反应",
+"vi": "Đặc + đun nóng mới phản ứng"
+},
+"s5-00903": {
+"zh": "加热复原",
+"vi": "Đun nóng hồi màu"
+},
+"s5-00908": {
+"zh": "加热 · 注意通风",
+"vi": "Đun nóng · chú ý thông gió"
+},
+"s5-00932": {
+"zh": "归中到零价",
+"vi": "Quy trung về số oxi hoá 0"
+},
+"s5-00938": {
+"zh": "淡黄色浑浊",
+"vi": "Vẩn đục vàng nhạt"
+},
+"s5-00957": {
+"zh": "考核 · 漂白到底",
+"vi": "Kiểm tra · tẩy màu hoàn toàn"
+},
+"s5-00973": {
+"zh": "几乎不反应",
+"vi": "Gần như không phản ứng"
+},
+"s5-00981": {
+"zh": "加热反应管",
+"vi": "Đun ống phản ứng"
+},
+"s5-00984": {
+"zh": "尾气棉团",
+"vi": "Bông hấp thụ khí thải"
+},
+"s5-01000": {
+"zh": "② 浓硫酸与铜",
+"vi": "② Sulfuric acid đặc và đồng"
+},
+"s5-01002": {
+"zh": "常温即可",
+"vi": "Ở nhiệt độ thường là được"
+},
+"s5-01004": {
+"zh": "浓硫酸且加热",
+"vi": "Sulfuric acid đặc và đun nóng"
+},
+"s5-01005": {
+"zh": "稀硫酸且加热",
+"vi": "Sulfuric acid loãng và đun nóng"
+},
+"s5-01019": {
+"zh": "两者都不变色",
+"vi": "Cả hai đều không đổi màu"
+},
+"s5-01024": {
+"zh": "⑥ 浓硫酸的性质",
+"vi": "⑥ Tính chất của sulfuric acid đặc"
+},
+"s5-01045": {
+"zh": "接触法制硫酸",
+"vi": "Sản xuất sulfuric acid bằng phương pháp tiếp xúc"
+},
+"s5-01049": {
+"zh": "保催化剂",
+"vi": "Bảo vệ xúc tác"
+},
+"s5-01051": {
+"zh": "平衡与速率",
+"vi": "Cân bằng và tốc độ"
+},
+"s5-01065": {
+"zh": "中心集气管",
+"vi": "Ống thu khí trung tâm"
+},
+"s5-01070": {
+"zh": "为什么分五段",
+"vi": "Vì sao chia năm công đoạn"
+},
+"s5-01074": {
+"zh": "硫铁矿焙烧",
+"vi": "Đốt quặng pyrite"
+},
+"s5-01085": {
+"zh": "为什么先净化",
+"vi": "Vì sao làm sạch trước"
+},
+"s5-01092": {
+"zh": "稀酸洗涤",
+"vi": "Rửa bằng acid loãng"
+},
+"s5-01093": {
+"zh": "电除雾",
+"vi": "Khử mù tĩnh điện"
+},
+"s5-01117": {
+"zh": "为什么要常压",
+"vi": "Vì sao áp suất thường"
+},
+"s5-01123": {
+"zh": "加压收益递减",
+"vi": "Lợi ích giảm dần khi tăng áp"
+},
+"s5-01125": {
+"zh": "多段 + 两次吸收",
+"vi": "Nhiều tầng + hấp thụ hai lần"
+},
+"s5-01138": {
+"zh": "段间换热",
+"vi": "Trao đổi nhiệt giữa tầng"
+},
+"s5-01139": {
+"zh": "平衡不变",
+"vi": "Cân bằng không đổi"
+},
+"s5-01153": {
+"zh": "总蒸气压最低",
+"vi": "Áp suất hơi tổng thấp nhất"
+},
+"s5-01169": {
+"zh": "排放达标",
+"vi": "Khí thải đạt chuẩn"
+},
+"s5-01177": {
+"zh": "焙烧造气",
+"vi": "Đốt quặng tạo khí"
+},
+"s5-01180": {
+"zh": "净化与干燥",
+"vi": "Làm sạch và làm khô"
+},
+"s5-01182": {
+"zh": "催化转化",
+"vi": "Chuyển hoá xúc tác"
+},
+"s5-01185": {
+"zh": "尾气与成品",
+"vi": "Khí thải và thành phẩm"
+},
+"s5-01188": {
+"zh": "余热锅炉",
+"vi": "Nồi hơi nhiệt thải"
+},
+"s5-01190": {
+"zh": "旋风除尘器",
+"vi": "Thiết bị lọc bụi xoáy lốc"
+},
+"s5-01191": {
+"zh": "除去矿尘",
+"vi": "Loại bụi quặng"
+},
+"s5-01192": {
+"zh": "电除尘器",
+"vi": "Thiết bị lọc bụi tĩnh điện"
+},
+"s5-01193": {
+"zh": "除尘效率约 99 %",
+"vi": "Hiệu suất lọc bụi khoảng 99 %"
+},
+"s5-01195": {
+"zh": "电除雾器",
+"vi": "Thiết bị khử mù tĩnh điện"
+},
+"s5-01201": {
+"zh": "段间换热器",
+"vi": "Thiết bị trao đổi nhiệt giữa tầng"
+},
+"s5-01204": {
+"zh": "尾气吸收塔",
+"vi": "Tháp hấp thụ khí thải"
+},
+"s5-01208": {
+"zh": "成品酸罐",
+"vi": "Bồn acid thành phẩm"
+},
+"s5-01210": {
+"zh": "一段入口温度",
+"vi": "Nhiệt độ cửa vào tầng 1"
+},
+"s5-01211": {
+"zh": "吸收酸浓度",
+"vi": "Nồng độ acid hấp thụ"
+},
+"s5-01212": {
+"zh": "净化（电除雾器）",
+"vi": "Làm sạch (khử mù tĩnh điện)"
+},
+"s5-01213": {
+"zh": "尾气脱硫",
+"vi": "Khử lưu huỳnh khí thải"
+},
+"s5-01214": {
+"zh": "产酸量",
+"vi": "Sản lượng acid"
+},
+"s5-01215": {
+"zh": "总转化率",
+"vi": "Hiệu suất chuyển hoá tổng"
+},
+"s5-01217": {
+"zh": "硫酸雾",
+"vi": "Mù sulfuric acid"
+},
+"s5-01221": {
+"zh": "产酸—温度",
+"vi": "Sản lượng acid – nhiệt độ"
+},
+"s5-01223": {
+"zh": "超温风险",
+"vi": "Rủi ro quá nhiệt"
+},
+"s5-01273": {
+"zh": "浓硫酸便宜",
+"vi": "Sulfuric acid đặc rẻ"
+},
+"s5-01275": {
+"zh": "水与 SO₃ 不反应",
+"vi": "Nước không phản ứng với SO₃"
+},
+"s5-01296": {
+"zh": "计量关系",
+"vi": "Quan hệ định lượng"
+},
+"s5-01301": {
+"zh": "读准才准",
+"vi": "Đọc chuẩn mới đúng"
+},
+"s5-01309": {
+"zh": "酚酞：粉红 ↔ 无色",
+"vi": "Phenolphthalein: hồng ↔ không màu"
+},
+"s5-01317": {
+"zh": "滴定前",
+"vi": "Trước chuẩn độ"
+},
+"s5-01319": {
+"zh": "甲基橙",
+"vi": "Methyl orange"
+},
+"s5-01325": {
+"zh": "锥形瓶",
+"vi": "Bình tam giác"
+},
+"s5-01331": {
+"zh": "认识滴定装置",
+"vi": "Làm quen bộ chuẩn độ"
+},
+"s5-01335": {
+"zh": "酸式滴定管",
+"vi": "Burette đựng acid"
+},
+"s5-01336": {
+"zh": "锥形瓶垫白纸",
+"vi": "Bình tam giác lót giấy trắng"
+},
+"s5-01343": {
+"zh": "润洗与赶气泡",
+"vi": "Tráng và đuổi bọt khí"
+},
+"s5-01380": {
+"zh": "摇动锥形瓶",
+"vi": "Lắc bình tam giác"
+},
+"s5-01389": {
+"zh": "半滴到终点",
+"vi": "Nửa giọt đến điểm cuối"
+},
+"s5-01397": {
+"zh": "半分钟不变色",
+"vi": "Nửa phút không đổi màu"
+},
+"s5-01405": {
+"zh": "读数与计算",
+"vi": "Đọc số và tính toán"
+},
+"s5-01409": {
+"zh": "三次取平均",
+"vi": "Lấy trung bình ba lần"
+},
+"s5-01421": {
+"zh": "正在看：锥形瓶",
+"vi": "Đang xem: bình tam giác"
+},
+"s5-01444": {
+"zh": "考核 · 当滴定员",
+"vi": "Kiểm tra · làm người chuẩn độ"
+},
+"s5-01457": {
+"zh": "酚酞（已加 2 滴）",
+"vi": "Phenolphthalein (đã thêm 2 giọt)"
+},
+"s5-01458": {
+"zh": "甲基橙（已加 2 滴）",
+"vi": "Methyl orange (đã thêm 2 giọt)"
+},
+"s5-01462": {
+"zh": "尖嘴气泡",
+"vi": "Bọt khí đầu vòi"
+},
+"s5-01469": {
+"zh": "滴定管末读数",
+"vi": "Số đọc cuối burette"
+},
+"s5-01470": {
+"zh": "算出的浓度",
+"vi": "Nồng độ tính được"
+},
+"s5-01471": {
+"zh": "终点判断",
+"vi": "Xác định điểm cuối"
+},
+"s5-01474": {
+"zh": "指示剂变色",
+"vi": "Chất chỉ thị đổi màu"
+},
+"s5-01475": {
+"zh": "未到终点",
+"vi": "Chưa đến điểm cuối"
+},
+"s5-01476": {
+"zh": "半滴内到达",
+"vi": "Đến trong nửa giọt"
+},
+"s5-01482": {
+"zh": "（教材实验活动2）",
+"vi": "(Hoạt động thí nghiệm 2 SGK)"
+},
+"s5-01499": {
+"zh": "与视线无关",
+"vi": "Không liên quan đến hướng nhìn"
+},
+"s5-01531": {
+"zh": "仰后俯",
+"vi": "Dưới rồi trên"
+},
+"s5-01532": {
+"zh": "俯后仰",
+"vi": "Trên rồi dưới"
+},
+"s5-01544": {
+"zh": "可逆 / 永久",
+"vi": "Thuận nghịch / vĩnh viễn"
+},
+"s5-01551": {
+"zh": "碘液",
+"vi": "Dung dịch iodine"
+},
+"s5-01558": {
+"zh": "可调 pH",
+"vi": "pH điều chỉnh được"
+},
+"s5-01560": {
+"zh": "回温试管",
+"vi": "Ống trở lại nhiệt độ"
+},
+"s5-01571": {
+"zh": "温度站",
+"vi": "Trạm nhiệt độ"
+},
+"s5-01576": {
+"zh": "处理与回温台",
+"vi": "Bàn xử lí và trở lại nhiệt độ"
+},
+"s5-01577": {
+"zh": "回温台",
+"vi": "Bàn trở lại nhiệt độ"
+},
+"s5-01585": {
+"zh": "变量控制",
+"vi": "Kiểm soát biến"
+},
+"s5-01599": {
+"zh": "碘液显色",
+"vi": "Hiện màu với iodine"
+},
+"s5-01600": {
+"zh": "两侧都降低",
+"vi": "Hai phía đều giảm"
+},
+"s5-01615": {
+"zh": "气泡速率",
+"vi": "Tốc độ sủi bọt"
+},
+"s5-01616": {
+"zh": "缓冲液",
+"vi": "Dung dịch đệm"
+},
+"s5-01624": {
+"zh": "高温不可逆",
+"vi": "Nhiệt độ cao không thuận nghịch"
+},
+"s5-01630": {
+"zh": "永久失活",
+"vi": "Bất hoạt vĩnh viễn"
+},
+"s5-01631": {
+"zh": "不可恢复",
+"vi": "Không hồi phục"
+},
+"s5-01632": {
+"zh": "空间结构",
+"vi": "Cấu trúc không gian"
+},
+"s5-01641": {
+"zh": "低温可恢复",
+"vi": "Nhiệt độ thấp hồi phục được"
+},
+"s5-01647": {
+"zh": "可恢复",
+"vi": "Hồi phục được"
+},
+"s5-01648": {
+"zh": "结构稳定",
+"vi": "Cấu trúc ổn định"
+},
+"s5-01662": {
+"zh": "活性位点",
+"vi": "Trung tâm hoạt động"
+},
+"s5-01663": {
+"zh": "锁-钥匙",
+"vi": "Ổ khoá – chìa khoá"
+},
+"s5-01670": {
+"zh": "过酸过碱",
+"vi": "Quá acid, quá base"
+},
+"s5-01699": {
+"zh": "相对酶活性",
+"vi": "Hoạt tính tương đối"
+},
+"s5-01700": {
+"zh": "酶的状态",
+"vi": "Trạng thái enzyme"
+},
+"s5-01710": {
+"zh": "① 低温与高温",
+"vi": "① Nhiệt độ thấp và cao"
+},
+"s5-01712": {
+"zh": "两者都恢复",
+"vi": "Cả hai đều hồi phục"
+},
+"s5-01715": {
+"zh": "两者都不恢复",
+"vi": "Cả hai đều không hồi phục"
+},
+"s5-01717": {
+"zh": "② 过酸过碱",
+"vi": "② Quá acid, quá base"
+},
+"s5-01719": {
+"zh": "完全恢复",
+"vi": "Hồi phục hoàn toàn"
+},
+"s5-01720": {
+"zh": "恢复一半",
+"vi": "Hồi phục một nửa"
+},
+"s5-01721": {
+"zh": "不能恢复",
+"vi": "Không hồi phục được"
+},
+"s5-01731": {
+"zh": "④ 不同酶不同",
+"vi": "④ Mỗi enzyme một khác"
+},
+"s5-01734": {
+"zh": "几乎丧失",
+"vi": "Gần như mất hết"
+},
+"s5-01735": {
+"zh": "先升高后降低",
+"vi": "Tăng trước rồi giảm"
+},
+"s5-01737": {
+"zh": "⑤ 时间轴",
+"vi": "⑤ Trục thời gian"
+},
+"s5-01739": {
+"zh": "曲线的峰",
+"vi": "Đỉnh của đồ thị"
+},
+"s5-01740": {
+"zh": "曲线的谷",
+"vi": "Đáy của đồ thị"
+},
+"s5-01741": {
+"zh": "随便哪一点",
+"vi": "Điểm nào cũng được"
+},
+"s5-01744": {
+"zh": "⑥ 化学本质",
+"vi": "⑥ Bản chất hoá học"
+},
+"s6-00011": {
+"zh": "递质 · 单向较慢",
+"vi": "Chất dẫn truyền · Một chiều, chậm"
+},
+"s6-00018": {
+"zh": "轴突膜片",
+"vi": "Mảnh màng sợi trục"
+},
+"s6-00020": {
+"zh": "突触 · 示意放大",
+"vi": "Synapse · Phóng to minh hoạ"
+},
+"s6-00022": {
+"zh": "神经冲动",
+"vi": "Xung thần kinh"
+},
+"s6-00028": {
+"zh": "电信号",
+"vi": "Tín hiệu điện"
+},
+"s6-00043": {
+"zh": "内负外正",
+"vi": "Trong âm ngoài dương"
+},
+"s6-00050": {
+"zh": "动作电位",
+"vi": "Điện thế hoạt động"
+},
+"s6-00057": {
+"zh": "内正外负",
+"vi": "Trong dương ngoài âm"
+},
+"s6-00064": {
+"zh": "局部电流",
+"vi": "Dòng điện cục bộ"
+},
+"s6-00081": {
+"zh": "化学信号转换",
+"vi": "Chuyển đổi tín hiệu hoá học"
+},
+"s6-00083": {
+"zh": "神经递质",
+"vi": "Chất dẫn truyền thần kinh"
+},
+"s6-00091": {
+"zh": "单向与延搁",
+"vi": "Một chiều và chậm synapse"
+},
+"s6-00097": {
+"zh": "单向传递",
+"vi": "Truyền một chiều"
+},
+"s6-00111": {
+"zh": "转运蛋白",
+"vi": "Protein vận chuyển"
+},
+"s6-00125": {
+"zh": "枪乌贼实验",
+"vi": "Thí nghiệm mực ống"
+},
+"s6-00140": {
+"zh": "恢复工况",
+"vi": "Khôi phục chế độ"
+},
+"s6-00147": {
+"zh": "刺激电极",
+"vi": "Điện cực kích thích"
+},
+"s6-00150": {
+"zh": "膜内（细胞内）",
+"vi": "Trong màng (trong tế bào)"
+},
+"s6-00151": {
+"zh": "膜外（细胞外）",
+"vi": "Ngoài màng (ngoài tế bào)"
+},
+"s6-00154": {
+"zh": "突触前膜",
+"vi": "Màng trước synapse"
+},
+"s6-00156": {
+"zh": "突触后膜",
+"vi": "Màng sau synapse"
+},
+"s6-00158": {
+"zh": "电表读数",
+"vi": "Số đọc điện kế"
+},
+"s6-00159": {
+"zh": "膜片膜电位",
+"vi": "Điện thế mảnh màng"
+},
+"s6-00162": {
+"zh": "间隙多巴胺",
+"vi": "Dopamine trong khe"
+},
+"s6-00163": {
+"zh": "恢复中",
+"vi": "Đang phục hồi"
+},
+"s6-00165": {
+"zh": "电刺激",
+"vi": "Kích thích điện"
+},
+"s6-00167": {
+"zh": "刺激中",
+"vi": "Đang kích thích"
+},
+"s6-00174": {
+"zh": "Na⁺ 通道恢复通透",
+"vi": "Kênh Na⁺ cho đi qua trở lại"
+},
+"s6-00177": {
+"zh": "膜电位—时间",
+"vi": "Điện thế màng – thời gian"
+},
+"s6-00180": {
+"zh": "恢复动作电位",
+"vi": "Khôi phục điện thế hoạt động"
+},
+"s6-00188": {
+"zh": "两侧相等",
+"vi": "Hai bên bằng nhau"
+},
+"s6-00189": {
+"zh": "内外都为正",
+"vi": "Trong và ngoài đều dương"
+},
+"s6-00221": {
+"zh": "找分生区",
+"vi": "Tìm vùng phân sinh"
+},
+"s6-00223": {
+"zh": "认时期",
+"vi": "Nhận biết các kì"
+},
+"s6-00227": {
+"zh": "算时长",
+"vi": "Tính thời gian"
+},
+"s6-00229": {
+"zh": "制片与根尖",
+"vi": "Làm tiêu bản và đầu rễ"
+},
+"s6-00233": {
+"zh": "细胞视野",
+"vi": "Thị trường tế bào"
+},
+"s6-00254": {
+"zh": "低倍扫视 → 40× 观察",
+"vi": "Quét ở độ phóng đại nhỏ → quan sát 40×"
+},
+"s6-00255": {
+"zh": "根尖分生区",
+"vi": "Vùng mô phân sinh đầu rễ"
+},
+"s6-00257": {
+"zh": "先低倍后高倍",
+"vi": "Phóng đại nhỏ trước, lớn sau"
+},
+"s6-00270": {
+"zh": "染色质凝集",
+"vi": "Chất nhiễm sắc co xoắn"
+},
+"s6-00272": {
+"zh": "纺锤体",
+"vi": "Thoi phân bào"
+},
+"s6-00285": {
+"zh": "赤道板",
+"vi": "Mặt phẳng xích đạo"
+},
+"s6-00301": {
+"zh": "染色体数加倍",
+"vi": "Số NST tăng gấp đôi"
+},
+"s6-00315": {
+"zh": "细胞板",
+"vi": "Vách ngăn tế bào"
+},
+"s6-00316": {
+"zh": "新核膜",
+"vi": "Màng nhân mới"
+},
+"s6-00317": {
+"zh": "子细胞相同",
+"vi": "Tế bào con giống nhau"
+},
+"s6-00329": {
+"zh": "取样框",
+"vi": "Khung lấy mẫu"
+},
+"s6-00330": {
+"zh": "分裂期细胞",
+"vi": "Tế bào pha phân chia"
+},
+"s6-00356": {
+"zh": "只在分生区数",
+"vi": "Chỉ đếm ở vùng phân sinh"
+},
+"s6-00364": {
+"zh": "主角时期",
+"vi": "Kì của tế bào chính"
+},
+"s6-00370": {
+"zh": "间期",
+"vi": "Kì trung gian"
+},
+"s6-00381": {
+"zh": "分裂期",
+"vi": "Pha phân chia"
+},
+"s6-00395": {
+"zh": "③ 间期",
+"vi": "③ Kì trung gian"
+},
+"s6-00402": {
+"zh": "① 制片",
+"vi": "① Làm tiêu bản"
+},
+"s6-00419": {
+"zh": "分生区",
+"vi": "Vùng phân sinh"
+},
+"s6-00428": {
+"zh": "教材四期划分",
+"vi": "Cách chia bốn kì trong SGK"
+},
+"s6-00430": {
+"zh": "间期复制后",
+"vi": "Sau nhân đôi ở kì trung gian"
+},
+"s6-00439": {
+"zh": "半透膜 + 浓度差",
+"vi": "Màng bán thấm + chênh lệch nồng độ"
+},
+"s6-00440": {
+"zh": "原生质层",
+"vi": "Lớp nguyên sinh chất"
+},
+"s6-00447": {
+"zh": "测浓度 · 判死活",
+"vi": "Đo nồng độ · Xác định sống chết"
+},
+"s6-00448": {
+"zh": "临时装片",
+"vi": "Tiêu bản tạm thời"
+},
+"s6-00452": {
+"zh": "表皮细胞",
+"vi": "Tế bào biểu bì"
+},
+"s6-00463": {
+"zh": "半透膜",
+"vi": "Màng bán thấm"
+},
+"s6-00464": {
+"zh": "浓度差",
+"vi": "Chênh lệch nồng độ"
+},
+"s6-00476": {
+"zh": "细胞壁全透",
+"vi": "Thành tế bào thấm toàn phần"
+},
+"s6-00477": {
+"zh": "中央液泡",
+"vi": "Không bào trung tâm"
+},
+"s6-00489": {
+"zh": "质壁分离",
+"vi": "Co nguyên sinh"
+},
+"s6-00490": {
+"zh": "液泡变小变深",
+"vi": "Không bào nhỏ lại, màu đậm hơn"
+},
+"s6-00504": {
+"zh": "外界溶液",
+"vi": "Dung dịch bên ngoài"
+},
+"s6-00506": {
+"zh": "协助扩散",
+"vi": "Khuếch tán tăng cường"
+},
+"s6-00519": {
+"zh": "质壁分离复原",
+"vi": "Phản co nguyên sinh"
+},
+"s6-00520": {
+"zh": "液泡变大",
+"vi": "Không bào to ra"
+},
+"s6-00534": {
+"zh": "自由扩散",
+"vi": "Khuếch tán đơn giản"
+},
+"s6-00548": {
+"zh": "测细胞液浓度",
+"vi": "Đo nồng độ dịch tế bào"
+},
+"s6-00549": {
+"zh": "判死活",
+"vi": "Xác định sống chết"
+},
+"s6-00560": {
+"zh": "约一半分离",
+"vi": "Khoảng một nửa co"
+},
+"s6-00570": {
+"zh": "主角体积",
+"vi": "Thể tích tế bào chính"
+},
+"s6-00572": {
+"zh": "水净流向",
+"vi": "Chiều nước thực"
+},
+"s6-00580": {
+"zh": "外界溶液浓度",
+"vi": "Nồng độ dung dịch ngoài"
+},
+"s6-00583": {
+"zh": "溶质换成甘油",
+"vi": "Đổi chất tan thành glycerol"
+},
+"s6-00584": {
+"zh": "溶质换成蔗糖",
+"vi": "Đổi chất tan thành sucrose"
+},
+"s6-00586": {
+"zh": "换回活细胞",
+"vi": "Đổi lại tế bào sống"
+},
+"s6-00593": {
+"zh": "② 原生质层",
+"vi": "② Lớp nguyên sinh chất"
+},
+"s6-00604": {
+"zh": "只能自由扩散",
+"vi": "Chỉ bằng khuếch tán đơn giản"
+},
+"s6-00606": {
+"zh": "需要消耗能量",
+"vi": "Cần tiêu tốn năng lượng"
+},
+"s6-00611": {
+"zh": "不发生分离",
+"vi": "Không co nguyên sinh"
+},
+"s6-00612": {
+"zh": "分离后不复原",
+"vi": "Co rồi không phản co"
+},
+"s6-00614": {
+"zh": "吸水涨破",
+"vi": "Hút nước đến vỡ"
+},
+"s6-00618": {
+"zh": "细胞壁（全透）",
+"vi": "Thành tế bào (thấm toàn phần)"
+},
+"s6-00627": {
+"zh": "物质跨膜运输",
+"vi": "Vận chuyển các chất qua màng"
+},
+"s6-00633": {
+"zh": "主动运输",
+"vi": "Vận chuyển chủ động"
+},
+"s6-00635": {
+"zh": "胞吞胞吐",
+"vi": "Nhập bào, xuất bào"
+},
+"s6-00648": {
+"zh": "顺浓度",
+"vi": "Thuận nồng độ"
+},
+"s6-00649": {
+"zh": "不耗能",
+"vi": "Không tốn năng lượng"
+},
+"s6-00663": {
+"zh": "选择透过性",
+"vi": "Tính thấm chọn lọc"
+},
+"s6-00664": {
+"zh": "磷脂双分子层",
+"vi": "Lớp kép phospholipid"
+},
+"s6-00685": {
+"zh": "载体与通道",
+"vi": "Protein mang và protein kênh"
+},
+"s6-00706": {
+"zh": "逆浓度",
+"vi": "Ngược nồng độ"
+},
+"s6-00721": {
+"zh": "膜的流动性",
+"vi": "Tính linh động của màng"
+},
+"s6-00736": {
+"zh": "对照表",
+"vi": "Bảng đối chiếu"
+},
+"s6-00749": {
+"zh": "耗能",
+"vi": "Tốn năng lượng"
+},
+"s6-00763": {
+"zh": "不需要蛋白",
+"vi": "Không cần protein"
+},
+"s6-00764": {
+"zh": "不消耗",
+"vi": "Không tiêu tốn"
+},
+"s6-00773": {
+"zh": "供能恢复",
+"vi": "Khôi phục năng lượng"
+},
+"s6-00777": {
+"zh": "让 K⁺ 逆浓度进入",
+"vi": "Cho K⁺ đi vào ngược nồng độ"
+},
+"s6-00779": {
+"zh": "② 自由扩散",
+"vi": "② Khuếch tán đơn giản"
+},
+"s6-00785": {
+"zh": "② 协助扩散",
+"vi": "② Khuếch tán tăng cường"
+},
+"s6-00787": {
+"zh": "② 主动运输",
+"vi": "② Vận chuyển chủ động"
+},
+"s6-00790": {
+"zh": "③ 胞吞胞吐",
+"vi": "③ Nhập bào, xuất bào"
+},
+"s6-00824": {
+"zh": "工厂与城镇",
+"vi": "Nhà máy và đô thị"
+},
+"s6-00825": {
+"zh": "排放源",
+"vi": "Nguồn phát thải"
+},
+"s6-00829": {
+"zh": "碳循环",
+"vi": "Chu trình carbon"
+},
+"s6-00835": {
+"zh": "迁移与转化",
+"vi": "Di chuyển và chuyển hoá"
+},
+"s6-00836": {
+"zh": "收支大体相抵",
+"vi": "Thu chi gần cân bằng"
+},
+"s6-00837": {
+"zh": "浓度长期稳定",
+"vi": "Nồng độ ổn định lâu dài"
+},
+"s6-00845": {
+"zh": "两条输入",
+"vi": "Hai nguồn đưa vào"
+},
+"s6-00850": {
+"zh": "化石燃料",
+"vi": "Nhiên liệu hoá thạch"
+},
+"s6-00851": {
+"zh": "土地利用变化",
+"vi": "Thay đổi sử dụng đất"
+},
+"s6-00852": {
+"zh": "两支人为箭头",
+"vi": "Hai mũi tên do con người"
+},
+"s6-00860": {
+"zh": "排放去向",
+"vi": "Nơi đến của phát thải"
+},
+"s6-00865": {
+"zh": "部分被吸收",
+"vi": "Một phần được hấp thụ"
+},
+"s6-00866": {
+"zh": "其余留下",
+"vi": "Phần còn lại lưu lại"
+},
+"s6-00867": {
+"zh": "增汇",
+"vi": "Tăng bể hấp thụ"
+},
+"s6-00875": {
+"zh": "保温增强",
+"vi": "Giữ nhiệt tăng"
+},
+"s6-00880": {
+"zh": "温室效应增强",
+"vi": "Hiệu ứng nhà kính tăng"
+},
+"s6-00881": {
+"zh": "辐射强迫",
+"vi": "Cưỡng bức bức xạ"
+},
+"s6-00882": {
+"zh": "平衡升温",
+"vi": "Nóng lên cân bằng"
+},
+"s6-00895": {
+"zh": "累积排放",
+"vi": "Phát thải tích luỹ"
+},
+"s6-00897": {
+"zh": "已越线",
+"vi": "Đã vượt ngưỡng"
+},
+"s6-00911": {
+"zh": "最为严重",
+"vi": "Nghiêm trọng nhất"
+},
+"s6-00913": {
+"zh": "环境难民",
+"vi": "Người tị nạn môi trường"
+},
+"s6-00927": {
+"zh": "减排",
+"vi": "Giảm phát thải"
+},
+"s6-00953": {
+"zh": "观察年数",
+"vi": "Số năm quan sát"
+},
+"s6-00954": {
+"zh": "大气留存比例",
+"vi": "Tỉ lệ lưu lại trong khí quyển"
+},
+"s6-00957": {
+"zh": "未越线",
+"vi": "Chưa vượt ngưỡng"
+},
+"s6-00969": {
+"zh": "① 碳循环",
+"vi": "① Chu trình carbon"
+},
+"s6-00983": {
+"zh": "③ 排放去向",
+"vi": "③ Nơi đến của phát thải"
+},
+"s6-00989": {
+"zh": "④ 温室效应",
+"vi": "④ Hiệu ứng nhà kính"
+},
+"s6-00993": {
+"zh": "反射太阳辐射",
+"vi": "Phản xạ bức xạ Mặt Trời"
+},
+"s6-00994": {
+"zh": "破坏臭氧层",
+"vi": "Phá huỷ tầng ozone"
+},
+"s6-00999": {
+"zh": "累积排放量",
+"vi": "Lượng phát thải tích luỹ"
+},
+"s6-01000": {
+"zh": "当年的气温",
+"vi": "Nhiệt độ của năm đó"
+},
+"s6-01001": {
+"zh": "当年的降水",
+"vi": "Lượng mưa của năm đó"
+},
+"s6-01009": {
+"zh": "⑦ 国家安全",
+"vi": "⑦ An ninh quốc gia"
+},
+"s6-01023": {
+"zh": "旋转、缩放景观",
+"vi": "Xoay, phóng to thu nhỏ cảnh quan"
+},
+"s6-01036": {
+"zh": "太阳短波辐射",
+"vi": "Bức xạ sóng ngắn Mặt Trời"
+},
+"s6-01037": {
+"zh": "地面长波辐射",
+"vi": "Bức xạ sóng dài mặt đất"
+},
+"s6-01040": {
+"zh": "② 辐射强迫为正",
+"vi": "② Cưỡng bức bức xạ dương"
+},
+"s6-01041": {
+"zh": "③ 平衡升温",
+"vi": "③ Nóng lên cân bằng"
+},
+"s6-01043": {
+"zh": "原海平面",
+"vi": "Mực nước biển ban đầu"
+},
+"s6-01044": {
+"zh": "适应：防波堤",
+"vi": "Thích ứng: đê chắn sóng"
+},
+"s6-01045": {
+"zh": "减缓：减排",
+"vi": "Giảm nhẹ: giảm phát thải"
+},
+"s6-01069": {
+"zh": "海陆",
+"vi": "Lục địa – đại dương"
+},
+"s6-01071": {
+"zh": "低纬环流",
+"vi": "Vòng hoàn lưu vĩ độ thấp"
+},
+"s6-01073": {
+"zh": "中纬环流",
+"vi": "Vòng hoàn lưu vĩ độ trung bình"
+},
+"s6-01075": {
+"zh": "高纬环流",
+"vi": "Vòng hoàn lưu vĩ độ cao"
+},
+"s6-01077": {
+"zh": "赤道低压带",
+"vi": "Đai áp thấp xích đạo"
+},
+"s6-01078": {
+"zh": "副热带高压带",
+"vi": "Đai áp cao cận chí tuyến"
+},
+"s6-01079": {
+"zh": "副极地低压带",
+"vi": "Đai áp thấp ôn đới"
+},
+"s6-01081": {
+"zh": "东北信风",
+"vi": "Tín phong đông bắc"
+},
+"s6-01082": {
+"zh": "东南信风",
+"vi": "Tín phong đông nam"
+},
+"s6-01083": {
+"zh": "盛行西风",
+"vi": "Gió Tây ôn đới"
+},
+"s6-01085": {
+"zh": "低纬信风带",
+"vi": "Đới Tín phong vĩ độ thấp"
+},
+"s6-01086": {
+"zh": "中纬西风带",
+"vi": "Đới gió Tây vĩ độ trung bình"
+},
+"s6-01087": {
+"zh": "极地东风带",
+"vi": "Đới gió Đông cực"
+},
+"s6-01089": {
+"zh": "赤道低压",
+"vi": "Áp thấp xích đạo"
+},
+"s6-01095": {
+"zh": "赤道受热多",
+"vi": "Xích đạo nhận nhiều nhiệt"
+},
+"s6-01096": {
+"zh": "空气膨胀上升",
+"vi": "Không khí nở ra, bốc lên"
+},
+"s6-01112": {
+"zh": "堆积下沉",
+"vi": "Dồn ứ, giáng xuống"
+},
+"s6-01133": {
+"zh": "七带六风",
+"vi": "Bảy đai, sáu đới gió"
+},
+"s6-01146": {
+"zh": "季节移动",
+"vi": "Di chuyển theo mùa"
+},
+"s6-01152": {
+"zh": "夏季偏北",
+"vi": "Mùa hạ lệch bắc"
+},
+"s6-01153": {
+"zh": "冬季偏南",
+"vi": "Mùa đông lệch nam"
+},
+"s6-01154": {
+"zh": "地中海气候",
+"vi": "Khí hậu địa trung hải"
+},
+"s6-01162": {
+"zh": "海陆分布",
+"vi": "Phân bố lục địa – đại dương"
+},
+"s6-01169": {
+"zh": "亚洲低压",
+"vi": "Áp thấp châu Á"
+},
+"s6-01178": {
+"zh": "考核 · 麦哲伦",
+"vi": "Kiểm tra · Ma-gien-lăng"
+},
+"s6-01227": {
+"zh": "带系平移",
+"vi": "Hệ đai dịch chuyển"
+},
+"s6-01228": {
+"zh": "副高（北）",
+"vi": "Áp cao cận CT (bắc)"
+},
+"s6-01230": {
+"zh": "罗马受控",
+"vi": "Rô-ma chịu khống chế"
+},
+"s6-01231": {
+"zh": "模型判定",
+"vi": "Kết luận mô hình"
+},
+"s6-01233": {
+"zh": "环流剖面",
+"vi": "Mặt cắt hoàn lưu"
+},
+"s6-01236": {
+"zh": "气压中心（海陆）",
+"vi": "Trung tâm khí áp (lục địa – đại dương)"
+},
+"s6-01237": {
+"zh": "地点与航线",
+"vi": "Địa điểm và tuyến đường"
+},
+"s6-01243": {
+"zh": "环流圈",
+"vi": "Vòng hoàn lưu"
+},
+"s6-01257": {
+"zh": "海陆热力差异",
+"vi": "Khác biệt nhiệt lục địa – đại dương"
+},
+"s6-01278": {
+"zh": "全年不动",
+"vi": "Cả năm không di chuyển"
+},
+"s6-01287": {
+"zh": "⑤ 海陆",
+"vi": "⑤ Lục địa – đại dương"
+},
+"s6-01311": {
+"zh": "太平洋",
+"vi": "Thái Bình Dương"
+},
+"s6-01313": {
+"zh": "大西洋",
+"vi": "Đại Tây Dương"
+},
+"s6-01317": {
+"zh": "风推水走",
+"vi": "Gió đẩy nước đi"
+},
+"s6-01322": {
+"zh": "信风 → 向西",
+"vi": "Tín phong → hướng tây"
+},
+"s6-01323": {
+"zh": "西风 → 向东",
+"vi": "Gió Tây → hướng đông"
+},
+"s6-01332": {
+"zh": "中低纬成圈",
+"vi": "Vĩ độ thấp – trung bình thành vòng"
+},
+"s6-01338": {
+"zh": "自东向西",
+"vi": "Từ đông sang tây"
+},
+"s6-01339": {
+"zh": "西岸转向高纬",
+"vi": "Bờ tây chuyển lên vĩ độ cao"
+},
+"s6-01340": {
+"zh": "西风带转向东",
+"vi": "Đới gió Tây đổi sang hướng đông"
+},
+"s6-01341": {
+"zh": "北顺南逆",
+"vi": "Bắc thuận, nam ngược"
+},
+"s6-01349": {
+"zh": "中高纬反着转",
+"vi": "Vĩ độ trung bình – cao quay ngược"
+},
+"s6-01355": {
+"zh": "与中低纬反号",
+"vi": "Trái dấu với vĩ độ thấp – trung bình"
+},
+"s6-01363": {
+"zh": "寒暖流",
+"vi": "Dòng nóng, dòng lạnh"
+},
+"s6-01369": {
+"zh": "按水温判",
+"vi": "Xác định theo nhiệt độ nước"
+},
+"s6-01371": {
+"zh": "纬向流不适用",
+"vi": "Không áp dụng cho dòng theo vĩ tuyến"
+},
+"s6-01379": {
+"zh": "不绕圈会倒转",
+"vi": "Không thành vòng, có đảo chiều"
+},
+"s6-01385": {
+"zh": "冬季向西",
+"vi": "Mùa đông hướng tây"
+},
+"s6-01386": {
+"zh": "夏季向东",
+"vi": "Mùa hạ hướng đông"
+},
+"s6-01395": {
+"zh": "海水性质",
+"vi": "Tính chất nước biển"
+},
+"s6-01402": {
+"zh": "副热带最高",
+"vi": "Cao nhất ở cận nhiệt"
+},
+"s6-01411": {
+"zh": "气候影响",
+"vi": "Ảnh hưởng tới khí hậu"
+},
+"s6-01417": {
+"zh": "暖流增温增湿",
+"vi": "Dòng nóng tăng nhiệt, tăng ẩm"
+},
+"s6-01418": {
+"zh": "寒流降温减湿",
+"vi": "Dòng lạnh giảm nhiệt, giảm ẩm"
+},
+"s6-01419": {
+"zh": "课件推算",
+"vi": "Bài giảng tính toán"
+},
+"s6-01449": {
+"zh": "暖流增温",
+"vi": "Dòng nóng tăng nhiệt"
+},
+"s6-01450": {
+"zh": "季风洋流",
+"vi": "Dòng biển gió mùa"
+},
+"s6-01459": {
+"zh": "日本暖流",
+"vi": "Dòng biển nóng Cư-rô-si-ô"
+},
+"s6-01460": {
+"zh": "北太平洋暖流",
+"vi": "Dòng biển nóng Bắc Thái Bình Dương"
+},
+"s6-01462": {
+"zh": "千岛寒流",
+"vi": "Dòng biển lạnh Ô-ia-si-ô"
+},
+"s6-01466": {
+"zh": "秘鲁寒流",
+"vi": "Dòng biển lạnh Pê-ru"
+},
+"s6-01467": {
+"zh": "西风漂流",
+"vi": "Dòng biển Gió Tây"
+},
+"s6-01469": {
+"zh": "墨西哥湾暖流",
+"vi": "Dòng biển nóng Gơn-xtrim"
+},
+"s6-01470": {
+"zh": "北大西洋暖流",
+"vi": "Dòng biển nóng Bắc Đại Tây Dương"
+},
+"s6-01471": {
+"zh": "拉布拉多寒流",
+"vi": "Dòng biển lạnh La-bra-đo"
+},
+"s6-01472": {
+"zh": "东格陵兰寒流",
+"vi": "Dòng biển lạnh Đông Grơn-len"
+},
+"s6-01473": {
+"zh": "加那利寒流",
+"vi": "Dòng biển lạnh Ca-na-ri"
+},
+"s6-01474": {
+"zh": "几内亚暖流",
+"vi": "Dòng biển nóng Ghi-nê"
+},
+"s6-01476": {
+"zh": "巴西暖流",
+"vi": "Dòng biển nóng Bra-xin"
+},
+"s6-01477": {
+"zh": "本格拉寒流",
+"vi": "Dòng biển lạnh Ben-ghê-la"
+},
+"s6-01480": {
+"zh": "厄加勒斯暖流",
+"vi": "Dòng biển nóng A-gu-lát"
+},
+"s6-01482": {
+"zh": "北赤道暖流",
+"vi": "Dòng biển nóng Bắc Xích Đạo"
+},
+"s6-01483": {
+"zh": "暖流",
+"vi": "Dòng biển nóng"
+},
+"s6-01484": {
+"zh": "寒流",
+"vi": "Dòng biển lạnh"
+},
+"s6-01485": {
+"zh": "正文未归类",
+"vi": "Nội dung chính chưa phân loại"
+},
+"s6-01486": {
+"zh": "纬向流动",
+"vi": "Chảy theo vĩ tuyến"
+},
+"s6-01487": {
+"zh": "季风转换期",
+"vi": "Thời kì chuyển mùa gió"
+},
+"s6-01488": {
+"zh": "不适用",
+"vi": "Không áp dụng"
+},
+"s6-01500": {
+"zh": "离岸风",
+"vi": "Gió thổi từ bờ ra"
+},
+"s6-01510": {
+"zh": "海面水温",
+"vi": "Nhiệt độ mặt biển"
+},
+"s6-01516": {
+"zh": "纽芬兰岛附近",
+"vi": "Gần đảo Niu-phao-len"
+},
+"s6-01517": {
+"zh": "秘鲁沿海",
+"vi": "Ven biển Pê-ru"
+},
+"s6-01519": {
+"zh": "北印度洋",
+"vi": "Bắc Ấn Độ Dương"
+},
+"s6-01534": {
+"zh": "表层水温（推算）",
+"vi": "Nhiệt độ nước tầng mặt (tính toán)"
+},
+"s6-01538": {
+"zh": "环流方向",
+"vi": "Chiều hoàn lưu"
+},
+"s6-01542": {
+"zh": "深度水温",
+"vi": "Nhiệt độ theo độ sâu"
+},
+"s6-01543": {
+"zh": "随观察深度",
+"vi": "Theo độ sâu quan sát"
+},
+"s6-01545": {
+"zh": "观察深度",
+"vi": "Độ sâu quan sát"
+},
+"s6-01546": {
+"zh": "离岸风（上升流）",
+"vi": "Gió từ bờ ra (nước trồi)"
+},
+"s6-01547": {
+"zh": "寒暖流交汇",
+"vi": "Dòng nóng lạnh gặp nhau"
+},
+"s6-01552": {
+"zh": "经向流",
+"vi": "Dòng theo kinh tuyến"
+},
+"s6-01553": {
+"zh": "纬向流",
+"vi": "Dòng theo vĩ tuyến"
+},
+"s6-01557": {
+"zh": "盛行风",
+"vi": "Gió thịnh hành"
+},
+"s6-01559": {
+"zh": "海水密度差异",
+"vi": "Chênh lệch khối lượng riêng nước biển"
+},
+"s6-01568": {
+"zh": "③ 中高纬",
+"vi": "③ Vĩ độ trung bình – cao"
+},
+"s6-01571": {
+"zh": "随季节反转",
+"vi": "Đảo chiều theo mùa"
+},
+"s6-01584": {
+"zh": "洋流的流速",
+"vi": "Tốc độ chảy của dòng biển"
+},
+"s6-01590": {
+"zh": "全年向东",
+"vi": "Quanh năm chảy về phía đông"
+},
+"s6-01596": {
+"zh": "副热带海域",
+"vi": "Vùng biển cận nhiệt"
+},
+"s6-01597": {
+"zh": "中纬度海域",
+"vi": "Vùng biển vĩ độ trung bình"
+},
+"s6-01612": {
+"zh": "北大西洋",
+"vi": "Bắc Đại Tây Dương"
+},
+"s6-01626": {
+"zh": "公转",
+"vi": "Quanh Mặt Trời"
+},
+"s6-01628": {
+"zh": "时差",
+"vi": "Chênh lệch giờ"
+},
+"s6-01641": {
+"zh": "自西向东",
+"vi": "Từ tây sang đông"
+},
+"s6-01666": {
+"zh": "昼夜半球",
+"vi": "Bán cầu ngày, bán cầu đêm"
+},
+"s6-01670": {
+"zh": "昼半球 ｜ 夜半球",
+"vi": "Bán cầu ngày | bán cầu đêm"
+},
+"s6-01674": {
+"zh": "晨昏线",
+"vi": "Đường phân chia sáng tối"
+},
+"s6-01682": {
+"zh": "晨线昏线",
+"vi": "Đường sáng, đường tối"
+},
+"s6-01698": {
+"zh": "地方时",
+"vi": "Giờ địa phương"
+},
+"s6-01705": {
+"zh": "东早西晚",
+"vi": "Đông sớm, tây muộn"
+},
+"s6-01713": {
+"zh": "时区日界线",
+"vi": "Múi giờ, đường chuyển ngày"
+},
+"s6-01720": {
+"zh": "国际日界线",
+"vi": "Đường chuyển ngày quốc tế"
+},
+"s6-01728": {
+"zh": "昼夜长短",
+"vi": "Độ dài ngày đêm"
+},
+"s6-01744": {
+"zh": "正午太阳高度",
+"vi": "Góc nhập xạ giữa trưa"
+},
+"s6-01749": {
+"zh": "正午太阳方向",
+"vi": "Hướng Mặt Trời lúc giữa trưa"
+},
+"s6-01750": {
+"zh": "直射点",
+"vi": "Điểm lên thiên đỉnh"
+},
+"s6-01758": {
+"zh": "考核 · 时差",
+"vi": "Kiểm tra · Chênh lệch giờ"
+},
+"s6-01763": {
+"zh": "时区差",
+"vi": "Chênh lệch múi giờ"
+},
+"s6-01774": {
+"zh": "晨线：由夜进昼",
+"vi": "Đường sáng: từ đêm sang ngày"
+},
+"s6-01778": {
+"zh": "国际日界线 180°",
+"vi": "Đường chuyển ngày quốc tế 180°"
+},
+"s6-01779": {
+"zh": "太阳光线（平行）",
+"vi": "Tia sáng Mặt Trời (song song)"
+},
+"s6-01789": {
+"zh": "地平线",
+"vi": "Đường chân trời"
+},
+"s6-01790": {
+"zh": "此刻太阳高度",
+"vi": "Góc cao Mặt Trời lúc này"
+},
+"s6-01792": {
+"zh": "该纬度当日",
+"vi": "Vĩ độ này, trong ngày"
+},
+"s6-01800": {
+"zh": "昼弧与夜弧",
+"vi": "Cung ngày và cung đêm"
+},
+"s6-01801": {
+"zh": "时区与日界线",
+"vi": "Múi giờ và đường chuyển ngày"
+},
+"s6-01803": {
+"zh": "各纬度昼长（时）",
+"vi": "Độ dài ngày theo vĩ độ (giờ)"
+},
+"s6-01819": {
+"zh": "② 公转",
+"vi": "② Quanh Mặt Trời"
+},
+"s6-01829": {
+"zh": "1 年；地球公转",
+"vi": "1 năm; Trái Đất chuyển động quanh Mặt Trời"
+},
+"s6-01831": {
+"zh": "24 时；地球公转",
+"vi": "24 giờ; Trái Đất chuyển động quanh Mặt Trời"
+},
+"s6-01835": {
+"zh": "日界线",
+"vi": "Đường chuyển ngày"
+},
+"s6-01838": {
+"zh": "⑤ 时差",
+"vi": "⑤ Chênh lệch giờ"
+},
+"s6-01845": {
+"zh": "⑥ 日界线",
+"vi": "⑥ Đường chuyển ngày"
+},
+"s6-01854": {
+"zh": "昼夜等长",
+"vi": "Ngày đêm dài bằng nhau"
+},
+"s6-01855": {
+"zh": "昼短夜长",
+"vi": "Ngày ngắn đêm dài"
+},
+"s6-01858": {
+"zh": "地球转 / 停",
+"vi": "Trái Đất quay / dừng"
+},
+"s6-01892": {
+"zh": "北京地方时 22:30",
+"vi": "Giờ địa phương Bắc Kinh 22:30"
+},
+"s7-00015": {
+"zh": "西太平洋暖池",
+"vi": "Bể nước ấm Tây Thái Bình Dương"
+},
+"s7-00018": {
+"zh": "东太平洋冷舌",
+"vi": "Lưỡi nước lạnh Đông Thái Bình Dương"
+},
+"s7-00028": {
+"zh": "蒸发—凝结 = 潜热",
+"vi": "Bốc hơi – ngưng tụ = ẩn nhiệt"
+},
+"s7-00032": {
+"zh": "风驱动海水",
+"vi": "Gió đẩy nước biển"
+},
+"s7-00043": {
+"zh": "冷水上涌",
+"vi": "Nước lạnh trồi lên"
+},
+"s7-00044": {
+"zh": "东岸更冷",
+"vi": "Bờ đông lạnh hơn"
+},
+"s7-00045": {
+"zh": "温差更大",
+"vi": "Chênh nhiệt lớn hơn"
+},
+"s7-00057": {
+"zh": "热空气上升",
+"vi": "Không khí nóng bốc lên"
+},
+"s7-00058": {
+"zh": "东侧下沉",
+"vi": "Phía đông đi xuống"
+},
+"s7-00059": {
+"zh": "闭合环流",
+"vi": "Hoàn lưu khép kín"
+},
+"s7-00073": {
+"zh": "东涝西旱",
+"vi": "Đông lụt tây hạn"
+},
+"s7-00074": {
+"zh": "温差减小",
+"vi": "Chênh nhiệt giảm"
+},
+"s7-00075": {
+"zh": "信风减弱",
+"vi": "Tín phong yếu đi"
+},
+"s7-00102": {
+"zh": "东旱西涝",
+"vi": "Đông hạn tây lụt"
+},
+"s7-00103": {
+"zh": "温差增大",
+"vi": "Chênh nhiệt tăng"
+},
+"s7-00130": {
+"zh": "信风（自东向西）",
+"vi": "Tín phong (từ đông sang tây)"
+},
+"s7-00138": {
+"zh": "东西海温差",
+"vi": "Chênh nhiệt đông – tây"
+},
+"s7-00139": {
+"zh": "东太平洋海温",
+"vi": "Nhiệt độ nước Đông TBD"
+},
+"s7-00140": {
+"zh": "东侧垂直",
+"vi": "Thẳng đứng phía đông"
+},
+"s7-00142": {
+"zh": "东岸涌升强度",
+"vi": "Cường độ nước trồi bờ đông"
+},
+"s7-00144": {
+"zh": "按物理公式",
+"vi": "Theo công thức vật lý"
+},
+"s7-00154": {
+"zh": "东岸下沉消失",
+"vi": "Bờ đông hết đi xuống"
+},
+"s7-00161": {
+"zh": "陆地蒸发",
+"vi": "Bốc hơi trên lục địa"
+},
+"s7-00162": {
+"zh": "植物蒸腾",
+"vi": "Thoát hơi nước của thực vật"
+},
+"s7-00163": {
+"zh": "火山喷发",
+"vi": "Núi lửa phun trào"
+},
+"s7-00167": {
+"zh": "长波辐射",
+"vi": "Bức xạ sóng dài"
+},
+"s7-00181": {
+"zh": "两岸一样暖",
+"vi": "Hai bờ ấm như nhau"
+},
+"s7-00182": {
+"zh": "东岸暖、西岸冷",
+"vi": "Bờ đông ấm, bờ tây lạnh"
+},
+"s7-00196": {
+"zh": "两岸都不变",
+"vi": "Hai bờ đều không đổi"
+},
+"s7-00199": {
+"zh": "拉尼娜现象指",
+"vi": "Hiện tượng La Niña là"
+},
+"s7-00200": {
+"zh": "东西温差减小",
+"vi": "Chênh lệch nhiệt đông – tây giảm"
+},
+"s7-00201": {
+"zh": "信风消失",
+"vi": "Tín phong biến mất"
+},
+"s7-00215": {
+"zh": "大气上界",
+"vi": "Giới hạn trên khí quyển"
+},
+"s7-00217": {
+"zh": "大气受热过程",
+"vi": "Quá trình nhận nhiệt của khí quyển"
+},
+"s7-00232": {
+"zh": "地球表面",
+"vi": "Bề mặt Trái Đất"
+},
+"s7-00235": {
+"zh": "月球表面",
+"vi": "Bề mặt Mặt Trăng"
+},
+"s7-00243": {
+"zh": "小部分被削弱",
+"vi": "Phần nhỏ bị suy yếu"
+},
+"s7-00253": {
+"zh": "地面吸收",
+"vi": "Mặt đất hấp thụ"
+},
+"s7-00272": {
+"zh": "维恩位移定律（const）",
+"vi": "Định luật dịch chuyển Wien (const)"
+},
+"s7-00302": {
+"zh": "保温作用",
+"vi": "Tác dụng giữ nhiệt"
+},
+"s7-00317": {
+"zh": "白天更少",
+"vi": "Ban ngày ít hơn"
+},
+"s7-00318": {
+"zh": "夜间更暖",
+"vi": "Ban đêm ấm hơn"
+},
+"s7-00319": {
+"zh": "晴夜易霜冻",
+"vi": "Đêm quang dễ có sương muối"
+},
+"s7-00332": {
+"zh": "只吃长波",
+"vi": "Chỉ hấp thụ sóng dài"
+},
+"s7-00333": {
+"zh": "白天读数不变",
+"vi": "Số đọc ban ngày không đổi"
+},
+"s7-00334": {
+"zh": "通向全球变暖",
+"vi": "Dẫn tới nóng lên toàn cầu"
+},
+"s7-00342": {
+"zh": "月球对照",
+"vi": "Đối chứng Mặt Trăng"
+},
+"s7-00348": {
+"zh": "没有削弱",
+"vi": "Không có suy yếu"
+},
+"s7-00349": {
+"zh": "没有逆辐射",
+"vi": "Không có bức xạ ngược"
+},
+"s7-00350": {
+"zh": "温差大得多",
+"vi": "Biên độ nhiệt lớn hơn nhiều"
+},
+"s7-00363": {
+"zh": "加温室气体",
+"vi": "Thêm khí nhà kính"
+},
+"s7-00371": {
+"zh": "大气逆辐射",
+"vi": "Bức xạ ngược khí quyển"
+},
+"s7-00372": {
+"zh": "昼夜温差",
+"vi": "Biên độ nhiệt ngày đêm"
+},
+"s7-00374": {
+"zh": "夜间净损失",
+"vi": "Mất ròng ban đêm"
+},
+"s7-00377": {
+"zh": "地表反照率",
+"vi": "Suất phản chiếu bề mặt"
+},
+"s7-00381": {
+"zh": "示意值",
+"vi": "Giá trị minh hoạ"
+},
+"s7-00382": {
+"zh": "太阳辐射",
+"vi": "Bức xạ Mặt Trời"
+},
+"s7-00383": {
+"zh": "物理公式",
+"vi": "Công thức vật lý"
+},
+"s7-00390": {
+"zh": "全球平均",
+"vi": "Trung bình toàn cầu"
+},
+"s7-00396": {
+"zh": "年均",
+"vi": "Trung bình năm"
+},
+"s7-00397": {
+"zh": "云与大气反射",
+"vi": "Mây và khí quyển phản xạ"
+},
+"s7-00398": {
+"zh": "大气吸收",
+"vi": "Khí quyển hấp thụ"
+},
+"s7-00399": {
+"zh": "地面反射",
+"vi": "Mặt đất phản xạ"
+},
+"s7-00400": {
+"zh": "地面辐射",
+"vi": "Bức xạ mặt đất"
+},
+"s7-00401": {
+"zh": "透过大气（示意）",
+"vi": "Xuyên qua khí quyển (minh hoạ)"
+},
+"s7-00402": {
+"zh": "全部射向宇宙",
+"vi": "Toàn bộ thoát ra vũ trụ"
+},
+"s7-00412": {
+"zh": "只有吸收",
+"vi": "Chỉ có hấp thụ"
+},
+"s7-00413": {
+"zh": "吸收和反射",
+"vi": "Hấp thụ và phản xạ"
+},
+"s7-00414": {
+"zh": "只有反射",
+"vi": "Chỉ có phản xạ"
+},
+"s7-00417": {
+"zh": "② 短波长波",
+"vi": "② Sóng ngắn, sóng dài"
+},
+"s7-00420": {
+"zh": "两者都是短波",
+"vi": "Cả hai đều là sóng ngắn"
+},
+"s7-00422": {
+"zh": "两者波长相同",
+"vi": "Hai loại có bước sóng như nhau"
+},
+"s7-00445": {
+"zh": "月球自转更慢",
+"vi": "Mặt Trăng tự quay chậm hơn"
+},
+"s7-00454": {
+"zh": "能破坏臭氧层",
+"vi": "Phá huỷ được tầng ozone"
+},
+"s7-00480": {
+"zh": "直射点带",
+"vi": "Dải lên thiên đỉnh"
+},
+"s7-00482": {
+"zh": "观测点",
+"vi": "Điểm quan sát"
+},
+"s7-00484": {
+"zh": "五带",
+"vi": "Năm vành đai nhiệt"
+},
+"s7-00486": {
+"zh": "黄赤交角",
+"vi": "Góc hoàng – xích"
+},
+"s7-00501": {
+"zh": "回归运动",
+"vi": "Chuyển động biểu kiến"
+},
+"s7-00507": {
+"zh": "二分二至",
+"vi": "Hai phân hai chí"
+},
+"s7-00508": {
+"zh": "回归年",
+"vi": "Năm chí tuyến"
+},
+"s7-00509": {
+"zh": "逐渐南移",
+"vi": "Dần dịch về nam"
+},
+"s7-00521": {
+"zh": "直射点 90°",
+"vi": "Điểm lên thiên đỉnh 90°"
+},
+"s7-00531": {
+"zh": "纬度分布",
+"vi": "Phân bố theo vĩ độ"
+},
+"s7-00547": {
+"zh": "年内变化",
+"vi": "Thay đổi trong năm"
+},
+"s7-00552": {
+"zh": "一年两次直射",
+"vi": "Một năm hai lần lên thiên đỉnh"
+},
+"s7-00553": {
+"zh": "最大值 90°",
+"vi": "Giá trị lớn nhất 90°"
+},
+"s7-00561": {
+"zh": "正午方向",
+"vi": "Hướng giữa trưa"
+},
+"s7-00583": {
+"zh": "南北半球相反",
+"vi": "Hai bán cầu ngược nhau"
+},
+"s7-00584": {
+"zh": "气候统计口径",
+"vi": "Cách chia theo khí hậu"
+},
+"s7-00598": {
+"zh": "回归线与极圈",
+"vi": "Chí tuyến và vòng cực"
+},
+"s7-00599": {
+"zh": "粗略划分",
+"vi": "Chia một cách khái quát"
+},
+"s7-00600": {
+"zh": "太阳辐射递减",
+"vi": "Bức xạ Mặt Trời giảm dần"
+},
+"s7-00608": {
+"zh": "考核 · 点带",
+"vi": "Kiểm tra · chọn vành đai"
+},
+"s7-00614": {
+"zh": "点选 · 判带",
+"vi": "Chọn điểm · xác định vành đai"
+},
+"s7-00615": {
+"zh": "直射次数",
+"vi": "Số lần lên thiên đỉnh"
+},
+"s7-00616": {
+"zh": "极昼极夜",
+"vi": "Ngày, đêm địa cực"
+},
+"s7-00626": {
+"zh": "赤道平面",
+"vi": "Mặt phẳng xích đạo"
+},
+"s7-00627": {
+"zh": "地轴",
+"vi": "Trục Trái Đất"
+},
+"s7-00673": {
+"zh": "寒带（极圈以内）",
+"vi": "hàn đới (trong vòng cực)"
+},
+"s7-00676": {
+"zh": "有极昼和极夜",
+"vi": "có ngày địa cực và đêm địa cực"
+},
+"s7-00679": {
+"zh": "直射点纬度",
+"vi": "Vĩ độ điểm lên thiên đỉnh"
+},
+"s7-00680": {
+"zh": "近似值",
+"vi": "Giá trị gần đúng"
+},
+"s7-00681": {
+"zh": "当地季节",
+"vi": "Mùa địa phương"
+},
+"s7-00684": {
+"zh": "观测点纬度",
+"vi": "Vĩ độ điểm quan sát"
+},
+"s7-00698": {
+"zh": "一个恒星年",
+"vi": "Một năm thiên văn (năm sao)"
+},
+"s7-00699": {
+"zh": "一个回归年",
+"vi": "Một năm chí tuyến"
+},
+"s7-00700": {
+"zh": "一个朔望月",
+"vi": "Một tháng giao hội (tuần trăng)"
+},
+"s7-00706": {
+"zh": "④ 纬度分布",
+"vi": "④ Phân bố theo vĩ độ"
+},
+"s7-00710": {
+"zh": "⑤ 年内变化",
+"vi": "⑤ Thay đổi trong năm"
+},
+"s7-00721": {
+"zh": "地平线下",
+"vi": "Dưới đường chân trời"
+},
+"s7-00723": {
+"zh": "⑦ 五带",
+"vi": "⑦ Năm vành đai"
+},
+"s7-00724": {
+"zh": "五带的界线是",
+"vi": "Ranh giới của năm vành đai nhiệt là"
+},
+"s7-00762": {
+"zh": "地表岩面",
+"vi": "Mặt đá trên mặt đất"
+},
+"s7-00765": {
+"zh": "锥峰群",
+"vi": "Quần thể đỉnh hình nón"
+},
+"s7-00767": {
+"zh": "地下溶洞",
+"vi": "Hang động ngầm"
+},
+"s7-00776": {
+"zh": "有水才溶",
+"vi": "Có nước mới hoà tan"
+},
+"s7-00777": {
+"zh": "适当条件",
+"vi": "Điều kiện thích hợp"
+},
+"s7-00789": {
+"zh": "溶沟 → 洼地（坝子）",
+"vi": "Rãnh các-xtơ → vùng trũng (bá-tử)"
+},
+"s7-00792": {
+"zh": "底部平坦",
+"vi": "Đáy bằng phẳng"
+},
+"s7-00801": {
+"zh": "峰丛→峰林",
+"vi": "Cụm đỉnh→rừng đá"
+},
+"s7-00807": {
+"zh": "洼地边缘",
+"vi": "Rìa vùng trũng"
+},
+"s7-00808": {
+"zh": "锥状耸立",
+"vi": "Dựng đứng hình nón"
+},
+"s7-00809": {
+"zh": "残留岩体",
+"vi": "Khối đá sót lại"
+},
+"s7-00823": {
+"zh": "基座消失",
+"vi": "Nền chân biến mất"
+},
+"s7-00824": {
+"zh": "零星岩块",
+"vi": "Khối đá lác đác"
+},
+"s7-00825": {
+"zh": "顺序不能颠倒",
+"vi": "Không được đảo thứ tự"
+},
+"s7-00837": {
+"zh": "v ∝ 降水 · 随温度升",
+"vi": "v ∝ lượng mưa · tăng theo nhiệt độ"
+},
+"s7-00840": {
+"zh": "温度升高 → 更快",
+"vi": "Nhiệt độ tăng → nhanh hơn"
+},
+"s7-00841": {
+"zh": "西南发育好",
+"vi": "Tây Nam phát triển mạnh"
+},
+"s7-00854": {
+"zh": "向下发育",
+"vi": "Phát triển xuống dưới"
+},
+"s7-00855": {
+"zh": "向上发育",
+"vi": "Phát triển lên trên"
+},
+"s7-00878": {
+"zh": "地表起伏度",
+"vi": "Độ lồi lõm mặt đất"
+},
+"s7-00879": {
+"zh": "累积溶蚀深度",
+"vi": "Độ sâu hoà tan tích luỹ"
+},
+"s7-00880": {
+"zh": "本阶段用时",
+"vi": "Thời gian giai đoạn"
+},
+"s7-00881": {
+"zh": "洞内堆积",
+"vi": "Lắng đọng trong hang"
+},
+"s7-00882": {
+"zh": "演化阶段",
+"vi": "Giai đoạn phát triển"
+},
+"s7-00884": {
+"zh": "年均温",
+"vi": "Nhiệt độ TB năm"
+},
+"s7-00885": {
+"zh": "溶洞高度",
+"vi": "Chiều cao hang"
+},
+"s7-00886": {
+"zh": "洞内堆积时间",
+"vi": "Thời gian lắng đọng"
+},
+"s7-00889": {
+"zh": "洼地（坝子）",
+"vi": "Vùng trũng (bá-tử)"
+},
+"s7-00904": {
+"zh": "风蚀作用",
+"vi": "Tác dụng bào mòn của gió"
+},
+"s7-00905": {
+"zh": "流水搬运堆积",
+"vi": "Dòng chảy vận chuyển, bồi tụ"
+},
+"s7-00906": {
+"zh": "冰川刨蚀",
+"vi": "Băng hà bào mòn"
+},
+"s7-00910": {
+"zh": "广西、贵州、云南",
+"vi": "Quảng Tây, Quý Châu, Vân Nam"
+},
+"s7-00911": {
+"zh": "东北平原",
+"vi": "Đồng bằng Đông Bắc"
+},
+"s7-00912": {
+"zh": "内蒙古高原",
+"vi": "Cao nguyên Nội Mông"
+},
+"s7-00919": {
+"zh": "是峰林的一种",
+"vi": "Là một loại rừng đá"
+},
+"s7-00921": {
+"zh": "④ 峰丛峰林",
+"vi": "④ Cụm đỉnh, rừng đá"
+},
+"s7-00924": {
+"zh": "峰丛比峰林矮",
+"vi": "Cụm đỉnh thấp hơn rừng đá"
+},
+"s7-00926": {
+"zh": "两者无法区分",
+"vi": "Không phân biệt được"
+},
+"s7-00928": {
+"zh": "⑤ 演变顺序",
+"vi": "⑤ Thứ tự phát triển"
+},
+"s7-00939": {
+"zh": "只有一层",
+"vi": "Chỉ có một tầng"
+},
+"s7-00940": {
+"zh": "都在地表",
+"vi": "Đều nằm trên mặt đất"
+},
+"s7-00941": {
+"zh": "⑦ 石钟乳石笋",
+"vi": "⑦ Thạch nhũ, măng đá"
+},
+"s7-00943": {
+"zh": "都在洞顶向下",
+"vi": "Đều từ trần hang xuống dưới"
+},
+"s7-00944": {
+"zh": "都在洞底向上",
+"vi": "Đều từ đáy hang lên trên"
+},
+"s7-00954": {
+"zh": "旋转、缩放岩块",
+"vi": "Xoay, thu phóng khối đá"
+},
+"s7-00981": {
+"zh": "山区河谷",
+"vi": "Thung lũng miền núi"
+},
+"s7-00983": {
+"zh": "山前冲积扇",
+"vi": "Quạt bồi tích chân núi"
+},
+"s7-00984": {
+"zh": "冲积扇",
+"vi": "Quạt bồi tích"
+},
+"s7-00986": {
+"zh": "曲流与河漫滩",
+"vi": "Khúc uốn và bãi bồi"
+},
+"s7-00987": {
+"zh": "曲流河漫滩",
+"vi": "Khúc uốn, bãi bồi"
+},
+"s7-00989": {
+"zh": "河口三角洲",
+"vi": "Tam giác châu cửa sông"
+},
+"s7-00990": {
+"zh": "三角洲",
+"vi": "Tam giác châu"
+},
+"s7-00992": {
+"zh": "认识沙盘",
+"vi": "Làm quen sa bàn"
+},
+"s7-00999": {
+"zh": "垂直放大 ×6",
+"vi": "Phóng đại theo chiều đứng ×6"
+},
+"s7-01006": {
+"zh": "山区V形谷",
+"vi": "Thung lũng chữ V"
+},
+"s7-01020": {
+"zh": "河谷剖面",
+"vi": "Mặt cắt thung lũng"
+},
+"s7-01026": {
+"zh": "切块 · 垂直放大 ×10",
+"vi": "Khối cắt · phóng đại chiều đứng ×10"
+},
+"s7-01042": {
+"zh": "搬不动才堆",
+"vi": "Không chở nổi mới bồi"
+},
+"s7-01049": {
+"zh": "凹岸凸岸",
+"vi": "Bờ lõm, bờ lồi"
+},
+"s7-01055": {
+"zh": "凹岸＝弯道外侧",
+"vi": "Bờ lõm = phía ngoài khúc uốn"
+},
+"s7-01056": {
+"zh": "凸岸＝弯道内侧",
+"vi": "Bờ lồi = phía trong khúc uốn"
+},
+"s7-01092": {
+"zh": "考核：汛期来了",
+"vi": "Kiểm tra: mùa lũ tới rồi"
+},
+"s7-01098": {
+"zh": "第 5 s 自动放汛期",
+"vi": "Giây thứ 5 tự động vào mùa lũ"
+},
+"s7-01113": {
+"zh": "流速",
+"vi": "Tốc độ dòng chảy"
+},
+"s7-01115": {
+"zh": "最大粒径",
+"vi": "Cỡ hạt lớn nhất"
+},
+"s7-01117": {
+"zh": "河谷宽深比",
+"vi": "Tỉ số rộng/sâu thung lũng"
+},
+"s7-01119": {
+"zh": "冲淤判据",
+"vi": "Tiêu chí xói – bồi"
+},
+"s7-01120": {
+"zh": "数值判据",
+"vi": "Tiêu chí định lượng"
+},
+"s7-01125": {
+"zh": "以搬运为主",
+"vi": "Chủ yếu vận chuyển"
+},
+"s7-01127": {
+"zh": "河谷加深",
+"vi": "Thung lũng sâu thêm"
+},
+"s7-01128": {
+"zh": "河谷展宽",
+"vi": "Thung lũng mở rộng"
+},
+"s7-01129": {
+"zh": "搬运减弱",
+"vi": "Vận chuyển giảm"
+},
+"s7-01130": {
+"zh": "河口沉积",
+"vi": "Lắng đọng ở cửa sông"
+},
+"s7-01131": {
+"zh": "尚未沉积",
+"vi": "Chưa lắng đọng"
+},
+"s7-01132": {
+"zh": "幼年期",
+"vi": "Giai đoạn trẻ"
+},
+"s7-01133": {
+"zh": "壮年期",
+"vi": "Giai đoạn trưởng thành"
+},
+"s7-01134": {
+"zh": "老年期",
+"vi": "Giai đoạn già"
+},
+"s7-01135": {
+"zh": "观察河段",
+"vi": "Đoạn sông quan sát"
+},
+"s7-01137": {
+"zh": "曲流段",
+"vi": "Đoạn khúc uốn"
+},
+"s7-01141": {
+"zh": "平水期",
+"vi": "Nước trung bình"
+},
+"s7-01142": {
+"zh": "沿程流速",
+"vi": "Tốc độ dòng chảy dọc sông"
+},
+"s7-01143": {
+"zh": "— 流速 · ○ 当前河段",
+"vi": "— tốc độ dòng chảy · ○ đoạn sông hiện tại"
+},
+"s7-01149": {
+"zh": "以侧蚀为主",
+"vi": "Chủ yếu xâm thực ngang"
+},
+"s7-01151": {
+"zh": "流水溶蚀",
+"vi": "Nước chảy hoà tan"
+},
+"s7-01155": {
+"zh": "向南推移",
+"vi": "Dịch về phía nam"
+},
+"s7-01156": {
+"zh": "向北推移",
+"vi": "Dịch về phía bắc"
+},
+"s7-01157": {
+"zh": "先南后北",
+"vi": "Trước về nam sau về bắc"
+},
+"s7-01160": {
+"zh": "冲积扇发育在",
+"vi": "Quạt bồi tích phát triển ở"
+},
+"s7-01161": {
+"zh": "河流入海口",
+"vi": "Cửa sông đổ ra biển"
+},
+"s7-01163": {
+"zh": "河流中下游",
+"vi": "Trung, hạ lưu sông"
+},
+"s7-01171": {
+"zh": "河流落差变大",
+"vi": "Chênh cao của sông tăng"
+},
+"s7-01173": {
+"zh": "村镇",
+"vi": "Làng thị trấn"
+},
+"s7-01175": {
+"zh": "河漫滩最低处",
+"vi": "Chỗ thấp nhất của bãi bồi"
+},
+"s7-01177": {
+"zh": "凹岸陡崖上",
+"vi": "Trên vách dốc bờ lõm"
+},
+"s7-01178": {
+"zh": "河口沙洲上",
+"vi": "Trên cồn cát cửa sông"
+},
+"s7-01187": {
+"zh": "扇顶：颗粒最粗",
+"vi": "Đỉnh quạt: hạt thô nhất"
+},
+"s7-01188": {
+"zh": "扇缘：颗粒最细",
+"vi": "Rìa quạt: hạt mịn nhất"
+},
+"s7-01195": {
+"zh": "谷宽",
+"vi": "Bề rộng thung lũng"
+},
+"s7-01196": {
+"zh": "谷深",
+"vi": "Độ sâu thung lũng"
+},
+"s7-01223": {
+"zh": "母质与母岩层",
+"vi": "Tầng vật liệu mẹ và tầng đá mẹ"
+},
+"s7-01272": {
+"zh": "湿热 → 快而黏",
+"vi": "Nóng ẩm → nhanh và nhiều sét"
+},
+"s7-01273": {
+"zh": "冷湿 → 有机质多",
+"vi": "Lạnh ẩm → nhiều chất hữu cơ"
+},
+"s7-01286": {
+"zh": "山顶粗 → 洼地细",
+"vi": "Đỉnh núi thô → vùng trũng mịn"
+},
+"s7-01287": {
+"zh": "壤土最宜耕作",
+"vi": "Đất thịt thích hợp canh tác nhất"
+},
+"s7-01327": {
+"zh": "多解可接受",
+"vi": "Chấp nhận nhiều đáp án"
+},
+"s7-01338": {
+"zh": "淋溶层",
+"vi": "Tầng rửa trôi"
+},
+"s7-01340": {
+"zh": "母质层",
+"vi": "Tầng vật liệu mẹ"
+},
+"s7-01342": {
+"zh": "耕作层",
+"vi": "Tầng canh tác"
+},
+"s7-01344": {
+"zh": "自然土层",
+"vi": "Tầng đất tự nhiên"
+},
+"s7-01345": {
+"zh": "质地",
+"vi": "Thành phần cơ giới"
+},
+"s7-01350": {
+"zh": "土层总厚度",
+"vi": "Tổng độ dày tầng đất"
+},
+"s7-01351": {
+"zh": "表层有机质",
+"vi": "Chất hữu cơ tầng mặt"
+},
+"s7-01353": {
+"zh": "植被覆盖率",
+"vi": "Độ che phủ thực vật"
+},
+"s7-01354": {
+"zh": "成土母质",
+"vi": "Vật liệu tạo đất"
+},
+"s7-01355": {
+"zh": "地貌部位",
+"vi": "Vị trí địa hình"
+},
+"s7-01356": {
+"zh": "成土时间",
+"vi": "Thời gian hình thành đất"
+},
+"s7-01357": {
+"zh": "人类活动",
+"vi": "Hoạt động của con người"
+},
+"s7-01367": {
+"zh": "砂质母质",
+"vi": "Vật liệu mẹ loại cát"
+},
+"s7-01368": {
+"zh": "壤质母质",
+"vi": "Vật liệu mẹ loại thịt"
+},
+"s7-01369": {
+"zh": "黏质母质",
+"vi": "Vật liệu mẹ loại sét"
+},
+"s7-01373": {
+"zh": "低平洼地",
+"vi": "Vùng trũng thấp bằng"
+},
+"s7-01375": {
+"zh": "耕作·只用不养",
+"vi": "Canh tác · chỉ khai thác"
+},
+"s7-01376": {
+"zh": "耕作·种养结合",
+"vi": "Canh tác · kết hợp trồng trọt – chăn nuôi"
+},
+"s7-01407": {
+"zh": "没有规律",
+"vi": "Không có quy luật"
+},
+"s7-01417": {
+"zh": "⑧ 人类活动",
+"vi": "⑧ Hoạt động của con người"
+},
+"s7-01425": {
+"zh": "显示设备名",
+"vi": "Hiện tên thiết bị"
+},
+"s7-01433": {
+"zh": "无植被",
+"vi": "Không thực vật"
+},
+"s7-01455": {
+"zh": "垂直断层",
+"vi": "Đứt gãy thẳng đứng"
+},
+"s7-01462": {
+"zh": "波状弯曲",
+"vi": "Uốn cong dạng sóng"
+},
+"s7-01475": {
+"zh": "形态 + 层序",
+"vi": "Hình thái + thứ tự lớp"
+},
+"s7-01490": {
+"zh": "张力裂隙",
+"vi": "Khe nứt do lực căng"
+},
+"s7-01492": {
+"zh": "地形倒置",
+"vi": "Địa hình đảo ngược"
+},
+"s7-01505": {
+"zh": "水平位移",
+"vi": "Dịch chuyển ngang"
+},
+"s7-01507": {
+"zh": "同层同号",
+"vi": "Cùng lớp cùng số"
+},
+"s7-01520": {
+"zh": "断块山",
+"vi": "Núi khối tảng"
+},
+"s7-01522": {
+"zh": "沿线破碎",
+"vi": "Vỡ vụn dọc đứt gãy"
+},
+"s7-01534": {
+"zh": "未倒置",
+"vi": "Chưa đảo ngược"
+},
+"s7-01543": {
+"zh": "褶皱振幅",
+"vi": "Biên độ uốn nếp"
+},
+"s7-01544": {
+"zh": "岩块高差",
+"vi": "Chênh cao khối đá"
+},
+"s7-01545": {
+"zh": "同层错开量",
+"vi": "Lượng xê dịch cùng lớp"
+},
+"s7-01547": {
+"zh": "剥蚀时间",
+"vi": "Thời gian bóc mòn"
+},
+"s7-01549": {
+"zh": "水平错距",
+"vi": "Cự li xê dịch ngang"
+},
+"s7-01550": {
+"zh": "断层落差",
+"vi": "Biên độ đứt gãy"
+},
+"s7-01552": {
+"zh": "差值示意",
+"vi": "Hiệu số minh hoạ"
+},
+"s7-01553": {
+"zh": "无断层",
+"vi": "Không đứt gãy"
+},
+"s7-01554": {
+"zh": "垂直位移",
+"vi": "Dịch chuyển thẳng đứng"
+},
+"s7-01564": {
+"zh": "轴部出露",
+"vi": "Lộ ở phần trục"
+},
+"s7-01566": {
+"zh": "① 褶皱成因",
+"vi": "① Nguyên nhân uốn nếp"
+},
+"s7-01568": {
+"zh": "岩层被拉断",
+"vi": "Lớp đá bị kéo đứt"
+},
+"s7-01570": {
+"zh": "岩浆侵入",
+"vi": "Mắc-ma xâm nhập"
+},
+"s7-01572": {
+"zh": "② 背斜向斜",
+"vi": "② Nếp lồi, nếp lõm"
+},
+"s7-01580": {
+"zh": "核部老、两翼新",
+"vi": "Lõi già, hai cánh trẻ"
+},
+"s7-01581": {
+"zh": "核部新、两翼老",
+"vi": "Lõi trẻ, hai cánh già"
+},
+"s7-01582": {
+"zh": "各处一样老",
+"vi": "Mọi chỗ già như nhau"
+},
+"s7-01590": {
+"zh": "地下水位下降",
+"vi": "Mực nước ngầm hạ thấp"
+},
+"s7-01592": {
+"zh": "⑤ 断层位移",
+"vi": "⑤ Dịch chuyển đứt gãy"
+},
+"s7-01594": {
+"zh": "只有垂直方向",
+"vi": "Chỉ có phương thẳng đứng"
+},
+"s7-01595": {
+"zh": "只有水平方向",
+"vi": "Chỉ có phương ngang"
+},
+"s7-01597": {
+"zh": "与岩层无关",
+"vi": "Không liên quan đến lớp đá"
+},
+"s7-01600": {
+"zh": "华山、庐山、泰山",
+"vi": "Hoa Sơn, Lư Sơn, Thái Sơn"
+},
+"s7-01603": {
+"zh": "秦岭（主体）",
+"vi": "Tần Lĩnh (phần chính)"
+},
+"s7-01607": {
+"zh": "流水侵蚀成谷",
+"vi": "Dòng chảy xâm thực thành thung lũng"
+},
+"s7-01609": {
+"zh": "冰川侵蚀",
+"vi": "Băng hà xâm thực"
+},
+"s7-01610": {
+"zh": "火山口",
+"vi": "Miệng núi lửa"
+},
+"s7-01639": {
+"zh": "大气热力环流",
+"vi": "Hoàn lưu nhiệt của khí quyển"
+},
+"s7-01712": {
+"zh": "七支首尾相接",
+"vi": "Bảy nhánh nối đầu đuôi"
+},
+"s7-01788": {
+"zh": "必须是白天",
+"vi": "Phải là ban ngày"
+},
+"s7-01797": {
+"zh": "近地面风速",
+"vi": "Tốc độ gió sát mặt đất"
+},
+"s7-01799": {
+"zh": "气压梯度",
+"vi": "Gradient khí áp"
+},
+"s7-01800": {
+"zh": "近地面风",
+"vi": "Gió sát mặt đất"
+},
+"s7-01802": {
+"zh": "污染企业位置",
+"vi": "Vị trí DN gây ô nhiễm"
+},
+"s7-01808": {
+"zh": "环流范围内",
+"vi": "Trong phạm vi hoàn lưu"
+},
+"s7-01809": {
+"zh": "环流范围外",
+"vi": "Ngoài phạm vi hoàn lưu"
+},
+"s7-01815": {
+"zh": "郊 → 城",
+"vi": "Ngoại ô → đô thị"
+},
+"s7-01816": {
+"zh": "整体 · 一台剖面",
+"vi": "Tổng thể · một bàn mặt cắt"
+},
+"s7-01819": {
+"zh": "地面冷热不均",
+"vi": "Mặt đất nóng lạnh không đều"
+},
+"s7-01821": {
+"zh": "地球自转",
+"vi": "Trái Đất tự quay"
+},
+"s7-01834": {
+"zh": "与温度无关",
+"vi": "Không liên quan đến nhiệt độ"
+},
+"s7-01846": {
+"zh": "沿等压面流动",
+"vi": "Chảy dọc mặt đẳng áp"
+},
+"s7-01847": {
+"zh": "与气压差无关",
+"vi": "Không liên quan đến chênh khí áp"
+},
+"s7-01849": {
+"zh": "⑥ 海陆风",
+"vi": "⑥ Gió đất – gió biển"
+},
+"s7-01851": {
+"zh": "陆地吹向海洋",
+"vi": "Từ đất liền ra biển"
+},
+"s7-01852": {
+"zh": "海洋吹向陆地",
+"vi": "Từ biển vào đất liền"
+},
+"s7-01853": {
+"zh": "两侧向中间吹",
+"vi": "Từ hai bên vào giữa"
+},
+"s7-01859": {
+"zh": "方向相同、更强",
+"vi": "Cùng hướng, mạnh hơn"
+},
+"s7-01860": {
+"zh": "不存在",
+"vi": "Không tồn tại"
+},
+"s7-01866": {
+"zh": "垂直向上",
+"vi": "Thẳng đứng lên trên"
+},
+"s7-01876": {
+"zh": "按公式",
+"vi": "Theo công thức"
+},
+"s8-00017": {
+"zh": "高山冰川",
+"vi": "Băng hà núi cao"
+},
+"s8-00018": {
+"zh": "极地冰川",
+"vi": "Băng hà vùng cực"
+},
+"s8-00035": {
+"zh": "砂田",
+"vi": "Ruộng phủ sỏi"
+},
+"s8-00040": {
+"zh": "蒸发 ⇄ 降水 + 径流",
+"vi": "Bốc hơi ⇄ giáng thuỷ + dòng chảy"
+},
+"s8-00043": {
+"zh": "海洋收支相抵",
+"vi": "Thu chi đại dương cân bằng"
+},
+"s8-00059": {
+"zh": "图 3.2 的海面「蒸发」",
+"vi": "“Bốc hơi” trên mặt biển ở Hình 3.2"
+},
+"s8-00067": {
+"zh": "蒸腾",
+"vi": "Thoát hơi nước"
+},
+"s8-00133": {
+"zh": "裸田 ↔ 砂田",
+"vi": "Ruộng trống ↔ ruộng phủ sỏi"
+},
+"s8-00166": {
+"zh": "四条路都合格",
+"vi": "Cả bốn cách đều đạt"
+},
+"s8-00175": {
+"zh": "蒸发（示意）",
+"vi": "Bốc hơi (minh hoạ)"
+},
+"s8-00176": {
+"zh": "湖面蒸发（示意）",
+"vi": "Bốc hơi mặt hồ (minh hoạ)"
+},
+"s8-00178": {
+"zh": "植物蒸腾（示意）",
+"vi": "Thoát hơi nước của thực vật (minh hoạ)"
+},
+"s8-00180": {
+"zh": "水汽输送（示意）",
+"vi": "Vận chuyển hơi nước (minh hoạ)"
+},
+"s8-00182": {
+"zh": "陆地降水（示意）",
+"vi": "Giáng thuỷ trên lục địa (minh hoạ)"
+},
+"s8-00184": {
+"zh": "海上降水（示意）",
+"vi": "Giáng thuỷ trên biển (minh hoạ)"
+},
+"s8-00186": {
+"zh": "地表径流（示意）",
+"vi": "Dòng chảy mặt (minh hoạ)"
+},
+"s8-00190": {
+"zh": "地下径流（示意）",
+"vi": "Dòng chảy ngầm (minh hoạ)"
+},
+"s8-00192": {
+"zh": "海洋收支（示意）",
+"vi": "Thu chi đại dương (minh hoạ)"
+},
+"s8-00194": {
+"zh": "田块读数（示意）",
+"vi": "Số đọc thửa ruộng (minh hoạ)"
+},
+"s8-00195": {
+"zh": "裸田：土面裸露",
+"vi": "Ruộng trống: đất để trần"
+},
+"s8-00196": {
+"zh": "砂田：砾石覆盖",
+"vi": "Ruộng phủ sỏi: lớp sỏi che phủ"
+},
+"s8-00199": {
+"zh": "陆地径流入海",
+"vi": "Dòng chảy lục địa ra biển"
+},
+"s8-00200": {
+"zh": "陆地降水",
+"vi": "Giáng thuỷ lục địa"
+},
+"s8-00201": {
+"zh": "更新周期",
+"vi": "Chu kì đổi mới"
+},
+"s8-00203": {
+"zh": "田块示意",
+"vi": "Thửa ruộng minh hoạ"
+},
+"s8-00205": {
+"zh": "水汽输送",
+"vi": "Vận chuyển hơi nước"
+},
+"s8-00206": {
+"zh": "植被覆盖度",
+"vi": "Độ che phủ thực vật"
+},
+"s8-00210": {
+"zh": "循环类型",
+"vi": "Loại vòng tuần hoàn"
+},
+"s8-00212": {
+"zh": "海陆间",
+"vi": "Biển – lục địa"
+},
+"s8-00215": {
+"zh": "地表覆盖",
+"vi": "Lớp phủ mặt đất"
+},
+"s8-00217": {
+"zh": "（本地块外）",
+"vi": " (ngoài thửa ruộng)"
+},
+"s8-00219": {
+"zh": "整体 · 一块地块",
+"vi": "Tổng thể · một thửa ruộng"
+},
+"s8-00222": {
+"zh": "蒸发（蒸腾）",
+"vi": "Bốc hơi (thoát hơi nước)"
+},
+"s8-00223": {
+"zh": "海陆变迁",
+"vi": "Biến đổi biển – lục địa"
+},
+"s8-00236": {
+"zh": "海水不会蒸发",
+"vi": "Nước biển không bốc hơi"
+},
+"s8-00239": {
+"zh": "④ 大循环",
+"vi": "④ Vòng tuần hoàn lớn"
+},
+"s8-00241": {
+"zh": "海上内循环",
+"vi": "Vòng tuần hoàn trên biển"
+},
+"s8-00242": {
+"zh": "陆地内循环",
+"vi": "Vòng tuần hoàn trên lục địa"
+},
+"s8-00244": {
+"zh": "都不是",
+"vi": "Không phải loại nào"
+},
+"s8-00251": {
+"zh": "没有变化",
+"vi": "Không thay đổi"
+},
+"s8-00255": {
+"zh": "消失在地下",
+"vi": "Biến mất trong lòng đất"
+},
+"s8-00260": {
+"zh": "⑦ 砂田",
+"vi": "⑦ Ruộng phủ sỏi"
+},
+"s8-00282": {
+"zh": "与等压线平行",
+"vi": "Song song với đường đẳng áp"
+},
+"s8-00289": {
+"zh": "假设风向",
+"vi": "Hướng gió giả định"
+},
+"s8-00290": {
+"zh": "垂直等压线",
+"vi": "Vuông góc đường đẳng áp"
+},
+"s8-00291": {
+"zh": "平行等压线",
+"vi": "Song song đường đẳng áp"
+},
+"s8-00315": {
+"zh": "等压线",
+"vi": "Đường đẳng áp"
+},
+"s8-00374": {
+"zh": "两力等长反向",
+"vi": "Hai lực bằng nhau, ngược chiều"
+},
+"s8-00375": {
+"zh": "风向 ∥ 等压线",
+"vi": "Hướng gió ∥ đường đẳng áp"
+},
+"s8-00406": {
+"zh": "右偏 → 左偏",
+"vi": "Lệch phải → lệch trái"
+},
+"s8-00407": {
+"zh": "风速不变",
+"vi": "Tốc độ gió không đổi"
+},
+"s8-00423": {
+"zh": "夹角不变",
+"vi": "Góc lệch không đổi"
+},
+"s8-00440": {
+"zh": "偏转角°",
+"vi": "Góc lệch hướng°"
+},
+"s8-00441": {
+"zh": "等压线间距",
+"vi": "Khoảng cách đẳng áp"
+},
+"s8-00446": {
+"zh": "— 风速 · ○ 当前间距",
+"vi": "— tốc độ gió · ○ khoảng cách hiện tại"
+},
+"s8-00451": {
+"zh": "等压线是",
+"vi": "Đường đẳng áp là"
+},
+"s8-00457": {
+"zh": "② 直接原因",
+"vi": "② Nguyên nhân trực tiếp"
+},
+"s8-00466": {
+"zh": "与等压线斜交",
+"vi": "Cắt chéo đường đẳng áp"
+},
+"s8-00477": {
+"zh": "与等压线垂直",
+"vi": "Vuông góc với đường đẳng áp"
+},
+"s8-00496": {
+"zh": "向右偏",
+"vi": "Lệch sang phải"
+},
+"s8-00497": {
+"zh": "向左偏",
+"vi": "Lệch sang trái"
+},
+"s8-00499": {
+"zh": "先右后左",
+"vi": "Lệch phải rồi lệch trái"
+},
+"s8-00503": {
+"zh": "与等压线",
+"vi": "So với đường đẳng áp"
+},
+"s8-00504": {
+"zh": "与梯度力",
+"vi": "So với lực gradient"
+},
+"s8-00514": {
+"zh": "北半球 · 近地面",
+"vi": "Bán cầu Bắc · sát mặt đất"
+}
+}
